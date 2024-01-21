@@ -1,1 +1,1 @@
-{"name": "Radballspieler", "id": 1305633, "predecessors": [{"name": "Radball", "id": 12707082}, {"name": "Person_(Radsport)", "id": 6517270}], "successors": []}
+{"name": "Radballspieler", "id": 1305633, "predecessors": [{"name": "Person_(Radsport)", "id": 6517270}, {"name": "Ballsport", "id": 2458510}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Gerät_mit_Bezug_zur_Enigma-Maschine", "id": 11850824, "predecessors": [{"name": "Enigma_(Maschine)", "id": 7570061}, {"name": "Kryptologisches_Gerät", "id": 2641838}], "successors": []}
+{"name": "Gerät_mit_Bezug_zur_Enigma-Maschine", "id": 11850824, "predecessors": [{"name": "Kryptologisches_Gerät", "id": 2641838}, {"name": "Kryptologie", "id": 244331}], "successors": []}

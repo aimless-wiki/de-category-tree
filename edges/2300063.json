@@ -1,1 +1,1 @@
-{"name": "Optisches_Messgerät", "id": 2300063, "predecessors": [{"name": "Messgerät", "id": 261351}, {"name": "Optische_Messtechnik", "id": 654387}, {"name": "Optisches_Instrument", "id": 248354}], "successors": []}
+{"name": "Optisches_Messgerät", "id": 2300063, "predecessors": [{"name": "Messgerät", "id": 261351}, {"name": "Optische_Messtechnik", "id": 654387}, {"name": "Optisches_Instrument", "id": 248354}], "successors": [{"name": "Bildsensor", "id": 1592578}]}
