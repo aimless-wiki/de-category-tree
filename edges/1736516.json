@@ -1,1 +1,1 @@
-{"name": "Bahnstrecke_im_Kanton_Zürich", "id": 1736516, "predecessors": [{"name": "Verkehrsbauwerk_im_Kanton_Zürich", "id": 9782567}, {"name": "Schienenverkehrsbauwerk", "id": 8494210}], "successors": []}
+{"name": "Bahnstrecke_im_Kanton_Zürich", "id": 1736516, "predecessors": [{"name": "Bauwerk_im_Kanton_Zürich", "id": 3416345}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

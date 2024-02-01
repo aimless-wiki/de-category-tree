@@ -1,1 +1,1 @@
-{"name": "R&B-Sänger", "id": 906802, "predecessors": [{"name": "R&B-Musiker", "id": 4061863}, {"name": "Sänger", "id": 235529}], "successors": []}
+{"name": "R&B-Sänger", "id": 906802, "predecessors": [{"name": "Sänger", "id": 235529}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

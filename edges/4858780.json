@@ -1,1 +1,1 @@
-{"name": "Krankheitsbild_in_Phoniatrie_und_Pädaudiologie", "id": 4858780, "predecessors": [{"name": "Krankheit", "id": 324750}, {"name": "Phoniatrie_und_Pädaudiologie", "id": 4858748}], "successors": []}
+{"name": "Krankheitsbild_in_Phoniatrie_und_Pädaudiologie", "id": 4858780, "predecessors": [{"name": "Wissen", "id": 408867}], "successors": []}

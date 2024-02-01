@@ -1,1 +1,1 @@
-{"name": "Fachwerkhaus_in_Darmstadt", "id": 11369744, "predecessors": [{"name": "Bauwerk_in_Darmstadt", "id": 2995491}, {"name": "Fachwerkgebäude", "id": 5394031}, {"name": "Fachwerkhaus", "id": 6448904}], "successors": []}
+{"name": "Fachwerkhaus_in_Darmstadt", "id": 11369744, "predecessors": [{"name": "Bauwerk_in_Darmstadt", "id": 2995491}, {"name": "Bauwerk_aus_Holz", "id": 2771929}], "successors": []}

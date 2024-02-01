@@ -1,1 +1,1 @@
-{"name": "Falschmeldung", "id": 8058286, "predecessors": [{"name": "Fälschung", "id": 425598}, {"name": "Information", "id": 12577167}, {"name": "Kommunikation", "id": 246265}], "successors": []}
+{"name": "Falschmeldung", "id": 8058286, "predecessors": [{"name": "Fälschung", "id": 425598}, {"name": "Kommunikation", "id": 246265}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

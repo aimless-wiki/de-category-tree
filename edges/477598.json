@@ -1,1 +1,1 @@
-{"name": "Ohr", "id": 477598, "predecessors": [{"name": "Medizin", "id": 236137}], "successors": [{"name": "Hören", "id": 591721}, {"name": "Ohrkrankheit", "id": 2307509}, {"name": "Audiologische_Akustik", "id": 2804483}, {"name": "Anatomie_des_Ohrs", "id": 5078957}, {"name": "Ohr-Piercing", "id": 5806051}]}
+{"name": "Ohr", "id": 477598, "predecessors": [{"name": "Zoologie", "id": 252533}], "successors": [{"name": "Hören", "id": 591721}, {"name": "Ohrkrankheit", "id": 2307509}, {"name": "Audiologische_Akustik", "id": 2804483}, {"name": "Anatomie_des_Ohrs", "id": 5078957}]}

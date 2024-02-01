@@ -1,1 +1,1 @@
-{"name": "Triebfahrzeug_(Appenzeller_Bahnen)", "id": 1835486, "predecessors": [{"name": "Appenzeller_Bahnen", "id": 10432631}, {"name": "Triebfahrzeug_(Schweiz)", "id": 770084}, {"name": "Triebfahrzeug", "id": 242007}], "successors": []}
+{"name": "Triebfahrzeug_(Appenzeller_Bahnen)", "id": 1835486, "predecessors": [{"name": "Triebfahrzeug_(Schweiz)", "id": 770084}, {"name": "Schienenfahrzeug", "id": 416413}, {"name": "Verkehr_(Kanton_St._Gallen)", "id": 3390420}], "successors": []}

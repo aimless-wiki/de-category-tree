@@ -1,1 +1,1 @@
-{"name": "Star-Wars-Figur", "id": 12642439, "predecessors": [{"name": "Science-Fiction-Figur", "id": 11439638}, {"name": "Star_Wars", "id": 319439}], "successors": []}
+{"name": "Star-Wars-Figur", "id": 12642439, "predecessors": [{"name": "Star_Wars", "id": 319439}, {"name": "Science-Fiction-Konzept", "id": 10433358}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Nachricht", "id": 1061093, "predecessors": [{"name": "Information", "id": 12577167}, {"name": "Kommunikation", "id": 246265}], "successors": [{"name": "Brieftyp", "id": 5635350}]}
+{"name": "Nachricht", "id": 1061093, "predecessors": [{"name": "Kommunikation", "id": 246265}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

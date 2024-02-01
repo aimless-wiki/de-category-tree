@@ -1,1 +1,1 @@
-{"name": "Datenstruktur", "id": 252350, "predecessors": [{"name": "Datenarchitektur", "id": 7609964}, {"name": "Praktische_Informatik", "id": 549685}], "successors": [{"name": "Datenformat", "id": 244017}, {"name": "Suchbaum", "id": 830789}]}
+{"name": "Datenstruktur", "id": 252350, "predecessors": [{"name": "Informatik", "id": 234948}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Datenformat", "id": 244017}]}

@@ -1,1 +1,1 @@
-{"name": "Pegel", "id": 3092108, "predecessors": [{"name": "Wasserstandsmessung", "id": 8359226}, {"name": "Gerät", "id": 381787}], "successors": []}
+{"name": "Pegel", "id": 3092108, "predecessors": [{"name": "Dimensionale_Messtechnik", "id": 1434327}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

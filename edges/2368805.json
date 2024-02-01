@@ -1,1 +1,1 @@
-{"name": "Rechnernetzwerk", "id": 2368805, "predecessors": [{"name": "Datenübertragung", "id": 2356722}, {"name": "Rechnernetze", "id": 2776177}], "successors": []}
+{"name": "Rechnernetzwerk", "id": 2368805, "predecessors": [{"name": "Rechnernetze", "id": 2776177}, {"name": "Übertragungstechnik", "id": 1615652}], "successors": []}

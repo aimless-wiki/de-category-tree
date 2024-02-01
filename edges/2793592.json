@@ -1,1 +1,1 @@
-{"name": "Baustoffhändler", "id": 2793592, "predecessors": [{"name": "Baustoffe", "id": 9382361}, {"name": "Bauwirtschaft", "id": 1754276}, {"name": "Handel", "id": 419440}], "successors": [{"name": "Baumarkt", "id": 1706584}]}
+{"name": "Baustoffhändler", "id": 2793592, "predecessors": [{"name": "Bauwirtschaft", "id": 1754276}, {"name": "Handel", "id": 419440}, {"name": "Bauwesen", "id": 310907}], "successors": [{"name": "Baumarkt", "id": 1706584}]}

@@ -1,1 +1,1 @@
-{"name": "Ausbildungsstätte_für_Kirchenmusik", "id": 2141985, "predecessors": [{"name": "Berufsbildende_Schule", "id": 1177619}, {"name": "Christliche_Bildungseinrichtung", "id": 2207300}, {"name": "Kirchenmusik", "id": 328435}, {"name": "Musikalische_Bildungseinrichtung", "id": 4454949}], "successors": []}
+{"name": "Ausbildungsstätte_für_Kirchenmusik", "id": 2141985, "predecessors": [{"name": "Kirchenmusik", "id": 328435}, {"name": "Berufsbildung", "id": 391617}, {"name": "Musikpädagogik", "id": 1388871}, {"name": "Organisation_(Bildung)", "id": 1441712}], "successors": []}

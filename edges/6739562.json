@@ -1,1 +1,1 @@
-{"name": "Oberleitungsbusfahrzeug", "id": 6739562, "predecessors": [{"name": "Elektrokraftfahrzeug", "id": 5713872}, {"name": "Oberleitungsbus", "id": 6389903}], "successors": []}
+{"name": "Oberleitungsbusfahrzeug", "id": 6739562, "predecessors": [{"name": "Bahnbetrieb", "id": 1603138}, {"name": "Kraftfahrzeug", "id": 339615}], "successors": []}

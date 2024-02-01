@@ -1,1 +1,1 @@
-{"name": "Insektizid", "id": 1023918, "predecessors": [{"name": "Agrochemie", "id": 4133540}, {"name": "Insektenbekämpfung", "id": 11640262}, {"name": "Pestizid", "id": 4137417}], "successors": [{"name": "Pyrethroid", "id": 8342358}]}
+{"name": "Insektizid", "id": 1023918, "predecessors": [{"name": "Chemie", "id": 235238}, {"name": "!Hauptkategorie", "id": 235489}, {"name": "Schädlingsbekämpfung", "id": 656320}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Temporäre_Bauform", "id": 5711712, "predecessors": [{"name": "Bauform", "id": 843130}], "successors": [{"name": "Fahrgeschäftstyp", "id": 5677486}, {"name": "Zelttyp", "id": 9474804}, {"name": "Militärisches_Brückenlegesystem", "id": 10564187}]}
+{"name": "Temporäre_Bauform", "id": 5711712, "predecessors": [{"name": "Bauform", "id": 843130}], "successors": [{"name": "Fahrgeschäftstyp", "id": 5677486}]}

@@ -1,1 +1,1 @@
-{"name": "Gewässersystem_Tyrrhenisches_Meer", "id": 7927811, "predecessors": [{"name": "Gewässersystem_Mittelmeer", "id": 7919766}, {"name": "Tyrrhenisches_Meer", "id": 5647777}], "successors": [{"name": "Flusssystem_Tiber", "id": 5823147}, {"name": "Flusssystem_Ombrone", "id": 6646124}, {"name": "Flusssystem_Arno_(Tyrrhenisches_Meer)", "id": 7327909}]}
+{"name": "Gewässersystem_Tyrrhenisches_Meer", "id": 7927811, "predecessors": [{"name": "Gewässersystem_Mittelmeer", "id": 7919766}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

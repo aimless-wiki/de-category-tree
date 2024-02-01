@@ -1,1 +1,1 @@
-{"name": "Fähre_(Nordsee)", "id": 7585263, "predecessors": [{"name": "Schifffahrt_(Nordsee)", "id": 7585541}, {"name": "Fähre", "id": 612206}], "successors": [{"name": "Fähre_(Ostfriesische_Inseln)", "id": 7585264}, {"name": "Fähre_(Nordfriesische_Inseln)", "id": 7585354}]}
+{"name": "Fähre_(Nordsee)", "id": 7585263, "predecessors": [{"name": "Fähre", "id": 612206}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Fähre_(Ostfriesische_Inseln)", "id": 7585264}]}

@@ -1,1 +1,1 @@
-{"name": "Informatikpreis", "id": 7625298, "predecessors": [{"name": "Computerbezogene_Auszeichnung", "id": 1288882}, {"name": "Informatik", "id": 234948}, {"name": "Wissen", "id": 408867}], "successors": []}
+{"name": "Informatikpreis", "id": 7625298, "predecessors": [{"name": "Informatik", "id": 234948}, {"name": "Wissen", "id": 408867}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

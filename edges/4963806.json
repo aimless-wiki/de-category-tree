@@ -1,1 +1,1 @@
-{"name": "Papierformat", "id": 4963806, "predecessors": [{"name": "Papier", "id": 424491}, {"name": "Referenzgröße", "id": 9043904}, {"name": "Standard", "id": 404166}], "successors": []}
+{"name": "Papierformat", "id": 4963806, "predecessors": [{"name": "Referenzgröße", "id": 9043904}, {"name": "Standard", "id": 404166}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

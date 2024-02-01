@@ -1,1 +1,1 @@
-{"name": "Polnischer_Personenname", "id": 5441993, "predecessors": [{"name": "Polnische_Sprache", "id": 1171447}, {"name": "Slawischer_Personenname", "id": 5441944}], "successors": []}
+{"name": "Polnischer_Personenname", "id": 5441993, "predecessors": [{"name": "Slawischer_Personenname", "id": 5441944}, {"name": "Sprache", "id": 242582}], "successors": []}

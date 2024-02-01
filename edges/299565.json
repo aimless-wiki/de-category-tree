@@ -1,1 +1,1 @@
-{"name": "Evolution", "id": 299565, "predecessors": [{"name": "Biologie", "id": 235276}], "successors": [{"name": "Evolutionsbiologe", "id": 464964}, {"name": "Mutation", "id": 1851364}, {"name": "Evolutionsökologie", "id": 6631824}, {"name": "Evolutionärer_Algorithmus", "id": 7834930}]}
+{"name": "Evolution", "id": 299565, "predecessors": [{"name": "Wissen", "id": 408867}], "successors": [{"name": "Evolutionsbiologe", "id": 464964}, {"name": "Mutation", "id": 1851364}, {"name": "Liste_ausgestorbener_oder_gefährdeter_Arten", "id": 8385205}]}

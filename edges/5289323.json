@@ -1,1 +1,1 @@
-{"name": "Segelflugzeug_mit_Hilfsmotor", "id": 5289323, "predecessors": [{"name": "Motorsegler", "id": 5289299}, {"name": "Segelflugzeug", "id": 805627}], "successors": []}
+{"name": "Segelflugzeug_mit_Hilfsmotor", "id": 5289323, "predecessors": [{"name": "Segelflugzeug", "id": 805627}, {"name": "Ziviler_Flugzeugtyp", "id": 239346}], "successors": []}

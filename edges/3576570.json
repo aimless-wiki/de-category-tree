@@ -1,1 +1,1 @@
-{"name": "Energieeinheit", "id": 3576570, "predecessors": [{"name": "Energietechnik", "id": 239318}, {"name": "Maßeinheit_(Physik)", "id": 5812779}, {"name": "Maßeinheit", "id": 245026}], "successors": []}
+{"name": "Energieeinheit", "id": 3576570, "predecessors": [{"name": "Energietechnik", "id": 239318}, {"name": "Referenzgröße", "id": 9043904}, {"name": "Wissen", "id": 408867}], "successors": []}

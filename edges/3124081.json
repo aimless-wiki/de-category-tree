@@ -1,1 +1,1 @@
-{"name": "Dampflokomotive_Achsfolge_1B", "id": 3124081, "predecessors": [{"name": "Dampflokomotive", "id": 491634}], "successors": [{"name": "Tenderlokomotive_Achsfolge_1B", "id": 3125200}]}
+{"name": "Dampflokomotive_Achsfolge_1B", "id": 3124081, "predecessors": [{"name": "Dampftechnik", "id": 2230328}], "successors": [{"name": "Tenderlokomotive_Achsfolge_1B", "id": 3125200}]}

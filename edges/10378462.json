@@ -1,1 +1,1 @@
-{"name": "ADAC_Luftrettung", "id": 10378462, "predecessors": [{"name": "ADAC", "id": 6143936}, {"name": "Luftverkehr_(Deutschland)", "id": 249744}, {"name": "Luftrettung", "id": 1013780}], "successors": []}
+{"name": "ADAC_Luftrettung", "id": 10378462, "predecessors": [{"name": "Vereinswesen", "id": 1443030}, {"name": "Rettungsdienst", "id": 349516}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Epilepsie", "id": 800954, "predecessors": [{"name": "Epileptologie", "id": 5650070}, {"name": "Krankheitsbild_in_der_Neurologie", "id": 2622209}], "successors": []}
+{"name": "Epilepsie", "id": 800954, "predecessors": [{"name": "Krankheitsbild_in_der_Neurologie", "id": 2622209}, {"name": "Neurologie", "id": 277706}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Opioid", "id": 580719, "predecessors": [{"name": "Analgetikum", "id": 940646}, {"name": "Sedativum", "id": 939297}], "successors": [{"name": "Psychotropes_Opioid", "id": 8775111}]}
+{"name": "Opioid", "id": 580719, "predecessors": [{"name": "Sedativum", "id": 939297}, {"name": "Schmerztherapie", "id": 919086}], "successors": [{"name": "Psychotropes_Opioid", "id": 8775111}]}

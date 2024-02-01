@@ -1,1 +1,1 @@
-{"name": "Waage", "id": 1719615, "predecessors": [{"name": "Kraftmesstechnik", "id": 1426019}, {"name": "Messgerät", "id": 261351}], "successors": [{"name": "Laborwaage", "id": 5874635}]}
+{"name": "Waage", "id": 1719615, "predecessors": [{"name": "Messgerät", "id": 261351}, {"name": "Messtechnik", "id": 239326}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Hilfsschiff_(Kriegsmarine)", "id": 6429380, "predecessors": [{"name": "Militärschiff_(Kriegsmarine)", "id": 930835}, {"name": "Hilfsschiff", "id": 4697607}], "successors": [{"name": "Minenschiff_(Kriegsmarine)", "id": 6488841}]}
+{"name": "Hilfsschiff_(Kriegsmarine)", "id": 6429380, "predecessors": [{"name": "Kriegsmarine", "id": 1393048}, {"name": "Militärlogistik", "id": 6496358}], "successors": []}

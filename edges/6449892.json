@@ -1,1 +1,1 @@
-{"name": "Kirchengebäude_der_Neorenaissance", "id": 6449892, "predecessors": [{"name": "Bauwerk_der_Neorenaissance", "id": 3824226}, {"name": "Kirchengebäude_des_Historismus", "id": 5496214}], "successors": []}
+{"name": "Kirchengebäude_der_Neorenaissance", "id": 6449892, "predecessors": [{"name": "Kirchengebäude_des_Historismus", "id": 5496214}, {"name": "Kunstgeschichte", "id": 311537}], "successors": []}

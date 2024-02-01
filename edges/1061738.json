@@ -1,1 +1,1 @@
-{"name": "Priesterseminar", "id": 1061738, "predecessors": [{"name": "Katholisch-theologische_Institution", "id": 6477243}, {"name": "Theologisches_Seminar", "id": 3197050}, {"name": "Katholisches_Bildungswesen", "id": 6477681}], "successors": []}
+{"name": "Priesterseminar", "id": 1061738, "predecessors": [{"name": "Theologisches_Seminar", "id": 3197050}, {"name": "Kirchenwesen", "id": 302498}, {"name": "Katholische_Theologie", "id": 710010}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Atari", "id": 633150, "predecessors": [{"name": "Informationstechnik", "id": 2109576}], "successors": [{"name": "Atari-Spiel", "id": 1419441}, {"name": "Person_(Atari)", "id": 11132587}, {"name": "TOS-Software", "id": 4297288}]}
+{"name": "Atari", "id": 633150, "predecessors": [{"name": "Informationstechnik", "id": 2109576}], "successors": [{"name": "Atari-2600-Spiel", "id": 1916338}, {"name": "Atari-8-Bit-Spiel", "id": 1916431}, {"name": "Atari-ST-Spiel", "id": 1917412}, {"name": "Atari-5200-Spiel", "id": 6896882}]}

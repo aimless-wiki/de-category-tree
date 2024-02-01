@@ -1,1 +1,1 @@
-{"name": "Sammelobjekt", "id": 7201736, "predecessors": [{"name": "Sammeln", "id": 243177}], "successors": [{"name": "Sammelkartenspiel", "id": 397470}, {"name": "Sammelfigur", "id": 12626522}]}
+{"name": "Sammelobjekt", "id": 7201736, "predecessors": [{"name": "Hobby", "id": 373752}], "successors": [{"name": "Sammelkartenspiel", "id": 397470}]}

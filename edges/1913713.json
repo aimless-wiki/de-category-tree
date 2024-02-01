@@ -1,1 +1,1 @@
-{"name": "Ziviler_Schutzbunker", "id": 1913713, "predecessors": [{"name": "Bunker", "id": 1776938}, {"name": "Luftkrieg", "id": 1141825}, {"name": "Zivilschutz", "id": 1141952}], "successors": []}
+{"name": "Ziviler_Schutzbunker", "id": 1913713, "predecessors": [{"name": "Luftkrieg", "id": 1141825}, {"name": "Katastrophenschutz", "id": 349518}, {"name": "Bauwerk_aus_Beton", "id": 5634241}], "successors": []}

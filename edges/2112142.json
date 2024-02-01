@@ -1,1 +1,1 @@
-{"name": "Quantitative_Linguistik", "id": 2112142, "predecessors": [{"name": "Mathematische_Modellierung", "id": 7673282}, {"name": "Statistik", "id": 241469}, {"name": "Theoretische_Linguistik", "id": 2431407}], "successors": []}
+{"name": "Quantitative_Linguistik", "id": 2112142, "predecessors": [{"name": "Statistik", "id": 241469}, {"name": "Theoretische_Linguistik", "id": 2431407}, {"name": "Modellierung_und_Simulation", "id": 7673047}], "successors": []}

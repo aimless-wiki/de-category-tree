@@ -1,1 +1,1 @@
-{"name": "Elektroautomodell", "id": 9518664, "predecessors": [{"name": "Pkw-Modell", "id": 1995313}, {"name": "Elektroautos", "id": 3576653}], "successors": []}
+{"name": "Elektroautomodell", "id": 9518664, "predecessors": [{"name": "Pkw-Modell", "id": 1995313}, {"name": "Kraftfahrzeug", "id": 339615}], "successors": []}

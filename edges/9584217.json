@@ -1,1 +1,1 @@
-{"name": "Mineralquelle", "id": 9584217, "predecessors": [{"name": "Quelle", "id": 1910229}, {"name": "Alkoholfreies_Getränk", "id": 6156953}], "successors": []}
+{"name": "Mineralquelle", "id": 9584217, "predecessors": [{"name": "Fließgewässer", "id": 3197680}, {"name": "Alkoholfreies_Getränk", "id": 6156953}], "successors": []}

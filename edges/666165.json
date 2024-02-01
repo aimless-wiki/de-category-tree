@@ -1,1 +1,1 @@
-{"name": "Meditation", "id": 666165, "predecessors": [{"name": "Glaubenspraxis", "id": 8128260}, {"name": "Spiritualität", "id": 819806}], "successors": [{"name": "Yoga", "id": 429413}]}
+{"name": "Meditation", "id": 666165, "predecessors": [{"name": "Spiritualität", "id": 819806}, {"name": "Handlung_und_Verhalten", "id": 1055043}], "successors": [{"name": "Yoga", "id": 429413}]}

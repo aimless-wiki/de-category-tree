@@ -1,1 +1,1 @@
-{"name": "Augenarzt", "id": 293260, "predecessors": [{"name": "Augenheilkunde", "id": 292537}, {"name": "Medizin", "id": 236137}], "successors": [{"name": "Okulist", "id": 10161810}]}
+{"name": "Augenarzt", "id": 293260, "predecessors": [{"name": "Auge", "id": 420857}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Widerstand", "id": 2263484, "predecessors": [{"name": "Passives_Bauelement", "id": 979059}], "successors": []}
+{"name": "Widerstand", "id": 2263484, "predecessors": [{"name": "Elektrisches_Bauelement", "id": 1695030}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Wale", "id": 249203, "predecessors": [{"name": "Säugetiere", "id": 247158}], "successors": [{"name": "Schnabelwale", "id": 2919303}, {"name": "Bartenwale", "id": 2919373}, {"name": "Delfine", "id": 2919891}, {"name": "Schweinswale", "id": 12491752}]}
+{"name": "Wale", "id": 249203, "predecessors": [{"name": "Säugetiere", "id": 247158}], "successors": [{"name": "Delfine", "id": 2919891}]}

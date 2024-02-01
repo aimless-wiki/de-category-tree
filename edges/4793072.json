@@ -1,1 +1,1 @@
-{"name": "Vogelpark", "id": 4793072, "predecessors": [{"name": "Vogelschutzorganisation", "id": 8941533}, {"name": "Zoo", "id": 240269}, {"name": "Haustier", "id": 241921}], "successors": []}
+{"name": "Vogelpark", "id": 4793072, "predecessors": [{"name": "Zoo", "id": 240269}, {"name": "Vögel_in_der_Kultur", "id": 7455307}, {"name": "Naturschutzorganisation", "id": 617527}], "successors": []}

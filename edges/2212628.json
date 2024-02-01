@@ -1,1 +1,1 @@
-{"name": "Kreditinstitutstyp", "id": 2212628, "predecessors": [{"name": "Kreditinstitut", "id": 308601}, {"name": "Unternehmensart_nach_Wirtschaftszweig", "id": 7621564}], "successors": []}
+{"name": "Kreditinstitutstyp", "id": 2212628, "predecessors": [{"name": "Bankwesen", "id": 1286951}, {"name": "Unternehmensart", "id": 1872802}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Teigverarbeitung", "id": 5607466, "predecessors": [{"name": "Getreideverarbeitung", "id": 9204888}, {"name": "Backen", "id": 2372359}], "successors": []}
+{"name": "Teigverarbeitung", "id": 5607466, "predecessors": [{"name": "Backen", "id": 2372359}, {"name": "Getreide", "id": 243083}], "successors": []}

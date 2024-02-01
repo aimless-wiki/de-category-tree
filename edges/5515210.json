@@ -1,1 +1,1 @@
-{"name": "Audio-Aufnahmegerät", "id": 5515210, "predecessors": [{"name": "Aufnahmegerät", "id": 5515212}, {"name": "Tonaufnahme", "id": 6477890}], "successors": []}
+{"name": "Audio-Aufnahmegerät", "id": 5515210, "predecessors": [{"name": "Tontechnik", "id": 1145522}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

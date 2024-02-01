@@ -1,1 +1,1 @@
-{"name": "Beschallungstechnik", "id": 6805610, "predecessors": [{"name": "Bühnentechnik", "id": 904493}, {"name": "Schallwandlung", "id": 877865}], "successors": [{"name": "Lautsprecher", "id": 1603792}, {"name": "Lautsprecherbau", "id": 6805645}, {"name": "Anlagentyp_(Beschallung)", "id": 9379514}]}
+{"name": "Beschallungstechnik", "id": 6805610, "predecessors": [{"name": "Bühnentechnik", "id": 904493}, {"name": "Elektroakustik", "id": 274380}], "successors": [{"name": "Lautsprecher", "id": 1603792}]}

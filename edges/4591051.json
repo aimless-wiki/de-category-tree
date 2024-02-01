@@ -1,1 +1,1 @@
-{"name": "Flusssystem_Altmühl", "id": 4591051, "predecessors": [{"name": "Altmühl", "id": 9036841}, {"name": "Flusssystem_Donau", "id": 1948785}], "successors": [{"name": "Flusssystem_Schwarzach_(Altmühl)", "id": 10334724}, {"name": "Flusssystem_Wurmbach_(Altmühl)", "id": 12423521}]}
+{"name": "Flusssystem_Altmühl", "id": 4591051, "predecessors": [{"name": "Flusssystem_Donau", "id": 1948785}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

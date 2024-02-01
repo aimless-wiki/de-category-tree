@@ -1,1 +1,1 @@
-{"name": "Arbeitsstellensicherung", "id": 5579813, "predecessors": [{"name": "Arbeitsschutzausrüstung", "id": 11824727}, {"name": "Bauausführung", "id": 277209}], "successors": []}
+{"name": "Arbeitsstellensicherung", "id": 5579813, "predecessors": [{"name": "Bauausführung", "id": 277209}, {"name": "Arbeitsschutz", "id": 405066}], "successors": []}

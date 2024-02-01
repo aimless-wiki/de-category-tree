@@ -1,1 +1,1 @@
-{"name": "Migrationswissenschaftler", "id": 3709523, "predecessors": [{"name": "Migrationswissenschaft", "id": 5705534}, {"name": "Sozialwissenschaftler", "id": 2132098}], "successors": []}
+{"name": "Migrationswissenschaftler", "id": 3709523, "predecessors": [{"name": "Sozialwissenschaftler", "id": 2132098}, {"name": "Sozialwissenschaft", "id": 851000}], "successors": []}

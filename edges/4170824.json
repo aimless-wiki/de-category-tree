@@ -1,1 +1,1 @@
-{"name": "Koranübersetzer", "id": 4170824, "predecessors": [{"name": "Person_(Koran)", "id": 9024148}, {"name": "Übersetzer_(Heilige_Schriften)", "id": 8779763}, {"name": "Übersetzer_aus_dem_Arabischen", "id": 10281843}, {"name": "Koran", "id": 237909}], "successors": []}
+{"name": "Koranübersetzer", "id": 4170824, "predecessors": [{"name": "Übersetzer_aus_dem_Arabischen", "id": 10281843}, {"name": "Übersetzer", "id": 6735499}, {"name": "Geschichte_des_Islam", "id": 421325}, {"name": "Koran", "id": 237909}], "successors": []}

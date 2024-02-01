@@ -1,1 +1,1 @@
-{"name": "Akkumulator", "id": 3240554, "predecessors": [{"name": "Batterietechnik", "id": 6021004}], "successors": []}
+{"name": "Akkumulator", "id": 3240554, "predecessors": [{"name": "Elektrische_Energietechnik", "id": 3991676}], "successors": []}

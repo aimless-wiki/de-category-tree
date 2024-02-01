@@ -1,1 +1,1 @@
-{"name": "Liste_(Wörter)", "id": 6393108, "predecessors": [{"name": "Einzelwort", "id": 5967813}, {"name": "Liste_(Sprache)", "id": 488389}], "successors": []}
+{"name": "Liste_(Wörter)", "id": 6393108, "predecessors": [{"name": "Liste_(Sprache)", "id": 488389}, {"name": "Wort", "id": 360239}], "successors": []}

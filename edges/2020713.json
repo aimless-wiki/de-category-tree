@@ -1,1 +1,1 @@
-{"name": "Adventslied", "id": 2020713, "predecessors": [{"name": "Adventszeit", "id": 819659}, {"name": "Kirchenlied", "id": 331365}], "successors": []}
+{"name": "Adventslied", "id": 2020713, "predecessors": [{"name": "Kirchenlied", "id": 331365}, {"name": "Kirchenjahr", "id": 406870}], "successors": []}

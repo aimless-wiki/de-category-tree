@@ -1,1 +1,1 @@
-{"name": "Bildschnitzer", "id": 5167074, "predecessors": [{"name": "Bildschnitzerei", "id": 5167106}, {"name": "Kunsthandwerker", "id": 365877}], "successors": []}
+{"name": "Bildschnitzer", "id": 5167074, "predecessors": [{"name": "Kunsthandwerker", "id": 365877}, {"name": "Kunsthandwerk", "id": 1015536}], "successors": []}

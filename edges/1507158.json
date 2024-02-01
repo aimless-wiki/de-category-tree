@@ -1,1 +1,1 @@
-{"name": "Theaterkritiker", "id": 1507158, "predecessors": [{"name": "Kritiker", "id": 2155206}, {"name": "Person_(Theater)", "id": 5596354}, {"name": "Theaterkritik", "id": 396626}], "successors": []}
+{"name": "Theaterkritiker", "id": 1507158, "predecessors": [{"name": "Kritiker", "id": 2155206}, {"name": "Theater", "id": 245755}, {"name": "Handlung_und_Verhalten", "id": 1055043}], "successors": []}

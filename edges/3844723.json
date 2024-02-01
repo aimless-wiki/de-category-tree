@@ -1,1 +1,1 @@
-{"name": "Studentenwohnheim", "id": 3844723, "predecessors": [{"name": "Beherbergungsbetrieb", "id": 7342913}, {"name": "Studium", "id": 397545}], "successors": []}
+{"name": "Studentenwohnheim", "id": 3844723, "predecessors": [{"name": "Studium", "id": 397545}, {"name": "Beherbergung", "id": 1843757}], "successors": []}

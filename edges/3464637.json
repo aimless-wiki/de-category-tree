@@ -1,1 +1,1 @@
-{"name": "Messer_(Werkzeug)", "id": 3464637, "predecessors": [{"name": "Handwerkzeug", "id": 569742}, {"name": "Messer", "id": 728887}, {"name": "Trennwerkzeug", "id": 1604947}], "successors": [{"name": "Küchenmesser", "id": 3475628}]}
+{"name": "Messer_(Werkzeug)", "id": 3464637, "predecessors": [{"name": "Handwerkzeug", "id": 569742}, {"name": "Werkzeug", "id": 242680}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Küchenmesser", "id": 3475628}]}

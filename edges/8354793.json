@@ -1,1 +1,1 @@
-{"name": "Schädling_im_Feld-_und_Gartenbau", "id": 8354793, "predecessors": [{"name": "Pflanzenschutz_im_Gartenbau", "id": 8365779}, {"name": "Pflanzenschutz_in_der_Feldwirtschaft", "id": 9061497}, {"name": "Lebewesen", "id": 235277}], "successors": []}
+{"name": "Schädling_im_Feld-_und_Gartenbau", "id": 8354793, "predecessors": [{"name": "Schädlingsbekämpfung", "id": 656320}, {"name": "Feldwirtschaft", "id": 353708}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

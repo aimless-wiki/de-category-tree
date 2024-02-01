@@ -1,1 +1,1 @@
-{"name": "Sachbuchautor_(Chemie)", "id": 6388677, "predecessors": [{"name": "Sachbuchautor_(Naturwissenschaften)", "id": 11508259}, {"name": "Sachliteratur_(Chemie)", "id": 9689677}], "successors": [{"name": "Autor_(Alchemie)", "id": 6409096}]}
+{"name": "Sachbuchautor_(Chemie)", "id": 6388677, "predecessors": [{"name": "Sachliteratur_(Chemie)", "id": 9689677}, {"name": "Sachbuchautor", "id": 6051675}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Krankheitsbild_in_der_Psychiatrie", "id": 2637583, "predecessors": [{"name": "Krankheit", "id": 324750}, {"name": "Psychiatrie", "id": 283837}], "successors": [{"name": "Schlafstörung", "id": 591010}, {"name": "Psychische_Störung", "id": 674117}]}
+{"name": "Krankheitsbild_in_der_Psychiatrie", "id": 2637583, "predecessors": [{"name": "Psychiatrie", "id": 283837}, {"name": "Wissen", "id": 408867}], "successors": [{"name": "Schlafstörung", "id": 591010}, {"name": "Psychische_Störung", "id": 674117}]}

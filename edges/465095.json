@@ -1,1 +1,1 @@
-{"name": "Versandhändler", "id": 465095, "predecessors": [{"name": "Einzelhandelsunternehmen", "id": 465097}, {"name": "Versandhandel", "id": 3975074}], "successors": [{"name": "Onlineshop", "id": 3347648}]}
+{"name": "Versandhändler", "id": 465095, "predecessors": [{"name": "Distributionslogistik", "id": 1282321}, {"name": "Handel", "id": 419440}], "successors": [{"name": "Onlineshop", "id": 3347648}]}

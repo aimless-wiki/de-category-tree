@@ -1,1 +1,1 @@
-{"name": "Nase", "id": 3432337, "predecessors": [{"name": "Kopf", "id": 5570309}, {"name": "Medizin", "id": 236137}], "successors": [{"name": "Riechen", "id": 591723}]}
+{"name": "Nase", "id": 3432337, "predecessors": [{"name": "Zoologie", "id": 252533}, {"name": "Morphologie_(Biologie)", "id": 303357}], "successors": [{"name": "Riechen", "id": 591723}]}

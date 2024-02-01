@@ -1,1 +1,1 @@
-{"name": "Küchenwerkzeug", "id": 6900328, "predecessors": [{"name": "Arbeitsmittel_der_Speisenproduktion", "id": 8837561}, {"name": "Handwerkzeug", "id": 569742}], "successors": [{"name": "Küchenmesser", "id": 3475628}]}
+{"name": "Küchenwerkzeug", "id": 6900328, "predecessors": [{"name": "Handwerkzeug", "id": 569742}, {"name": "Alltagskultur", "id": 595902}], "successors": [{"name": "Küchenmesser", "id": 3475628}]}

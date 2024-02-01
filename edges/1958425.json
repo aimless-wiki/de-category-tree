@@ -1,1 +1,1 @@
-{"name": "Bleiverbindung", "id": 1958425, "predecessors": [{"name": "Blei", "id": 6804857}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Bleimineral", "id": 1990287}]}
+{"name": "Bleiverbindung", "id": 1958425, "predecessors": [{"name": "Chemie", "id": 235238}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Bleimineral", "id": 1990287}]}

@@ -1,1 +1,1 @@
-{"name": "Riechen", "id": 591723, "predecessors": [{"name": "Nase", "id": 3432337}, {"name": "Wahrnehmung", "id": 387646}], "successors": []}
+{"name": "Riechen", "id": 591723, "predecessors": [{"name": "Nase", "id": 3432337}, {"name": "Wahrnehmung", "id": 387646}], "successors": [{"name": "Duftstoff", "id": 764727}, {"name": "Räucherwerk", "id": 1850533}]}

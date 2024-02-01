@@ -1,1 +1,1 @@
-{"name": "Vermessungspunkt", "id": 5800209, "predecessors": [{"name": "Geodäsie", "id": 267298}], "successors": [{"name": "Individueller_Vermessungspunkt", "id": 7875469}]}
+{"name": "Vermessungspunkt", "id": 5800209, "predecessors": [{"name": "Geodäsie", "id": 267298}], "successors": [{"name": "Grenzstein", "id": 6754619}]}

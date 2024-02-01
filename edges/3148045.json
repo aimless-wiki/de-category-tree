@@ -1,1 +1,1 @@
-{"name": "AMD-Prozessor", "id": 3148045, "predecessors": [{"name": "AMD", "id": 3148046}, {"name": "Integrierter_Schaltkreis_nach_Hersteller", "id": 8619111}], "successors": []}
+{"name": "AMD-Prozessor", "id": 3148045, "predecessors": [{"name": "AMD", "id": 3148046}, {"name": "Mikroprozessor", "id": 244247}], "successors": []}

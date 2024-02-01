@@ -1,1 +1,1 @@
-{"name": "Qualitätsmanagement-Werkzeug", "id": 3450316, "predecessors": [{"name": "Methoden,_Techniken_und_Verfahren", "id": 7060197}, {"name": "Qualitätsmanagement", "id": 268484}], "successors": [{"name": "Six_Sigma", "id": 1812576}]}
+{"name": "Qualitätsmanagement-Werkzeug", "id": 3450316, "predecessors": [{"name": "Qualitätsmanagement", "id": 268484}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Six_Sigma", "id": 1812576}]}

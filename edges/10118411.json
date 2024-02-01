@@ -1,1 +1,1 @@
-{"name": "Reisezugwagen_(Schweiz)", "id": 10118411, "predecessors": [{"name": "Reisezugwagen", "id": 613757}, {"name": "Schienenverkehr_(Schweiz)", "id": 295416}], "successors": []}
+{"name": "Reisezugwagen_(Schweiz)", "id": 10118411, "predecessors": [{"name": "Schienenverkehr_(Schweiz)", "id": 295416}, {"name": "Schienenfahrzeug", "id": 416413}], "successors": []}

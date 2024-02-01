@@ -1,1 +1,1 @@
-{"name": "Knotenpunkt_(Straße)", "id": 10207230, "predecessors": [{"name": "Straßenbestandteil", "id": 10206871}, {"name": "Verkehrswesen", "id": 2273788}], "successors": [{"name": "Autobahnknoten", "id": 10207263}]}
+{"name": "Knotenpunkt_(Straße)", "id": 10207230, "predecessors": [{"name": "Straßenbestandteil", "id": 10206871}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Autobahnkreuz_in_Bayern", "id": 8244838}, {"name": "Autobahnkreuz_in_Nordrhein-Westfalen", "id": 8252656}]}

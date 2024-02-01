@@ -1,1 +1,1 @@
-{"name": "Filmhochschule", "id": 1657195, "predecessors": [{"name": "Filmwissenschaft", "id": 820293}, {"name": "Hochschule_für_Darstellende_Kunst", "id": 2926343}, {"name": "Medienhochschule", "id": 2926456}], "successors": []}
+{"name": "Filmhochschule", "id": 1657195, "predecessors": [{"name": "Filmwissenschaft", "id": 820293}, {"name": "Kunsthochschule", "id": 2926340}, {"name": "Hochschule_für_Bildende_Kunst", "id": 2926339}], "successors": []}

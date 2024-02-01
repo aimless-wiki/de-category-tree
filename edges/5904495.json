@@ -1,1 +1,1 @@
-{"name": "Zeitrechnung", "id": 5904495, "predecessors": [{"name": "Chronologie", "id": 829817}], "successors": [{"name": "Kalender", "id": 234229}, {"name": "Zeitmessung", "id": 1067211}, {"name": "Christliche_Zeitrechnung", "id": 9552991}]}
+{"name": "Zeitrechnung", "id": 5904495, "predecessors": [{"name": "Chronologie", "id": 829817}], "successors": [{"name": "Kalender", "id": 234229}, {"name": "Zeitmessung", "id": 1067211}, {"name": "Osterdatum", "id": 1398406}, {"name": "Gregorianischer_und_julianischer_Kalender", "id": 8034489}]}

@@ -1,1 +1,1 @@
-{"name": "Frankfurt-Innenstadt", "id": 4315888, "predecessors": [{"name": "Innenstadt", "id": 8167053}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Zeil", "id": 6917532}, {"name": "Bauwerk_in_Frankfurt-Innenstadt", "id": 12651005}]}
+{"name": "Frankfurt-Innenstadt", "id": 4315888, "predecessors": [{"name": "Städtischer_Raum", "id": 7402912}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Bauwerk_in_Frankfurt-Innenstadt", "id": 12651005}]}

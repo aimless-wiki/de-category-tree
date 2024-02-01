@@ -1,1 +1,1 @@
-{"name": "Virtuelle_Fachbibliothek", "id": 3853326, "predecessors": [{"name": "Spezialbibliothek", "id": 1695183}, {"name": "Virtuelle_Bibliothek", "id": 4925072}], "successors": []}
+{"name": "Virtuelle_Fachbibliothek", "id": 3853326, "predecessors": [{"name": "Spezialbibliothek", "id": 1695183}, {"name": "Digitale_Bibliothek", "id": 1020642}], "successors": []}

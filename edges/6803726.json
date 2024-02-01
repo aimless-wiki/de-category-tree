@@ -1,1 +1,1 @@
-{"name": "Leiter_des_Karlsruher_Instituts_für_Technologie", "id": 6803726, "predecessors": [{"name": "Leiter_einer_Hochschule", "id": 6684501}, {"name": "Karlsruher_Institut_für_Technologie", "id": 4923353}], "successors": []}
+{"name": "Leiter_des_Karlsruher_Instituts_für_Technologie", "id": 6803726, "predecessors": [{"name": "Karlsruher_Institut_für_Technologie", "id": 4923353}, {"name": "Leiter_einer_Organisation", "id": 6685163}], "successors": []}

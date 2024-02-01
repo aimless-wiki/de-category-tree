@@ -1,1 +1,1 @@
-{"name": "Pflegerecht", "id": 11355578, "predecessors": [{"name": "Pflege", "id": 796377}, {"name": "Recht", "id": 235360}], "successors": []}
+{"name": "Pflegerecht", "id": 11355578, "predecessors": [{"name": "Gesundheitswesen", "id": 299241}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Munitionshersteller", "id": 7347344, "predecessors": [{"name": "Munition", "id": 838500}, {"name": "Rüstungshersteller", "id": 388748}], "successors": [{"name": "Pulvermühle", "id": 8445829}, {"name": "Munitionsanstalt", "id": 10375626}]}
+{"name": "Munitionshersteller", "id": 7347344, "predecessors": [{"name": "Munition", "id": 838500}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

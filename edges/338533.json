@@ -1,1 +1,1 @@
-{"name": "Speicherlaufwerk", "id": 338533, "predecessors": [{"name": "Digitales_Speichermedium", "id": 6282222}, {"name": "Speicherlaufwerke", "id": 8615207}], "successors": [{"name": "Commodore-Speicherlaufwerk", "id": 7078057}]}
+{"name": "Speicherlaufwerk", "id": 338533, "predecessors": [{"name": "Digitale_Kommunikation", "id": 9263842}], "successors": []}

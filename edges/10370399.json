@@ -1,1 +1,1 @@
-{"name": "Brauwissenschaftler", "id": 10370399, "predecessors": [{"name": "Person_(Bier)", "id": 4128338}, {"name": "Wissenschaftler", "id": 238643}], "successors": []}
+{"name": "Brauwissenschaftler", "id": 10370399, "predecessors": [{"name": "Wissen", "id": 408867}, {"name": "Alkoholkonsum", "id": 8286138}], "successors": []}

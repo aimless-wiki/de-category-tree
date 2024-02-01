@@ -1,1 +1,1 @@
-{"name": "Forstschädling", "id": 5049028, "predecessors": [{"name": "Lebewesen", "id": 235277}, {"name": "Forstwirtschaft", "id": 9963257}], "successors": []}
+{"name": "Forstschädling", "id": 5049028, "predecessors": [{"name": "Schädlingsbekämpfung", "id": 656320}, {"name": "Forstwirtschaft", "id": 9963257}], "successors": []}

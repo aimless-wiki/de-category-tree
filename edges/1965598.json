@@ -1,1 +1,1 @@
-{"name": "Nickelverbindung", "id": 1965598, "predecessors": [{"name": "Nickel", "id": 7065047}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Nickelmineral", "id": 2013319}]}
+{"name": "Nickelverbindung", "id": 1965598, "predecessors": [{"name": "Chemie", "id": 235238}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Nickelmineral", "id": 2013319}]}

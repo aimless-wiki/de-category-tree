@@ -1,1 +1,1 @@
-{"name": "Xbox-One-Spiel", "id": 7706381, "predecessors": [{"name": "Xbox", "id": 3902853}, {"name": "Anwendungssoftware", "id": 5234444}], "successors": []}
+{"name": "Xbox-One-Spiel", "id": 7706381, "predecessors": [{"name": "Anwendungssoftware", "id": 5234444}, {"name": "Microsoft", "id": 331464}], "successors": []}

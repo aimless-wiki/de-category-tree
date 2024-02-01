@@ -1,1 +1,1 @@
-{"name": "Gefährdete_Nutztierrasse", "id": 11888467, "predecessors": [{"name": "Nutztier", "id": 9332619}, {"name": "Haustier", "id": 241921}], "successors": []}
+{"name": "Gefährdete_Nutztierrasse", "id": 11888467, "predecessors": [{"name": "Tierzucht", "id": 1062321}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

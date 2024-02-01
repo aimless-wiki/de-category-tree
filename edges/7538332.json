@@ -1,1 +1,1 @@
-{"name": "Gnome", "id": 7538332, "predecessors": [{"name": "GTK_(Programmbibliothek)", "id": 5097430}], "successors": []}
+{"name": "Gnome", "id": 7538332, "predecessors": [{"name": "Computergrafik", "id": 249536}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Abitur", "id": 3381077, "predecessors": [{"name": "Gymnasiales_System_(Deutschland)", "id": 10731693}, {"name": "Reifeprüfung", "id": 6851082}], "successors": []}
+{"name": "Abitur", "id": 3381077, "predecessors": [{"name": "Prüfung", "id": 898994}, {"name": "Schulwesen_(Deutschland)", "id": 5049997}], "successors": []}

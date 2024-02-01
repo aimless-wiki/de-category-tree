@@ -1,1 +1,1 @@
-{"name": "Französischsprachiger_Fernsehsender", "id": 7073293, "predecessors": [{"name": "Französischsprachiges_Medium", "id": 7073275}, {"name": "Fernsehsender", "id": 238051}], "successors": []}
+{"name": "Französischsprachiger_Fernsehsender", "id": 7073293, "predecessors": [{"name": "Französische_Sprache", "id": 387111}, {"name": "Fernsehen", "id": 290987}], "successors": []}

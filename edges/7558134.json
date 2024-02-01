@@ -1,1 +1,1 @@
-{"name": "Ehemaliger_Oberleitungsbushersteller", "id": 7558134, "predecessors": [{"name": "Ehemaliger_Omnibushersteller", "id": 5866975}, {"name": "Oberleitungsbushersteller", "id": 6739527}], "successors": []}
+{"name": "Ehemaliger_Oberleitungsbushersteller", "id": 7558134, "predecessors": [{"name": "Ehemaliger_Omnibushersteller", "id": 5866975}, {"name": "Omnibushersteller", "id": 2243780}], "successors": []}

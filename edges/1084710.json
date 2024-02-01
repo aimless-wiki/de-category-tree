@@ -1,1 +1,1 @@
-{"name": "Pflanzenernährung", "id": 1084710, "predecessors": [{"name": "Ernährung", "id": 428279}, {"name": "Pflanzenphysiologie", "id": 817887}, {"name": "Wirtschaft", "id": 236153}], "successors": [{"name": "Dünger", "id": 476514}, {"name": "Bodenfruchtbarkeit", "id": 1192079}]}
+{"name": "Pflanzenernährung", "id": 1084710, "predecessors": [{"name": "Pflanzenphysiologie", "id": 817887}, {"name": "Wissen", "id": 408867}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Bodenfruchtbarkeit", "id": 1192079}]}

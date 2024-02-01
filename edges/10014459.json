@@ -1,1 +1,1 @@
-{"name": "Epileptologe", "id": 10014459, "predecessors": [{"name": "Epileptologie", "id": 5650070}, {"name": "Neurologe", "id": 362302}], "successors": []}
+{"name": "Epileptologe", "id": 10014459, "predecessors": [{"name": "Neurologe", "id": 362302}, {"name": "Neurologie", "id": 277706}], "successors": []}

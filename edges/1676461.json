@@ -1,1 +1,1 @@
-{"name": "Wirtschaftsingenieur", "id": 1676461, "predecessors": [{"name": "Ingenieur", "id": 844336}, {"name": "Wirtschaftsingenieurwesen", "id": 1676410}, {"name": "Wirtschaftswissenschaftler", "id": 8592661}], "successors": []}
+{"name": "Wirtschaftsingenieur", "id": 1676461, "predecessors": [{"name": "Ingenieur", "id": 844336}, {"name": "Wirtschaftswissenschaftler", "id": 8592661}, {"name": "Ingenieurwissenschaft", "id": 240548}], "successors": []}

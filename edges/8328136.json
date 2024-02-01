@@ -1,1 +1,1 @@
-{"name": "Science_Center", "id": 8328136, "predecessors": [{"name": "Erlebnismuseum", "id": 11315177}, {"name": "Wissenschaftsmuseum", "id": 9622760}, {"name": "Naturwissenschaft", "id": 274295}], "successors": []}
+{"name": "Science_Center", "id": 8328136, "predecessors": [{"name": "Wissenschaftskommunikation", "id": 8326462}, {"name": "Naturwissenschaft", "id": 274295}, {"name": "Erlebnispädagogik", "id": 1363996}], "successors": []}

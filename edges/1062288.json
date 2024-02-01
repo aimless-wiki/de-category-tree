@@ -1,1 +1,1 @@
-{"name": "Malakologie", "id": 1062288, "predecessors": [{"name": "Zoologie", "id": 252533}], "successors": [{"name": "Weichtiere", "id": 438520}, {"name": "Malakologe", "id": 3079280}, {"name": "Ausgestorbenes_Weichtier", "id": 5518347}]}
+{"name": "Malakologie", "id": 1062288, "predecessors": [{"name": "Zoologie", "id": 252533}], "successors": [{"name": "Malakologe", "id": 3079280}, {"name": "Muscheln", "id": 923879}, {"name": "Schnecken", "id": 994023}, {"name": "Kraken", "id": 9016168}]}

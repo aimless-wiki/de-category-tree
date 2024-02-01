@@ -1,1 +1,1 @@
-{"name": "Stahlsorte", "id": 8021469, "predecessors": [{"name": "Eisenlegierung", "id": 9910225}, {"name": "Stahl", "id": 829272}], "successors": [{"name": "Baustahl", "id": 8021486}]}
+{"name": "Stahlsorte", "id": 8021469, "predecessors": [{"name": "Stahl", "id": 829272}, {"name": "Eisen", "id": 1917516}], "successors": []}

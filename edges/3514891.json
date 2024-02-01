@@ -1,1 +1,1 @@
-{"name": "Grafikbibliothek", "id": 3514891, "predecessors": [{"name": "Grafiksoftware", "id": 257378}, {"name": "Programmbibliothek", "id": 596097}], "successors": []}
+{"name": "Grafikbibliothek", "id": 3514891, "predecessors": [{"name": "Grafiksoftware", "id": 257378}, {"name": "Programmierung", "id": 237034}], "successors": []}

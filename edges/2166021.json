@@ -1,1 +1,1 @@
-{"name": "Währungssymbol", "id": 2166021, "predecessors": [{"name": "Normung", "id": 248436}, {"name": "Schriftzeichen", "id": 304673}, {"name": "Währung", "id": 613775}], "successors": []}
+{"name": "Währungssymbol", "id": 2166021, "predecessors": [{"name": "Schriftzeichen", "id": 304673}, {"name": "Devisenmarkt", "id": 2122401}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

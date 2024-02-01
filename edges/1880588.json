@@ -1,1 +1,1 @@
-{"name": "Lüftungstechnik", "id": 1880588, "predecessors": [{"name": "Klimatechnik", "id": 581209}, {"name": "Versorgungstechnik", "id": 3642207}], "successors": [{"name": "Bewetterung", "id": 4542483}]}
+{"name": "Lüftungstechnik", "id": 1880588, "predecessors": [{"name": "Klimatechnik", "id": 581209}, {"name": "Bauwesen", "id": 310907}], "successors": [{"name": "Bewetterung", "id": 4542483}]}

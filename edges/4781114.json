@@ -1,1 +1,1 @@
-{"name": "Symmetrisches_Verschlüsselungsverfahren", "id": 4781114, "predecessors": [{"name": "Symmetrisches_Kryptosystem", "id": 6531583}], "successors": [{"name": "Blockverschlüsselung", "id": 4748270}]}
+{"name": "Symmetrisches_Verschlüsselungsverfahren", "id": 4781114, "predecessors": [{"name": "Kryptologisches_Verfahren", "id": 2641847}], "successors": [{"name": "Blockverschlüsselung", "id": 4748270}]}

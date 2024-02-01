@@ -1,1 +1,1 @@
-{"name": "Sonnenuhr", "id": 3828014, "predecessors": [{"name": "Elementaruhr", "id": 3715330}, {"name": "Sonne_in_der_Kultur", "id": 7603313}], "successors": [{"name": "Einzelne_Sonnenuhr", "id": 7845593}]}
+{"name": "Sonnenuhr", "id": 3828014, "predecessors": [{"name": "Sonne_in_der_Kultur", "id": 7603313}, {"name": "Historisches_Zeitmessgerät", "id": 6510158}], "successors": []}

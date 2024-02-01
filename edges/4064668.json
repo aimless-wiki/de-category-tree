@@ -1,1 +1,1 @@
-{"name": "Sedimentärer_Naturwerkstein", "id": 4064668, "predecessors": [{"name": "Naturwerkstein", "id": 4025211}, {"name": "Sedimentgestein", "id": 2106071}], "successors": [{"name": "Sandsteinsorte", "id": 1276087}, {"name": "Kalksteinsorte", "id": 3373418}]}
+{"name": "Sedimentärer_Naturwerkstein", "id": 4064668, "predecessors": [{"name": "Sedimentgestein", "id": 2106071}, {"name": "Gestein", "id": 235028}], "successors": [{"name": "Sandsteinsorte", "id": 1276087}, {"name": "Kalksteinsorte", "id": 3373418}]}

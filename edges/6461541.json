@@ -1,1 +1,1 @@
-{"name": "Flugzeugentführung", "id": 6461541, "predecessors": [{"name": "Entführungsfall", "id": 1211942}, {"name": "Geiselnahme", "id": 421836}, {"name": "Geschichte_der_Luftfahrt", "id": 1054285}, {"name": "Luftsicherheit", "id": 1609584}], "successors": []}
+{"name": "Flugzeugentführung", "id": 6461541, "predecessors": [{"name": "Entführungsfall", "id": 1211942}, {"name": "Geiselnahme", "id": 421836}, {"name": "Geschichte_der_Luftfahrt", "id": 1054285}, {"name": "Technische_Sicherheit", "id": 1062123}], "successors": []}

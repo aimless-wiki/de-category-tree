@@ -1,1 +1,1 @@
-{"name": "Aromastoff", "id": 5663165, "predecessors": [{"name": "Chemikalien_nach_Verwendung", "id": 5176459}, {"name": "Lebensmittelchemie", "id": 314897}], "successors": [{"name": "Aromastoff_(EU)", "id": 11636352}]}
+{"name": "Aromastoff", "id": 5663165, "predecessors": [{"name": "Lebensmittelchemie", "id": 314897}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Aromastoff_(EU)", "id": 11636352}]}

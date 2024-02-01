@@ -1,1 +1,1 @@
-{"name": "Glasverarbeitung", "id": 1459443, "predecessors": [{"name": "Glas", "id": 760424}, {"name": "Fertigungstechnik", "id": 239336}], "successors": []}
+{"name": "Glasverarbeitung", "id": 1459443, "predecessors": [{"name": "Maschinenbau", "id": 239333}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

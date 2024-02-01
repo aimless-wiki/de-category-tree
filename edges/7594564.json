@@ -1,1 +1,1 @@
-{"name": "Frauentitel", "id": 7594564, "predecessors": [{"name": "Anrede", "id": 1741649}, {"name": "Frau_(Bezeichnung)", "id": 8386028}, {"name": "Titel", "id": 373669}], "successors": [{"name": "Marientitel", "id": 1650821}]}
+{"name": "Frauentitel", "id": 7594564, "predecessors": [{"name": "Frau_(Bezeichnung)", "id": 8386028}, {"name": "Titel", "id": 373669}, {"name": "Mündliche_Kommunikation", "id": 1618063}], "successors": [{"name": "Marientitel", "id": 1650821}]}

@@ -1,1 +1,1 @@
-{"name": "Diagnostisches_Verfahren_in_der_Augenheilkunde", "id": 3040246, "predecessors": [{"name": "Augenheilkunde", "id": 292537}, {"name": "Diagnostisches_Verfahren", "id": 3032281}], "successors": []}
+{"name": "Diagnostisches_Verfahren_in_der_Augenheilkunde", "id": 3040246, "predecessors": [{"name": "Auge", "id": 420857}, {"name": "Diagnostik", "id": 1020878}], "successors": []}

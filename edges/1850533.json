@@ -1,1 +1,1 @@
-{"name": "Räucherwerk", "id": 1850533, "predecessors": [{"name": "Feuer_in_der_Kultur", "id": 5743000}, {"name": "Magisches_Objekt", "id": 9540841}, {"name": "Rauch", "id": 9977642}, {"name": "Chemikalien_nach_Verwendung", "id": 5176459}], "successors": []}
+{"name": "Räucherwerk", "id": 1850533, "predecessors": [{"name": "Feuer_in_der_Kultur", "id": 5743000}, {"name": "Riechen", "id": 591723}, {"name": "Magie", "id": 361192}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

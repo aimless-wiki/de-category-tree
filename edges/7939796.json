@@ -1,1 +1,1 @@
-{"name": "Gewässersystem_Sankt-Lorenz-Golf", "id": 7939796, "predecessors": [{"name": "Gewässersystem_Atlantischer_Ozean", "id": 7919750}, {"name": "Sankt-Lorenz-Golf", "id": 8002171}], "successors": [{"name": "Flusssystem_Sankt-Lorenz-Strom", "id": 4086033}, {"name": "Flusssystem_Miramichi_River", "id": 10517594}]}
+{"name": "Gewässersystem_Sankt-Lorenz-Golf", "id": 7939796, "predecessors": [{"name": "Gewässersystem_Atlantischer_Ozean", "id": 7919750}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Flusssystem_Sankt-Lorenz-Strom", "id": 4086033}]}

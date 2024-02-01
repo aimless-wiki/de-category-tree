@@ -1,1 +1,1 @@
-{"name": "Rezitator", "id": 8766367, "predecessors": [{"name": "Gesprochenes_Wort", "id": 5145747}, {"name": "Lyrik", "id": 278940}, {"name": "Darstellende_Kunst", "id": 595272}], "successors": []}
+{"name": "Rezitator", "id": 8766367, "predecessors": [{"name": "Lyrik", "id": 278940}, {"name": "Mündliche_Kommunikation", "id": 1618063}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

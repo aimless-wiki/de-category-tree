@@ -1,1 +1,1 @@
-{"name": "Maltechnik", "id": 5657918, "predecessors": [{"name": "Gattung_der_Malerei", "id": 5657528}, {"name": "Technik_der_Malerei", "id": 458075}], "successors": []}
+{"name": "Maltechnik", "id": 5657918, "predecessors": [{"name": "Technik_der_Malerei", "id": 458075}, {"name": "Bildende_Kunst", "id": 235961}], "successors": []}

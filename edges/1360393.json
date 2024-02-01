@@ -1,1 +1,1 @@
-{"name": "Sexualwissenschaft", "id": 1360393, "predecessors": [{"name": "Angewandte_Psychologie", "id": 676191}, {"name": "Sexualität_des_Menschen", "id": 6184371}], "successors": [{"name": "Sexualwissenschaftler", "id": 1360391}]}
+{"name": "Sexualwissenschaft", "id": 1360393, "predecessors": [{"name": "Sexualität_des_Menschen", "id": 6184371}, {"name": "Wissen", "id": 408867}], "successors": [{"name": "Sexualwissenschaftler", "id": 1360391}]}

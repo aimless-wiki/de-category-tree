@@ -1,1 +1,1 @@
-{"name": "Blues-Musiker", "id": 390627, "predecessors": [{"name": "Musik", "id": 235486}, {"name": "Blues", "id": 362848}], "successors": [{"name": "Blues-Sänger", "id": 4083404}, {"name": "Chicagoblues-Musiker", "id": 5923193}, {"name": "Blues-Gitarrist", "id": 10001639}]}
+{"name": "Blues-Musiker", "id": 390627, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}, {"name": "Blues", "id": 362848}], "successors": [{"name": "Blues-Sänger", "id": 4083404}, {"name": "Chicagoblues-Musiker", "id": 5923193}, {"name": "Blues-Gitarrist", "id": 10001639}]}

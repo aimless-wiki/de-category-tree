@@ -1,1 +1,1 @@
-{"name": "Getriebelehre", "id": 260613, "predecessors": [{"name": "Getriebetechnik", "id": 1896869}, {"name": "Technische_Dynamik", "id": 3820807}], "successors": []}
+{"name": "Getriebelehre", "id": 260613, "predecessors": [{"name": "Technische_Dynamik", "id": 3820807}, {"name": "Antriebstechnik", "id": 491624}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Gemüsegericht", "id": 251342, "predecessors": [{"name": "Speise_aus_Gemüse_oder_Teigwaren", "id": 8523650}, {"name": "Pflanzen_in_der_Kultur", "id": 9067106}], "successors": [{"name": "Gemüsesuppe", "id": 11819894}]}
+{"name": "Gemüsegericht", "id": 251342, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}, {"name": "Alltagskultur", "id": 595902}], "successors": []}

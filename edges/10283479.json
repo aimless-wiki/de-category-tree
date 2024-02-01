@@ -1,1 +1,1 @@
-{"name": "Übersetzer_ins_Tschechische", "id": 10283479, "predecessors": [{"name": "Tschechische_Sprache", "id": 1149920}, {"name": "Übersetzer", "id": 6735499}], "successors": []}
+{"name": "Übersetzer_ins_Tschechische", "id": 10283479, "predecessors": [{"name": "Sprache", "id": 242582}, {"name": "Übersetzer", "id": 6735499}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Klimafolgenforschung", "id": 4563602, "predecessors": [{"name": "Klimaveränderung", "id": 5339017}, {"name": "Nachhaltigkeit", "id": 740443}, {"name": "Umweltmodellierung", "id": 10160117}], "successors": []}
+{"name": "Klimafolgenforschung", "id": 4563602, "predecessors": [{"name": "Nachhaltigkeit", "id": 740443}, {"name": "Klimageschichte", "id": 4563878}, {"name": "Modellierung_und_Simulation", "id": 7673047}], "successors": []}

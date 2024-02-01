@@ -1,1 +1,1 @@
-{"name": "Schimpfwort_(Person)", "id": 2803292, "predecessors": [{"name": "Personenbezeichnung", "id": 7793201}, {"name": "Schimpfwort", "id": 8385269}], "successors": [{"name": "Schimpfwort_(Frau)", "id": 6700334}, {"name": "Schimpfwort_(Mann)", "id": 8385279}]}
+{"name": "Schimpfwort_(Person)", "id": 2803292, "predecessors": [{"name": "Schimpfwort", "id": 8385269}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "E-Gitarre", "id": 879480, "predecessors": [{"name": "Gitarre", "id": 879124}], "successors": [{"name": "Gitarrenverstärker", "id": 5629807}, {"name": "E-Gitarre_nach_Hersteller", "id": 5629815}, {"name": "E-Bass_nach_Hersteller", "id": 7227461}]}
+{"name": "E-Gitarre", "id": 879480, "predecessors": [{"name": "Gitarre", "id": 879124}], "successors": [{"name": "Gitarrenverstärker", "id": 5629807}]}

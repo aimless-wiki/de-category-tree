@@ -1,1 +1,1 @@
-{"name": "Mazda-Automobil", "id": 10130270, "predecessors": [{"name": "Mazda", "id": 794486}, {"name": "Automobile", "id": 242713}], "successors": []}
+{"name": "Mazda-Automobil", "id": 10130270, "predecessors": [{"name": "Ford", "id": 248193}, {"name": "Automobile", "id": 242713}], "successors": []}

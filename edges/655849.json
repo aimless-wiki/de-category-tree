@@ -1,1 +1,1 @@
-{"name": "Oberflächentechnik", "id": 655849, "predecessors": [{"name": "Fertigungstechnik", "id": 239336}], "successors": [{"name": "Beschichten", "id": 1924061}, {"name": "Oberflächenfehler", "id": 4372562}, {"name": "Glätten_(Fertigungsverfahren)", "id": 8840493}, {"name": "Oberflächenvorbehandlung", "id": 9096185}, {"name": "Korrosionsschutz", "id": 9096634}, {"name": "Schmierung", "id": 7062223}]}
+{"name": "Oberflächentechnik", "id": 655849, "predecessors": [{"name": "Maschinenbau", "id": 239333}], "successors": [{"name": "Korrosionsschutz", "id": 9096634}]}

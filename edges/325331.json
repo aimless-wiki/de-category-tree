@@ -1,1 +1,1 @@
-{"name": "Rapper", "id": 325331, "predecessors": [{"name": "Hip-Hop", "id": 1441964}, {"name": "Rap", "id": 241871}, {"name": "Sänger", "id": 235529}, {"name": "Musik", "id": 235486}], "successors": [{"name": "Grime-Musiker", "id": 5903554}]}
+{"name": "Rapper", "id": 325331, "predecessors": [{"name": "Hip-Hop", "id": 1441964}, {"name": "Sänger", "id": 235529}, {"name": "Hip-Hop-Musik", "id": 1842911}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Grime-Musiker", "id": 5903554}]}

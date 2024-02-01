@@ -1,1 +1,1 @@
-{"name": "Getriebe", "id": 1896865, "predecessors": [{"name": "Antriebsglied", "id": 9393362}, {"name": "Getriebetechnik", "id": 1896869}], "successors": [{"name": "Fahrzeuggetriebe", "id": 7768294}, {"name": "Betätigungsgestänge", "id": 10526575}]}
+{"name": "Getriebe", "id": 1896865, "predecessors": [{"name": "Antriebsglied", "id": 9393362}, {"name": "Antriebstechnik", "id": 491624}], "successors": [{"name": "Fahrzeuggetriebe", "id": 7768294}, {"name": "Betätigungsgestänge", "id": 10526575}]}

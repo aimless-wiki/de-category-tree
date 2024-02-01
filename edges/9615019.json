@@ -1,1 +1,1 @@
-{"name": "Küstenfestung", "id": 9615019, "predecessors": [{"name": "Küstenwesen", "id": 7801622}, {"name": "Militärbauwerk", "id": 7342712}, {"name": "Stadtbaugeschichte", "id": 278962}, {"name": "Artillerie", "id": 882813}], "successors": [{"name": "Device_Fort", "id": 9611034}]}
+{"name": "Küstenfestung", "id": 9615019, "predecessors": [{"name": "Militärische_Einrichtung", "id": 422073}, {"name": "Wasserwirtschaft", "id": 323787}, {"name": "!Hauptkategorie", "id": 235489}, {"name": "Artillerie", "id": 882813}], "successors": []}

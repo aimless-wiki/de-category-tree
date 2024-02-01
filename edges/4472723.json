@@ -1,1 +1,1 @@
-{"name": "Benzolsulfonsäure", "id": 4472723, "predecessors": [{"name": "Carbocyclischer_Aromat", "id": 12437237}, {"name": "Sulfonsäure", "id": 2999806}], "successors": []}
+{"name": "Benzolsulfonsäure", "id": 4472723, "predecessors": [{"name": "Sulfonsäure", "id": 2999806}, {"name": "Chemie", "id": 235238}], "successors": []}

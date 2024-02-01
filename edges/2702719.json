@@ -1,1 +1,1 @@
-{"name": "Sportbad", "id": 2702719, "predecessors": [{"name": "Badeanlage", "id": 240142}, {"name": "Schwimmsport", "id": 1924180}, {"name": "Gewässer_nach_Verwendung", "id": 11219210}], "successors": []}
+{"name": "Sportbad", "id": 2702719, "predecessors": [{"name": "Schwimmsport", "id": 1924180}, {"name": "Badekultur", "id": 3231315}, {"name": "Humangeographie", "id": 246087}], "successors": []}

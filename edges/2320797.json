@@ -1,1 +1,1 @@
-{"name": "Mykotoxin", "id": 2320797, "predecessors": [{"name": "Medizinische_Mykologie", "id": 4473092}, {"name": "Schimmelpilze", "id": 10495693}, {"name": "Toxin", "id": 3286363}], "successors": []}
+{"name": "Mykotoxin", "id": 2320797, "predecessors": [{"name": "Biochemie", "id": 281260}, {"name": "Mikrobiologie", "id": 429691}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

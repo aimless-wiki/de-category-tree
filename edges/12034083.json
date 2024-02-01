@@ -1,1 +1,1 @@
-{"name": "Artilleriezugmaschine", "id": 12034083, "predecessors": [{"name": "Artillerie", "id": 882813}, {"name": "Zugmaschine", "id": 12586206}, {"name": "Landfahrzeug", "id": 1943698}], "successors": []}
+{"name": "Artilleriezugmaschine", "id": 12034083, "predecessors": [{"name": "Artillerie", "id": 882813}, {"name": "!Hauptkategorie", "id": 235489}, {"name": "Nutzfahrzeuge", "id": 235419}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Computertaste", "id": 387824, "predecessors": [{"name": "Eingabegerät", "id": 338495}, {"name": "Tastatur", "id": 2342812}, {"name": "Taste", "id": 7998453}], "successors": []}
+{"name": "Computertaste", "id": 387824, "predecessors": [{"name": "Eingabegerät", "id": 338495}, {"name": "Benutzerschnittstelle", "id": 492227}, {"name": "Bedienelement", "id": 2521216}], "successors": []}

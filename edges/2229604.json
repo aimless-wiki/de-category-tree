@@ -1,1 +1,1 @@
-{"name": "Omnibustyp", "id": 2229604, "predecessors": [{"name": "Omnibusse", "id": 1032462}, {"name": "Fahrzeugbau", "id": 9213891}], "successors": []}
+{"name": "Omnibustyp", "id": 2229604, "predecessors": [{"name": "Nutzfahrzeuge", "id": 235419}, {"name": "Klassifikation_(Wirtschaft)", "id": 6149864}], "successors": []}

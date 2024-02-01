@@ -1,1 +1,1 @@
-{"name": "Brücke_in_Wien", "id": 1024481, "predecessors": [{"name": "Verkehrsbauwerk_in_Wien", "id": 3879755}, {"name": "Architektur", "id": 1884679}], "successors": [{"name": "Donaukanalbrücke_in_Wien", "id": 3807348}, {"name": "Wienflussbrücke_in_Wien", "id": 3807431}]}
+{"name": "Brücke_in_Wien", "id": 1024481, "predecessors": [{"name": "Bauwerk_in_Wien", "id": 992185}, {"name": "Architektur", "id": 1884679}], "successors": []}

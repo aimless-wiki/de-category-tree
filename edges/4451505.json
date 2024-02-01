@@ -1,1 +1,1 @@
-{"name": "Germanische_Sprachwissenschaft", "id": 4451505, "predecessors": [{"name": "Germanische_Sprachen", "id": 2723152}], "successors": []}
+{"name": "Germanische_Sprachwissenschaft", "id": 4451505, "predecessors": [{"name": "Sprache", "id": 242582}], "successors": [{"name": "Runologe", "id": 6638115}, {"name": "Runeninschrift", "id": 6064278}]}

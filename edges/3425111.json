@@ -1,1 +1,1 @@
-{"name": "Lunge", "id": 3425111, "predecessors": [{"name": "Medizin", "id": 236137}], "successors": [{"name": "Pneumologie", "id": 1632984}]}
+{"name": "Lunge", "id": 3425111, "predecessors": [{"name": "Zoologie", "id": 252533}], "successors": [{"name": "Atmung", "id": 1124091}, {"name": "Krankheitsbild_in_der_Pneumologie", "id": 2624203}, {"name": "Pneumologe", "id": 4814427}, {"name": "ATC-R03", "id": 1928279}]}

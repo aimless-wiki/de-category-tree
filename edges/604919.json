@@ -1,1 +1,1 @@
-{"name": "Antimykotikum", "id": 604919, "predecessors": [{"name": "Medizinische_Mykologie", "id": 4473092}, {"name": "Wirkstoffgruppe", "id": 1494692}], "successors": []}
+{"name": "Antimykotikum", "id": 604919, "predecessors": [{"name": "Wirkstoffgruppe", "id": 1494692}, {"name": "Mikrobiologie", "id": 429691}], "successors": []}

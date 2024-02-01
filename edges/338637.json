@@ -1,1 +1,1 @@
-{"name": "Netzwerkgerät", "id": 338637, "predecessors": [{"name": "Hardware_(Gerät)", "id": 8612984}, {"name": "Netzwerkgeräte", "id": 8616087}], "successors": [{"name": "Modem", "id": 2338017}, {"name": "Router", "id": 6745783}]}
+{"name": "Netzwerkgerät", "id": 338637, "predecessors": [{"name": "Hardware", "id": 240608}], "successors": []}

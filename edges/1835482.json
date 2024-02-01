@@ -1,1 +1,1 @@
-{"name": "Triebfahrzeug_(BLS)", "id": 1835482, "predecessors": [{"name": "BLS_AG", "id": 3397813}, {"name": "Lötschbergbahn", "id": 11845585}, {"name": "Triebfahrzeug_(Schweiz)", "id": 770084}, {"name": "Triebfahrzeug", "id": 242007}], "successors": []}
+{"name": "Triebfahrzeug_(BLS)", "id": 1835482, "predecessors": [{"name": "Triebfahrzeug_(Schweiz)", "id": 770084}, {"name": "Schienenfahrzeug", "id": 416413}, {"name": "Schienenverkehr_(Schweiz)", "id": 295416}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

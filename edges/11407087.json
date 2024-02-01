@@ -1,1 +1,1 @@
-{"name": "Luftschutzbunker", "id": 11407087, "predecessors": [{"name": "Bunker", "id": 1776938}, {"name": "Luftschutz", "id": 11407082}], "successors": []}
+{"name": "Luftschutzbunker", "id": 11407087, "predecessors": [{"name": "Bauwerk_aus_Beton", "id": 5634241}, {"name": "Luftkrieg", "id": 1141825}], "successors": []}

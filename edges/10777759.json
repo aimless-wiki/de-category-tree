@@ -1,1 +1,1 @@
-{"name": "Motorjournalist", "id": 10777759, "predecessors": [{"name": "Kraftfahrzeuge", "id": 9416796}, {"name": "Journalist", "id": 236345}], "successors": []}
+{"name": "Motorjournalist", "id": 10777759, "predecessors": [{"name": "Journalismus", "id": 304897}, {"name": "Straßenverkehr", "id": 235275}], "successors": []}

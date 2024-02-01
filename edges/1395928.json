@@ -1,1 +1,1 @@
-{"name": "Tuberkulose", "id": 1395928, "predecessors": [{"name": "Medizin", "id": 236137}, {"name": "Bakteriologie", "id": 2956942}], "successors": []}
+{"name": "Tuberkulose", "id": 1395928, "predecessors": [{"name": "Bakteriologie", "id": 2956942}, {"name": "Wissen", "id": 408867}], "successors": []}

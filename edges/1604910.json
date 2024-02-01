@@ -1,1 +1,1 @@
-{"name": "Prüfwerkzeug", "id": 1604910, "predecessors": [{"name": "Prüftechnik", "id": 2294562}, {"name": "Werkzeug", "id": 242680}], "successors": [{"name": "Prüfmittel_zur_elektromagnetischen_Verträglichkeit", "id": 5598533}, {"name": "Lineal_oder_Schablone", "id": 6757080}, {"name": "Lehre_(Technik)", "id": 8179384}]}
+{"name": "Prüfwerkzeug", "id": 1604910, "predecessors": [{"name": "Prüftechnik", "id": 2294562}, {"name": "Werkzeug", "id": 242680}], "successors": []}

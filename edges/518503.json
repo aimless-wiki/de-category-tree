@@ -1,1 +1,1 @@
-{"name": "Vitamin", "id": 518503, "predecessors": [{"name": "Biomolekül", "id": 286899}, {"name": "Lebensmittelinhaltsstoff", "id": 6131546}, {"name": "Nährstoff", "id": 7521555}], "successors": []}
+{"name": "Vitamin", "id": 518503, "predecessors": [{"name": "Lebensmittelinhaltsstoff", "id": 6131546}, {"name": "Biochemie", "id": 281260}, {"name": "Wissen", "id": 408867}], "successors": []}

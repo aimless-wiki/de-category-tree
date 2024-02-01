@@ -1,1 +1,1 @@
-{"name": "Heilberuf", "id": 620312, "predecessors": [{"name": "Beruf_im_Gesundheitswesen", "id": 5388523}, {"name": "Medizin", "id": 236137}], "successors": []}
+{"name": "Heilberuf", "id": 620312, "predecessors": [{"name": "Wissen", "id": 408867}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

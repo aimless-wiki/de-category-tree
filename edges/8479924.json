@@ -1,1 +1,1 @@
-{"name": "Person_(Film,_München)", "id": 8479924, "predecessors": [{"name": "Film_(München)", "id": 3131272}, {"name": "Person_(Medien,_München)", "id": 9872780}, {"name": "Person_(Film)", "id": 6511959}], "successors": [{"name": "Hochschullehrer_(HFF_München)", "id": 4438124}]}
+{"name": "Person_(Film,_München)", "id": 8479924, "predecessors": [{"name": "Person_(Medien,_München)", "id": 9872780}, {"name": "Person_(Film)", "id": 6511959}, {"name": "Kultur_(München)", "id": 1162357}], "successors": []}

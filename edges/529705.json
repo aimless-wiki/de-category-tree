@@ -1,1 +1,1 @@
-{"name": "Seenotrettungsboot", "id": 529705, "predecessors": [{"name": "Deutsche_Gesellschaft_zur_Rettung_Schiffbrüchiger", "id": 6469798}, {"name": "Rettungsboot", "id": 7230392}], "successors": []}
+{"name": "Seenotrettungsboot", "id": 529705, "predecessors": [{"name": "Wasserrettung", "id": 1014025}, {"name": "Seeschifffahrt", "id": 671464}], "successors": []}

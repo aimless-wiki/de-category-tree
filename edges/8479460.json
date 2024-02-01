@@ -1,1 +1,1 @@
-{"name": "Russischsprachige_Tageszeitung", "id": 8479460, "predecessors": [{"name": "Russischsprachige_Zeitung", "id": 6751686}, {"name": "Tageszeitung", "id": 5067544}], "successors": []}
+{"name": "Russischsprachige_Tageszeitung", "id": 8479460, "predecessors": [{"name": "Tageszeitung", "id": 5067544}, {"name": "Russische_Sprache", "id": 387084}], "successors": []}

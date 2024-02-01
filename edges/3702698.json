@@ -1,1 +1,1 @@
-{"name": "Kanutyp", "id": 3702698, "predecessors": [{"name": "Bootstyp", "id": 569687}, {"name": "Sportgerät", "id": 249896}, {"name": "Wasserfahrzeug", "id": 337868}, {"name": "Kanusport", "id": 242777}], "successors": []}
+{"name": "Kanutyp", "id": 3702698, "predecessors": [{"name": "Bootstyp", "id": 569687}, {"name": "Sportgerät", "id": 249896}, {"name": "Kanusport", "id": 242777}, {"name": "Antriebstechnik", "id": 491624}], "successors": []}

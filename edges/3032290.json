@@ -1,1 +1,1 @@
-{"name": "Apparatives_Untersuchungsverfahren", "id": 3032290, "predecessors": [{"name": "Diagnostisches_Verfahren", "id": 3032281}, {"name": "Medizintechnik", "id": 283817}], "successors": [{"name": "Bildgebendes_Verfahren_(Medizin)", "id": 7655315}]}
+{"name": "Apparatives_Untersuchungsverfahren", "id": 3032290, "predecessors": [{"name": "Medizintechnik", "id": 283817}, {"name": "Diagnostik", "id": 1020878}], "successors": [{"name": "Bildgebendes_Verfahren_(Medizin)", "id": 7655315}]}

@@ -1,1 +1,1 @@
-{"name": "BBC-Micro-/Acorn-Electron-Spiel", "id": 6900293, "predecessors": [{"name": "Acorn", "id": 4390215}, {"name": "Anwendungssoftware", "id": 5234444}], "successors": []}
+{"name": "BBC-Micro-/Acorn-Electron-Spiel", "id": 6900293, "predecessors": [{"name": "Anwendungssoftware", "id": 5234444}, {"name": "Informationstechnik", "id": 2109576}], "successors": []}

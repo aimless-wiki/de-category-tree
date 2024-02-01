@@ -1,1 +1,1 @@
-{"name": "Fluorbenzol", "id": 12064742, "predecessors": [{"name": "Carbocyclischer_Aromat", "id": 12437237}, {"name": "Organofluorverbindung", "id": 1963614}], "successors": [{"name": "Fluorchinolon", "id": 10150945}]}
+{"name": "Fluorbenzol", "id": 12064742, "predecessors": [{"name": "Fluorverbindung", "id": 1812384}, {"name": "Chemie", "id": 235238}], "successors": []}

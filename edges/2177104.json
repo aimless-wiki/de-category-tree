@@ -1,1 +1,1 @@
-{"name": "Grafikkarte", "id": 2177104, "predecessors": [{"name": "Hardware_(Gerät)", "id": 8612984}, {"name": "Steckkarte", "id": 2291792}, {"name": "Computergrafik", "id": 249536}], "successors": []}
+{"name": "Grafikkarte", "id": 2177104, "predecessors": [{"name": "Hardware", "id": 240608}, {"name": "Computergrafik", "id": 249536}], "successors": []}

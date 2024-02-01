@@ -1,1 +1,1 @@
-{"name": "Spanischsprachiger_Fernsehsender", "id": 8938247, "predecessors": [{"name": "Spanischsprachiges_Medium", "id": 7853906}, {"name": "Fernsehsender", "id": 238051}], "successors": []}
+{"name": "Spanischsprachiger_Fernsehsender", "id": 8938247, "predecessors": [{"name": "Fernsehen", "id": 290987}, {"name": "Spanische_Sprache", "id": 600430}], "successors": []}

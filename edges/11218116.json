@@ -1,1 +1,1 @@
-{"name": "Alpha-Aminosäure", "id": 11218116, "predecessors": [{"name": "Aminosäure", "id": 534569}], "successors": [{"name": "Alpha-Aminopropansäure", "id": 11427573}, {"name": "Alpha-Aminoethansäure", "id": 11427575}]}
+{"name": "Alpha-Aminosäure", "id": 11218116, "predecessors": [{"name": "Amin", "id": 1072056}], "successors": [{"name": "Alpha-Aminopropansäure", "id": 11427573}, {"name": "Alpha-Aminoethansäure", "id": 11427575}]}

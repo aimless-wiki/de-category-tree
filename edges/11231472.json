@@ -1,1 +1,1 @@
-{"name": "Cyclopentanol", "id": 11231472, "predecessors": [{"name": "Cycloalkanol", "id": 5409678}, {"name": "Cyclopentan", "id": 4178611}], "successors": []}
+{"name": "Cyclopentanol", "id": 11231472, "predecessors": [{"name": "Cyclopentan", "id": 4178611}, {"name": "Alkohol", "id": 656370}], "successors": []}

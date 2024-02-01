@@ -1,1 +1,1 @@
-{"name": "Flugsimulator", "id": 254702, "predecessors": [{"name": "Simulationsspiel", "id": 1419464}, {"name": "Simulator", "id": 4028677}, {"name": "Luftfahrt", "id": 236124}], "successors": []}
+{"name": "Flugsimulator", "id": 254702, "predecessors": [{"name": "Simulationsspiel", "id": 1419464}, {"name": "Modellierung_und_Simulation", "id": 7673047}, {"name": "Angewandte_Informatik", "id": 549747}], "successors": []}

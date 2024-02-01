@@ -1,1 +1,1 @@
-{"name": "Hotelkette", "id": 1552514, "predecessors": [{"name": "Beherbergungsbetrieb", "id": 7342913}, {"name": "Hotellerie", "id": 1843561}], "successors": []}
+{"name": "Hotelkette", "id": 1552514, "predecessors": [{"name": "Hotellerie", "id": 1843561}, {"name": "Beherbergung", "id": 1843757}], "successors": []}

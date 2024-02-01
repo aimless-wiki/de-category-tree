@@ -1,1 +1,1 @@
-{"name": "Häftling_im_Ghetto_Litzmannstadt", "id": 7314695, "predecessors": [{"name": "Ghetto_Litzmannstadt", "id": 7656604}, {"name": "KZ-Häftling", "id": 4519774}], "successors": []}
+{"name": "Häftling_im_Ghetto_Litzmannstadt", "id": 7314695, "predecessors": [{"name": "KZ-Häftling", "id": 4519774}, {"name": "Holocaust_in_Polen", "id": 7319697}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Schmerztherapie", "id": 919086, "predecessors": [{"name": "Anästhesie", "id": 566158}, {"name": "Therapie", "id": 418504}], "successors": [{"name": "Analgetikum", "id": 940646}, {"name": "Regionalanästhesieverfahren", "id": 4078964}]}
+{"name": "Schmerztherapie", "id": 919086, "predecessors": [{"name": "Anästhesie", "id": 566158}, {"name": "Therapie", "id": 418504}], "successors": [{"name": "Opioid", "id": 580719}, {"name": "Nichtopioid-Analgetikum", "id": 598128}]}

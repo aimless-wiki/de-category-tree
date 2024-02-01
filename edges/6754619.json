@@ -1,1 +1,1 @@
-{"name": "Grenzstein", "id": 6754619, "predecessors": [{"name": "Grenzmarkierung", "id": 6759100}, {"name": "Individueller_Vermessungspunkt", "id": 7875469}, {"name": "Kleindenkmal", "id": 5980656}, {"name": "Stein", "id": 12574282}], "successors": [{"name": "Dreiherrenstein", "id": 7319030}]}
+{"name": "Grenzstein", "id": 6754619, "predecessors": [{"name": "Kleindenkmal", "id": 5980656}, {"name": "Geodäsie", "id": 267298}, {"name": "Vermessungspunkt", "id": 5800209}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

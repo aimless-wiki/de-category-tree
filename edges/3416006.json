@@ -1,1 +1,1 @@
-{"name": "Klassischer_Oboist", "id": 3416006, "predecessors": [{"name": "Interpret_klassischer_Musik", "id": 1106786}, {"name": "Oboist", "id": 478220}], "successors": []}
+{"name": "Klassischer_Oboist", "id": 3416006, "predecessors": [{"name": "Oboist", "id": 478220}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

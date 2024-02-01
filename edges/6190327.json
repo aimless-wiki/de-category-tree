@@ -1,1 +1,1 @@
-{"name": "Diebstahl", "id": 6190327, "predecessors": [{"name": "Besondere_Strafrechtslehre", "id": 480989}, {"name": "Kriminalität", "id": 425597}], "successors": [{"name": "Dieb", "id": 2096475}, {"name": "Raub", "id": 6190277}, {"name": "Pferdedieb", "id": 10832510}]}
+{"name": "Diebstahl", "id": 6190327, "predecessors": [{"name": "Besondere_Strafrechtslehre", "id": 480989}, {"name": "Kriminalität", "id": 425597}], "successors": [{"name": "Räuber", "id": 279435}, {"name": "Kunstraub", "id": 1398755}, {"name": "Piraterie", "id": 1576756}]}

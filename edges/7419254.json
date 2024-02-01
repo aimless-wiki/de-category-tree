@@ -1,1 +1,1 @@
-{"name": "Würzende_Zutat", "id": 7419254, "predecessors": [{"name": "Würzmittel", "id": 1051300}], "successors": [{"name": "Gewürz", "id": 245069}, {"name": "Würzsauce", "id": 8512017}]}
+{"name": "Würzende_Zutat", "id": 7419254, "predecessors": [{"name": "Würzmittel", "id": 1051300}], "successors": [{"name": "Würzsauce", "id": 8512017}, {"name": "Fruchtgewürz", "id": 8867443}, {"name": "Blattgewürz", "id": 8867452}, {"name": "Kräuter_(Gewürz)", "id": 8867723}]}

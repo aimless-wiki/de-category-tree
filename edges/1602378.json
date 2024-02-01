@@ -1,1 +1,1 @@
-{"name": "Steinwerkzeug", "id": 1602378, "predecessors": [{"name": "Stein", "id": 12574282}, {"name": "Steinzeit", "id": 238886}, {"name": "Werkzeug", "id": 242680}], "successors": [{"name": "Individueller_Faustkeil", "id": 11135506}]}
+{"name": "Steinwerkzeug", "id": 1602378, "predecessors": [{"name": "Steinzeit", "id": 238886}, {"name": "Werkzeug", "id": 242680}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

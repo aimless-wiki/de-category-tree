@@ -1,1 +1,1 @@
-{"name": "Silberbergwerk", "id": 4710647, "predecessors": [{"name": "Erzbergwerk", "id": 6462074}, {"name": "Erzbergbau", "id": 7657267}], "successors": []}
+{"name": "Silberbergwerk", "id": 4710647, "predecessors": [{"name": "Metallurgie", "id": 347018}, {"name": "Silber", "id": 5089270}], "successors": []}

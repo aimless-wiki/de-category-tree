@@ -1,1 +1,1 @@
-{"name": "Virtual-Reality-Spiel", "id": 10456197, "predecessors": [{"name": "Virtual-Reality-Software", "id": 10732152}, {"name": "Anwendungssoftware", "id": 5234444}], "successors": []}
+{"name": "Virtual-Reality-Spiel", "id": 10456197, "predecessors": [{"name": "Anwendungssoftware", "id": 5234444}, {"name": "Software", "id": 232824}], "successors": []}

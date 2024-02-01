@@ -1,1 +1,1 @@
-{"name": "Sportgerät", "id": 249896, "predecessors": [{"name": "Sportausrüstung", "id": 4122994}, {"name": "Gerät", "id": 381787}], "successors": [{"name": "Trainingsgerät", "id": 3666372}, {"name": "Kanutyp", "id": 3702698}, {"name": "Skateboardtyp", "id": 5713951}, {"name": "Ball", "id": 5818624}]}
+{"name": "Sportgerät", "id": 249896, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Trainingsgerät", "id": 3666372}, {"name": "Kanutyp", "id": 3702698}]}

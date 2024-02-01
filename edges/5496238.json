@@ -1,1 +1,1 @@
-{"name": "Kirchengebäude_des_Jugendstils", "id": 5496238, "predecessors": [{"name": "Bauwerk_des_Jugendstils", "id": 2778321}, {"name": "Kirchengebäude_der_Moderne", "id": 5335361}], "successors": []}
+{"name": "Kirchengebäude_des_Jugendstils", "id": 5496238, "predecessors": [{"name": "Kirchengebäude_der_Moderne", "id": 5335361}, {"name": "Architektur_der_Moderne", "id": 7571788}], "successors": []}

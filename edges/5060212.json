@@ -1,1 +1,1 @@
-{"name": "Getreidespeicher", "id": 5060212, "predecessors": [{"name": "Getreideverarbeitung", "id": 9204888}, {"name": "Landwirtschaftliches_Bauwerk", "id": 7958074}, {"name": "Speichergebäude", "id": 3490056}], "successors": [{"name": "Getreidekasten_in_Bayern", "id": 11804883}, {"name": "Hórreo_in_Navarra", "id": 11328020}]}
+{"name": "Getreidespeicher", "id": 5060212, "predecessors": [{"name": "Landwirtschaftliches_Bauwerk", "id": 7958074}, {"name": "Speichergebäude", "id": 3490056}, {"name": "Getreide", "id": 243083}], "successors": []}

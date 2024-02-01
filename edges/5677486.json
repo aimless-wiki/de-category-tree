@@ -1,1 +1,1 @@
-{"name": "Fahrgeschäftstyp", "id": 5677486, "predecessors": [{"name": "Temporäre_Bauform", "id": 5711712}, {"name": "Freizeitwirtschaft", "id": 6753117}], "successors": [{"name": "Achterbahntyp", "id": 2714028}]}
+{"name": "Fahrgeschäftstyp", "id": 5677486, "predecessors": [{"name": "Temporäre_Bauform", "id": 5711712}, {"name": "Dienstleistungssektor", "id": 262419}], "successors": []}

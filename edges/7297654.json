@@ -1,1 +1,1 @@
-{"name": "Personal_im_KZ_Neuengamme", "id": 7297654, "predecessors": [{"name": "KZ-Personal", "id": 1062657}, {"name": "KZ_Neuengamme", "id": 3254214}, {"name": "Bezirk_Bergedorf", "id": 5796644}], "successors": [{"name": "Lagerarzt_im_KZ_Neuengamme", "id": 7306181}]}
+{"name": "Personal_im_KZ_Neuengamme", "id": 7297654, "predecessors": [{"name": "Konzentrationslagersystem", "id": 3225600}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

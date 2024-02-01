@@ -1,1 +1,1 @@
-{"name": "Buchmaler", "id": 3393653, "predecessors": [{"name": "Buchmalerei", "id": 1329187}, {"name": "Kunst_des_Mittelalters", "id": 2878199}, {"name": "Kunsthandwerker", "id": 365877}, {"name": "Miniaturmaler", "id": 2621823}, {"name": "Buchwesen", "id": 7713342}], "successors": []}
+{"name": "Buchmaler", "id": 3393653, "predecessors": [{"name": "Kunsthandwerker", "id": 365877}, {"name": "Miniaturmaler", "id": 2621823}, {"name": "Buchgeschichte", "id": 2683442}, {"name": "Kultur_(Mittelalter)", "id": 4999169}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

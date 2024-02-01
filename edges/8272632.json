@@ -1,1 +1,1 @@
-{"name": "Französischsprachige_Tageszeitung", "id": 8272632, "predecessors": [{"name": "Französischsprachige_Zeitung", "id": 4314673}, {"name": "Tageszeitung", "id": 5067544}], "successors": []}
+{"name": "Französischsprachige_Tageszeitung", "id": 8272632, "predecessors": [{"name": "Tageszeitung", "id": 5067544}, {"name": "Französische_Sprache", "id": 387111}], "successors": []}

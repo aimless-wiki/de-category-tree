@@ -1,1 +1,1 @@
-{"name": "Waffenhersteller", "id": 1065068, "predecessors": [{"name": "Waffentechnik", "id": 667132}], "successors": [{"name": "Waffenschmied", "id": 6528012}, {"name": "Büchsenmeister", "id": 9575907}, {"name": "Ehemaliger_Waffenhersteller", "id": 12267699}]}
+{"name": "Waffenhersteller", "id": 1065068, "predecessors": [{"name": "Waffentechnik", "id": 667132}], "successors": [{"name": "Büchsenmeister", "id": 9575907}, {"name": "Ehemaliger_Waffenhersteller", "id": 12267699}]}

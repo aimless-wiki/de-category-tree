@@ -1,1 +1,1 @@
-{"name": "Medizininformatik", "id": 492792, "predecessors": [{"name": "Angewandte_Informatik", "id": 549747}, {"name": "Interdisziplinäre_Wissenschaft", "id": 2263469}, {"name": "Medizin", "id": 236137}, {"name": "Medizintechnik", "id": 283817}], "successors": [{"name": "Medizininformatiker", "id": 3633604}]}
+{"name": "Medizininformatik", "id": 492792, "predecessors": [{"name": "Angewandte_Informatik", "id": 549747}, {"name": "Interdisziplinäre_Wissenschaft", "id": 2263469}, {"name": "Medizintechnik", "id": 283817}, {"name": "Wissen", "id": 408867}], "successors": []}

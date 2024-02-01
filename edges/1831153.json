@@ -1,1 +1,1 @@
-{"name": "Theaterberuf", "id": 1831153, "predecessors": [{"name": "Beruf_(Darstellende_Kunst)", "id": 6812603}, {"name": "Theater", "id": 245755}], "successors": []}
+{"name": "Theaterberuf", "id": 1831153, "predecessors": [{"name": "Theater", "id": 245755}, {"name": "Beruf_(Kunst_und_Kultur)", "id": 9619726}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Polysaccharid", "id": 3340254, "predecessors": [{"name": "Biopolymer", "id": 3345879}, {"name": "Kohlenhydrat", "id": 482911}], "successors": [{"name": "Cellulose", "id": 4371407}]}
+{"name": "Polysaccharid", "id": 3340254, "predecessors": [{"name": "Biochemie", "id": 281260}, {"name": "Polymer", "id": 3345954}], "successors": []}

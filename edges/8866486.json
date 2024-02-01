@@ -1,1 +1,1 @@
-{"name": "Produktionsplanung_und_-steuerung", "id": 8866486, "predecessors": [{"name": "Produktionsautomatisierung", "id": 10919251}, {"name": "Produktionswirtschaft", "id": 243647}], "successors": [{"name": "ERP-Software", "id": 709036}, {"name": "Losgrößenplanung", "id": 8866326}, {"name": "Materialbedarfsermittlung", "id": 9613623}]}
+{"name": "Produktionsplanung_und_-steuerung", "id": 8866486, "predecessors": [{"name": "Produktionswirtschaft", "id": 243647}, {"name": "Automatisierungstechnik", "id": 274178}], "successors": [{"name": "ERP-Software", "id": 709036}]}

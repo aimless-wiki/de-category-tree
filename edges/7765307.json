@@ -1,1 +1,1 @@
-{"name": "Karosseriebauform", "id": 7765307, "predecessors": [{"name": "Automobilbauart", "id": 502325}, {"name": "Karosserie", "id": 4092978}], "successors": [{"name": "Lkw-Aufbauart", "id": 9038504}]}
+{"name": "Karosseriebauform", "id": 7765307, "predecessors": [{"name": "Karosserie", "id": 4092978}, {"name": "Automobile", "id": 242713}], "successors": []}

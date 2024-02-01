@@ -1,1 +1,1 @@
-{"name": "Militärhistoriker", "id": 2525758, "predecessors": [{"name": "Militärhistoriographie", "id": 9672282}, {"name": "Militärwissenschaftler", "id": 8098047}, {"name": "Historiker", "id": 241079}], "successors": [{"name": "Marinehistoriker", "id": 8284023}]}
+{"name": "Militärhistoriker", "id": 2525758, "predecessors": [{"name": "Interdisziplinäre_Wissenschaft", "id": 2263469}, {"name": "Historiker", "id": 241079}, {"name": "Historiographie", "id": 357407}], "successors": [{"name": "Marinehistoriker", "id": 8284023}]}

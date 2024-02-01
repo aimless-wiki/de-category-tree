@@ -1,1 +1,1 @@
-{"name": "Hydronym", "id": 5398584, "predecessors": [{"name": "Toponomastik", "id": 2726189}, {"name": "Hydrogeographie", "id": 6792653}, {"name": "Einzelwort", "id": 5967813}], "successors": [{"name": "Antiker_Gewässername", "id": 5356105}]}
+{"name": "Hydronym", "id": 5398584, "predecessors": [{"name": "Hydrogeographie", "id": 6792653}, {"name": "Onomastik", "id": 2431714}, {"name": "Wort", "id": 360239}], "successors": []}

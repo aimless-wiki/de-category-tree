@@ -1,1 +1,1 @@
-{"name": "Küstenmotorschiffstyp", "id": 6490587, "predecessors": [{"name": "Frachtschiffstyp", "id": 347974}, {"name": "Küstenwesen", "id": 7801622}], "successors": []}
+{"name": "Küstenmotorschiffstyp", "id": 6490587, "predecessors": [{"name": "Frachtschiffstyp", "id": 347974}, {"name": "Wasserwirtschaft", "id": 323787}], "successors": []}

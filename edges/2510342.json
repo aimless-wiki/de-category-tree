@@ -1,1 +1,1 @@
-{"name": "Beschriftungstechnik", "id": 2510342, "predecessors": [{"name": "Medientechnik", "id": 7707913}, {"name": "Schreibtechnik", "id": 1009260}], "successors": [{"name": "Schreibgerät", "id": 366277}, {"name": "Beschreibstoff", "id": 796542}, {"name": "Prägen_(Technik)", "id": 2355715}, {"name": "Etikett", "id": 7545761}]}
+{"name": "Beschriftungstechnik", "id": 2510342, "predecessors": [{"name": "Schreibtechnik", "id": 1009260}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Schreibgerät", "id": 366277}]}

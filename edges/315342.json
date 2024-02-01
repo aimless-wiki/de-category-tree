@@ -1,1 +1,1 @@
-{"name": "Flötist", "id": 315342, "predecessors": [{"name": "Flöte", "id": 5658661}, {"name": "Instrumentalmusik", "id": 1573200}], "successors": [{"name": "Blockflötist", "id": 777712}, {"name": "Panflötist", "id": 4284211}, {"name": "Querflötist", "id": 7543687}]}
+{"name": "Flötist", "id": 315342, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Blockflötist", "id": 777712}, {"name": "Jazz-Flötist", "id": 2999646}, {"name": "Klassischer_Flötist", "id": 3220155}]}

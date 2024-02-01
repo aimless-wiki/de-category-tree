@@ -1,1 +1,1 @@
-{"name": "Kletterpflanze", "id": 9354836, "predecessors": [{"name": "Begrünung", "id": 7759130}, {"name": "Pflanzentyp", "id": 831631}], "successors": [{"name": "Stechwindengewächse", "id": 11464679}]}
+{"name": "Kletterpflanze", "id": 9354836, "predecessors": [{"name": "Pflanzentyp", "id": 831631}, {"name": "Methode_im_Gartenbau", "id": 7758722}], "successors": []}

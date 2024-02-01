@@ -1,1 +1,1 @@
-{"name": "Katzenrasse", "id": 7434280, "predecessors": [{"name": "Hauskatzenzucht", "id": 6959540}, {"name": "Haustier", "id": 241921}], "successors": []}
+{"name": "Katzenrasse", "id": 7434280, "predecessors": [{"name": "Tierzucht", "id": 1062321}, {"name": "Viehwirtschaft", "id": 353704}], "successors": []}

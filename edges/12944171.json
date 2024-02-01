@@ -1,1 +1,1 @@
-{"name": "Kryptanalytisches_Verfahren", "id": 12944171, "predecessors": [{"name": "Kryptoanalyse", "id": 6628941}, {"name": "Kryptologisches_Verfahren", "id": 2641847}], "successors": []}
+{"name": "Kryptanalytisches_Verfahren", "id": 12944171, "predecessors": [{"name": "Kryptologisches_Verfahren", "id": 2641847}, {"name": "Kryptologie", "id": 244331}], "successors": []}

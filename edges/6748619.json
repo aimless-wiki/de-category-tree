@@ -1,1 +1,1 @@
-{"name": "Straßenbahndepot", "id": 6748619, "predecessors": [{"name": "Bahnbetriebswerk", "id": 1569459}, {"name": "Straßenbahn", "id": 277800}, {"name": "Verkehrsbauwerk_(Ruhender_Verkehr)", "id": 11781699}], "successors": []}
+{"name": "Straßenbahndepot", "id": 6748619, "predecessors": [{"name": "Ruhender_Verkehr", "id": 3971338}, {"name": "Bahnbetrieb", "id": 1603138}], "successors": []}

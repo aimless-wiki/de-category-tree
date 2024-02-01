@@ -1,1 +1,1 @@
-{"name": "Beschichtungsverfahren", "id": 9095735, "predecessors": [{"name": "Beschichten", "id": 1924061}, {"name": "Fertigungsverfahren", "id": 1459446}], "successors": []}
+{"name": "Beschichtungsverfahren", "id": 9095735, "predecessors": [{"name": "Maschinenbau", "id": 239333}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

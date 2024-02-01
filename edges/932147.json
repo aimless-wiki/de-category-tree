@@ -1,1 +1,1 @@
-{"name": "Griechische_Phrase", "id": 932147, "predecessors": [{"name": "Fremdsprachige_Phrase", "id": 5967739}, {"name": "Griechische_Sprache", "id": 423238}], "successors": []}
+{"name": "Griechische_Phrase", "id": 932147, "predecessors": [{"name": "Sprache", "id": 242582}, {"name": "Fremdsprachenunterricht", "id": 1395328}], "successors": []}

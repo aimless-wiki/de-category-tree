@@ -1,1 +1,1 @@
-{"name": "Wassersportart", "id": 2458605, "predecessors": [{"name": "Natursportart", "id": 2483444}, {"name": "Wassersport", "id": 273333}], "successors": [{"name": "Schwimmsportart", "id": 2694546}]}
+{"name": "Wassersportart", "id": 2458605, "predecessors": [{"name": "Natursportart", "id": 2483444}, {"name": "Outdoor", "id": 826737}], "successors": []}

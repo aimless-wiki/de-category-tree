@@ -1,1 +1,1 @@
-{"name": "Bahnstrecke_im_Kanton_Waadt", "id": 3390026, "predecessors": [{"name": "Verkehrsbauwerk_im_Kanton_Waadt", "id": 11721761}, {"name": "Schienenverkehrsbauwerk", "id": 8494210}], "successors": []}
+{"name": "Bahnstrecke_im_Kanton_Waadt", "id": 3390026, "predecessors": [{"name": "Bauwerk_im_Kanton_Waadt", "id": 3420790}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

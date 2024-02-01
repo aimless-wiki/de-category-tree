@@ -1,1 +1,1 @@
-{"name": "Radioaktivität", "id": 1850624, "predecessors": [{"name": "Kernchemie", "id": 1850303}, {"name": "Kernphysik", "id": 249667}, {"name": "Strahlenbiologie", "id": 1860683}], "successors": []}
+{"name": "Radioaktivität", "id": 1850624, "predecessors": [{"name": "Kernphysik", "id": 249667}, {"name": "Wissen", "id": 408867}, {"name": "Chemie", "id": 235238}], "successors": []}

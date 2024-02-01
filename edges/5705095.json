@@ -1,1 +1,1 @@
-{"name": "Brennstoffzellenfahrzeug", "id": 5705095, "predecessors": [{"name": "Brennstoffzellentechnik", "id": 5708316}, {"name": "Wasserstofffahrzeug", "id": 1772088}, {"name": "Elektrogerät", "id": 295771}], "successors": []}
+{"name": "Brennstoffzellenfahrzeug", "id": 5705095, "predecessors": [{"name": "Elektrogerät", "id": 295771}, {"name": "Elektrische_Energietechnik", "id": 3991676}, {"name": "Verkehr_und_Umwelt", "id": 8330356}], "successors": []}

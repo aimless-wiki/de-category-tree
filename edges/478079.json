@@ -1,1 +1,1 @@
-{"name": "Knochen", "id": 478079, "predecessors": [{"name": "Stütz-_und_Bewegungsapparat", "id": 1295242}], "successors": [{"name": "Schädel", "id": 1216491}, {"name": "Wirbel", "id": 5810202}, {"name": "Knochen_der_unteren_Extremität", "id": 5827521}, {"name": "Knochen_der_oberen_Extremität", "id": 5827870}, {"name": "Osteologie", "id": 12538268}]}
+{"name": "Knochen", "id": 478079, "predecessors": [{"name": "Stütz-_und_Bewegungsapparat", "id": 1295242}], "successors": [{"name": "Schädel", "id": 1216491}]}

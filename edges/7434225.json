@@ -1,1 +1,1 @@
-{"name": "Ziegenrasse", "id": 7434225, "predecessors": [{"name": "Haustier", "id": 241921}, {"name": "Agribusiness", "id": 9582301}], "successors": []}
+{"name": "Ziegenrasse", "id": 7434225, "predecessors": [{"name": "Tierzucht", "id": 1062321}, {"name": "Viehwirtschaft", "id": 353704}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

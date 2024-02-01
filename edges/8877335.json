@@ -1,1 +1,1 @@
-{"name": "Chat-Dienst", "id": 8877335, "predecessors": [{"name": "Chat", "id": 2267197}, {"name": "Onlinedienst", "id": 8871004}], "successors": []}
+{"name": "Chat-Dienst", "id": 8877335, "predecessors": [{"name": "Onlinedienst", "id": 8871004}, {"name": "Digitale_Kommunikation", "id": 9263842}], "successors": []}

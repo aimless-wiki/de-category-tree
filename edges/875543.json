@@ -1,1 +1,1 @@
-{"name": "Panzerabwehrrakete", "id": 875543, "predecessors": [{"name": "Panzerabwehrwaffe", "id": 3935635}, {"name": "Raketenwaffe", "id": 1943165}], "successors": []}
+{"name": "Panzerabwehrrakete", "id": 875543, "predecessors": [{"name": "Raketenwaffe", "id": 1943165}, {"name": "Militärische_Ausrüstung", "id": 494487}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Zytostatikum", "id": 580681, "predecessors": [{"name": "Chemotherapie", "id": 798410}, {"name": "Wirkstoffgruppe", "id": 1494692}], "successors": []}
+{"name": "Zytostatikum", "id": 580681, "predecessors": [{"name": "Wirkstoffgruppe", "id": 1494692}, {"name": "Therapeutisches_Verfahren_in_Hämatologie_und_Onkologie", "id": 3032111}], "successors": []}

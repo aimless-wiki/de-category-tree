@@ -1,1 +1,1 @@
-{"name": "Volkssänger", "id": 2259387, "predecessors": [{"name": "Interpret_der_Volksmusik", "id": 4707502}, {"name": "Sänger", "id": 235529}], "successors": []}
+{"name": "Volkssänger", "id": 2259387, "predecessors": [{"name": "Sänger", "id": 235529}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}
