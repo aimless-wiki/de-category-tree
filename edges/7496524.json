@@ -1,1 +1,1 @@
-{"name": "Staatszug", "id": 7496524, "predecessors": [{"name": "Schienenpersonenverkehr", "id": 7803369}, {"name": "Diplomatie", "id": 438097}, {"name": "Schienenfahrzeug", "id": 416413}], "successors": []}
+{"name": "Staatszug", "id": 7496524, "predecessors": [{"name": "Schienenpersonenverkehr", "id": 7803369}, {"name": "Diplomatisches_Protokoll", "id": 9064812}, {"name": "Schienenfahrzeug", "id": 416413}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Scholastik", "id": 644953, "predecessors": [{"name": "Christliche_Theologie", "id": 915536}, {"name": "Philosophie", "id": 236096}, {"name": "Theologie", "id": 237872}], "successors": [{"name": "Scholastiker", "id": 3969903}]}
+{"name": "Scholastik", "id": 644953, "predecessors": [{"name": "Christliche_Theologie", "id": 915536}, {"name": "Geschichte_der_Philosophie", "id": 1033803}, {"name": "Theologie", "id": 237872}, {"name": "Philosophie", "id": 236096}], "successors": [{"name": "Scholastiker", "id": 3969903}]}

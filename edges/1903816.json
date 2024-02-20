@@ -1,1 +1,1 @@
-{"name": "Ätherisches_Öl", "id": 1903816, "predecessors": [{"name": "Duftstoff", "id": 764727}, {"name": "Pflanzenöl", "id": 1060653}, {"name": "Stoffgemisch", "id": 272357}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}
+{"name": "Ätherisches_Öl", "id": 1903816, "predecessors": [{"name": "Duftstoff", "id": 764727}, {"name": "Pflanzenöl", "id": 1060653}, {"name": "Stoffgemisch", "id": 272357}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Phenylpropanoid", "id": 3707385}]}

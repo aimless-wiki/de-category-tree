@@ -1,1 +1,1 @@
-{"name": "Flugabwehrpanzer", "id": 1105872, "predecessors": [{"name": "Panzer", "id": 242717}, {"name": "Luftkrieg", "id": 1141825}], "successors": []}
+{"name": "Flugabwehrpanzer", "id": 1105872, "predecessors": [{"name": "Luftkrieg", "id": 1141825}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

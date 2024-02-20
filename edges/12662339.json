@@ -1,1 +1,1 @@
-{"name": "Phenylsubstituierte_Verbindung", "id": 12662339, "predecessors": [{"name": "Chemie", "id": 235238}, {"name": "Kohlenstoffverbindung", "id": 1958520}], "successors": [{"name": "Phenylsubstituierter_Aromat", "id": 12662340}]}
+{"name": "Phenylsubstituierte_Verbindung", "id": 12662339, "predecessors": [{"name": "Chemie", "id": 235238}, {"name": "Wasserstoffverbindung", "id": 1958558}], "successors": [{"name": "Phenylsubstituierter_Aromat", "id": 12662340}]}

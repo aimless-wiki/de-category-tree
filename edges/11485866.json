@@ -1,1 +1,1 @@
-{"name": "Tierisches_Produkt", "id": 11485866, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Fleisch", "id": 242506}, {"name": "Tierisches_Gift", "id": 2379142}, {"name": "Pelzart", "id": 5591134}, {"name": "Speisefisch", "id": 7981703}]}
+{"name": "Tierisches_Produkt", "id": 11485866, "predecessors": [{"name": "Architekturtheorie", "id": 310109}], "successors": [{"name": "Fleisch", "id": 242506}, {"name": "Tierisches_Gift", "id": 2379142}, {"name": "Pelzart", "id": 5591134}, {"name": "Speisefisch", "id": 7981703}]}

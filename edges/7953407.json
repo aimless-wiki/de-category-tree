@@ -1,1 +1,1 @@
-{"name": "Geldschein", "id": 7953407, "predecessors": [{"name": "Druckerzeugnis", "id": 933696}, {"name": "Papiergeld", "id": 244750}], "successors": []}
+{"name": "Geldschein", "id": 7953407, "predecessors": [{"name": "Druckerzeugnis", "id": 933696}, {"name": "Barer_Zahlungsverkehr", "id": 2092329}], "successors": []}
