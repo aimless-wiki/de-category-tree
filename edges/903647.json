@@ -1,1 +1,1 @@
-{"name": "Katzenkrankheit", "id": 903647, "predecessors": [{"name": "Krankheitsbild_in_der_Tiermedizin", "id": 2661569}, {"name": "Viehwirtschaft", "id": 353704}], "successors": []}
+{"name": "Katzenkrankheit", "id": 903647, "predecessors": [{"name": "Viehwirtschaft", "id": 353704}, {"name": "Krankheitsbild_in_der_Tiermedizin", "id": 2661569}], "successors": []}

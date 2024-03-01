@@ -1,1 +1,1 @@
-{"name": "Physikpreis", "id": 6721352, "predecessors": [{"name": "Physik", "id": 235237}, {"name": "Wissen", "id": 408867}], "successors": []}
+{"name": "Physikpreis", "id": 6721352, "predecessors": [{"name": "Naturwissenschaft", "id": 274295}, {"name": "Wissen", "id": 408867}], "successors": []}

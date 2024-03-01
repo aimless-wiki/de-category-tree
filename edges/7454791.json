@@ -1,1 +1,1 @@
-{"name": "Fischerzeugnis", "id": 7454791, "predecessors": [{"name": "Lebensmittel", "id": 240131}, {"name": "Architekturtheorie", "id": 310109}], "successors": [{"name": "Speisefisch", "id": 7981703}]}
+{"name": "Fischerzeugnis", "id": 7454791, "predecessors": [{"name": "Lebensmittel", "id": 240131}, {"name": "Nachhaltiges_Bauen", "id": 13000486}], "successors": [{"name": "Speisefisch", "id": 7981703}]}

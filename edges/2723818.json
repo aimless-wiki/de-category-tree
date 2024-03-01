@@ -1,1 +1,1 @@
-{"name": "Theropoden", "id": 2723818, "predecessors": [{"name": "Ausgestorbenes_Reptil", "id": 5518673}], "successors": [{"name": "Tyrannosauroiden", "id": 6304123}, {"name": "Ceratosaurier", "id": 6710224}]}
+{"name": "Theropoden", "id": 2723818, "predecessors": [{"name": "Sauropsiden", "id": 8430239}], "successors": [{"name": "Tyrannosauroiden", "id": 6304123}, {"name": "Ceratosaurier", "id": 6710224}]}

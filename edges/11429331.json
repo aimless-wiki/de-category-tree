@@ -1,1 +1,1 @@
-{"name": "Methoxyaromat", "id": 11429331, "predecessors": [{"name": "Wasserstoffverbindung", "id": 1958558}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Methoxybenzol", "id": 11369989}]}
+{"name": "Methoxyaromat", "id": 11429331, "predecessors": [{"name": "Alkylverbindung", "id": 12999976}, {"name": "Wasserstoffverbindung", "id": 1958558}], "successors": [{"name": "Methoxybenzol", "id": 11369989}]}

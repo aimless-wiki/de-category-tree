@@ -1,1 +1,1 @@
-{"name": "Forschungseinrichtung_(Militär)", "id": 12570471, "predecessors": [{"name": "Forschungsinfrastruktur", "id": 5386820}, {"name": "Militärwissenschaft", "id": 5650140}], "successors": [{"name": "Kernwaffentestgelände", "id": 1133654}, {"name": "Militärgeschichtliche_Forschungseinrichtung", "id": 9779280}]}
+{"name": "Forschungseinrichtung_(Militär)", "id": 12570471, "predecessors": [{"name": "Forschungsorganisation", "id": 248384}, {"name": "Interdisziplinäre_Wissenschaft", "id": 2263469}], "successors": []}

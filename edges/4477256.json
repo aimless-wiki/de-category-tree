@@ -1,1 +1,1 @@
-{"name": "Energiesparendes_Bauen", "id": 4477256, "predecessors": [{"name": "Energieeinsparung", "id": 1771585}, {"name": "Bauwesen", "id": 310907}, {"name": "Architekturtheorie", "id": 310109}], "successors": []}
+{"name": "Energiesparendes_Bauen", "id": 4477256, "predecessors": [{"name": "Energieeinsparung", "id": 1771585}, {"name": "Nachhaltiges_Bauen", "id": 13000486}, {"name": "Bauwesen", "id": 310907}], "successors": [{"name": "Nachhaltiges_Bauen", "id": 13000486}]}

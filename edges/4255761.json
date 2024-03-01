@@ -1,1 +1,1 @@
-{"name": "Fluoralkan", "id": 4255761, "predecessors": [{"name": "Fluorverbindung", "id": 1812384}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Perfluoralkan", "id": 11302031}, {"name": "Trifluormethylverbindung", "id": 11583079}]}
+{"name": "Fluoralkan", "id": 4255761, "predecessors": [{"name": "Alkylverbindung", "id": 12999976}, {"name": "Fluorverbindung", "id": 1812384}], "successors": [{"name": "Perfluoralkan", "id": 11302031}, {"name": "Trifluormethylverbindung", "id": 11583079}]}

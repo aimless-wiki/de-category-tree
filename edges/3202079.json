@@ -1,1 +1,1 @@
-{"name": "Marstall", "id": 3202079, "predecessors": [{"name": "Pferdestall", "id": 9614944}, {"name": "Architektur", "id": 1884679}], "successors": []}
+{"name": "Marstall", "id": 3202079, "predecessors": [{"name": "Architektur", "id": 1884679}, {"name": "Infrastruktur_für_Pferde", "id": 10647590}], "successors": []}
