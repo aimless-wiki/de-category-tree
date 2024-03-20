@@ -1,1 +1,1 @@
-{"name": "Physikdidaktiker", "id": 8818680, "predecessors": [{"name": "Naturwissenschaft", "id": 274295}, {"name": "Didaktiker", "id": 531182}], "successors": []}
+{"name": "Physikdidaktiker", "id": 8818680, "predecessors": [{"name": "Physik", "id": 235237}, {"name": "Didaktiker", "id": 531182}], "successors": []}

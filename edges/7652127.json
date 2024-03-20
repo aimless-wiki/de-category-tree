@@ -1,1 +1,1 @@
-{"name": "Behindertenhilfsorganisation", "id": 7652127, "predecessors": [{"name": "Hilfsorganisation", "id": 243912}, {"name": "Wohlfahrtsorganisation", "id": 1000961}], "successors": []}
+{"name": "Behindertenhilfsorganisation", "id": 7652127, "predecessors": [{"name": "Hilfsorganisation", "id": 243912}, {"name": "Behinderung", "id": 430269}], "successors": []}

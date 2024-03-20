@@ -1,1 +1,1 @@
-{"name": "Tierzüchter", "id": 2516805, "predecessors": [{"name": "Agrarwissenschaftler", "id": 495040}, {"name": "Tierzucht", "id": 1062321}, {"name": "Person_(Landwirtschaft)", "id": 6691477}], "successors": [{"name": "Pferdezüchter", "id": 870411}, {"name": "Imker", "id": 2454372}]}
+{"name": "Tierzüchter", "id": 2516805, "predecessors": [{"name": "Agrarwissenschaftler", "id": 495040}, {"name": "Tierzucht", "id": 1062321}, {"name": "Person_(Landwirtschaft)", "id": 6691477}], "successors": [{"name": "Pferdezüchter", "id": 870411}]}

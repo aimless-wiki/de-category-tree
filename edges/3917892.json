@@ -1,1 +1,1 @@
-{"name": "Forschungseinrichtung_(Physik)", "id": 3917892, "predecessors": [{"name": "Naturwissenschaftliches_Forschungsinstitut", "id": 1276357}, {"name": "Naturwissenschaft", "id": 274295}], "successors": [{"name": "Nuklearforschungszentrum", "id": 1909070}]}
+{"name": "Forschungseinrichtung_(Physik)", "id": 3917892, "predecessors": [{"name": "Naturwissenschaftliches_Forschungsinstitut", "id": 1276357}, {"name": "Physik", "id": 235237}], "successors": [{"name": "Nuklearforschungszentrum", "id": 1909070}]}

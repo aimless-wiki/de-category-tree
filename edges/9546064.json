@@ -1,1 +1,1 @@
-{"name": "Physikalisches_Demonstrationsexperiment", "id": 9546064, "predecessors": [{"name": "Naturwissenschaft", "id": 274295}, {"name": "Wissenschaftspraxis", "id": 441638}], "successors": []}
+{"name": "Physikalisches_Demonstrationsexperiment", "id": 9546064, "predecessors": [{"name": "Physik", "id": 235237}, {"name": "Wissenschaftspraxis", "id": 441638}], "successors": []}

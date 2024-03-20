@@ -1,1 +1,1 @@
-{"name": "Cyclohexen", "id": 5068702, "predecessors": [{"name": "Cycloalken", "id": 2948695}], "successors": [{"name": "Cyclohexenon", "id": 5178148}, {"name": "Tetrahydronaphthalin", "id": 12004864}]}
+{"name": "Cyclohexen", "id": 5068702, "predecessors": [{"name": "Chemie", "id": 235238}], "successors": [{"name": "Cyclohexenon", "id": 5178148}, {"name": "Tetrahydronaphthalin", "id": 12004864}]}

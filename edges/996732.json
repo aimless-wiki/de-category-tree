@@ -1,1 +1,1 @@
-{"name": "Metrologie", "id": 996732, "predecessors": [{"name": "Messtechnik", "id": 239326}, {"name": "Naturwissenschaft", "id": 274295}], "successors": []}
+{"name": "Metrologie", "id": 996732, "predecessors": [{"name": "Messtechnik", "id": 239326}, {"name": "Physik", "id": 235237}], "successors": []}

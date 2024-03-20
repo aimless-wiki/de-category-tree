@@ -1,1 +1,1 @@
-{"name": "Tiefenpsychologie_und_Psychoanalyse", "id": 6234684, "predecessors": [{"name": "Psychotherapie", "id": 299079}, {"name": "Wissen", "id": 408867}], "successors": [{"name": "Psychoanalyse", "id": 242039}, {"name": "Analytische_Psychologie", "id": 3598569}]}
+{"name": "Tiefenpsychologie_und_Psychoanalyse", "id": 6234684, "predecessors": [{"name": "Psychotherapie", "id": 299079}, {"name": "Psychologie", "id": 242235}], "successors": [{"name": "Psychoanalyse", "id": 242039}, {"name": "Analytische_Psychologie", "id": 3598569}]}

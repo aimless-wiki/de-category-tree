@@ -1,1 +1,1 @@
-{"name": "Festkörperphysik", "id": 274443, "predecessors": [{"name": "Naturwissenschaft", "id": 274295}], "successors": [{"name": "Kristallographie", "id": 449111}, {"name": "Oberflächenphysik", "id": 492171}]}
+{"name": "Festkörperphysik", "id": 274443, "predecessors": [{"name": "Physik", "id": 235237}], "successors": [{"name": "Kristallographie", "id": 449111}, {"name": "Oberflächenphysik", "id": 492171}]}

@@ -1,1 +1,1 @@
-{"name": "Psychologische_Diagnostik", "id": 2172664, "predecessors": [{"name": "Wissen", "id": 408867}], "successors": [{"name": "Psychologisches_Testverfahren", "id": 1768411}]}
+{"name": "Psychologische_Diagnostik", "id": 2172664, "predecessors": [{"name": "Psychologie", "id": 242235}], "successors": [{"name": "Psychologisches_Testverfahren", "id": 1768411}]}

@@ -1,1 +1,1 @@
-{"name": "Ressortforschungseinrichtung", "id": 7314403, "predecessors": [{"name": "Forschungsorganisation", "id": 248384}], "successors": []}
+{"name": "Ressortforschungseinrichtung", "id": 7314403, "predecessors": [{"name": "Institut", "id": 1067012}, {"name": "Forschungsorganisation", "id": 248384}], "successors": []}
