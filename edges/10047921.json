@@ -1,1 +1,1 @@
-{"name": "Internetjournalist", "id": 10047921, "predecessors": [{"name": "Online-Journalismus", "id": 3149532}, {"name": "Journalist", "id": 236345}, {"name": "Internet", "id": 240464}], "successors": []}
+{"name": "Internetjournalist", "id": 10047921, "predecessors": [{"name": "Online-Journalismus", "id": 3149532}, {"name": "Journalismus", "id": 304897}, {"name": "Internet", "id": 240464}], "successors": []}

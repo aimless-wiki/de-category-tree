@@ -1,1 +1,1 @@
-{"name": "Umweltschäden", "id": 1926469, "predecessors": [{"name": "Umweltschutz", "id": 269251}], "successors": [{"name": "Umweltkatastrophe", "id": 2116483}, {"name": "Luftverschmutzung", "id": 5549426}]}
+{"name": "Umweltschäden", "id": 1926469, "predecessors": [{"name": "Umweltschutz", "id": 269251}, {"name": "Public_Health", "id": 10206743}], "successors": [{"name": "Umweltkatastrophe", "id": 2116483}, {"name": "Luftverschmutzung", "id": 5549426}]}

@@ -1,1 +1,1 @@
-{"name": "Postproduktion", "id": 4131282, "predecessors": [{"name": "Filmtechnik", "id": 243909}, {"name": "Video", "id": 1033677}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Fotolabortechnik", "id": 4125526}, {"name": "Bildbearbeitung", "id": 4128279}]}
+{"name": "Postproduktion", "id": 4131282, "predecessors": [{"name": "Filmtechnik", "id": 243909}, {"name": "Videotechnik", "id": 595417}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Fotolabortechnik", "id": 4125526}, {"name": "Bildbearbeitung", "id": 4128279}]}
