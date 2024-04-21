@@ -1,1 +1,1 @@
-{"name": "Niere", "id": 3423633, "predecessors": [{"name": "Urologie", "id": 283840}, {"name": "Zoologie", "id": 252533}], "successors": [{"name": "Nephrologie", "id": 767400}, {"name": "Nebenniere", "id": 3428231}]}
+{"name": "Niere", "id": 3423633, "predecessors": [{"name": "Urologie", "id": 283840}, {"name": "Zoologie", "id": 252533}], "successors": [{"name": "Nephrologie", "id": 767400}]}

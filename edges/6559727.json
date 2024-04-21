@@ -1,1 +1,1 @@
-{"name": "ECMAScript", "id": 6559727, "predecessors": [{"name": "Programmiersprache_als_Thema", "id": 7514758}, {"name": "Web-Entwicklung", "id": 722783}], "successors": [{"name": "JavaScript-Bibliothek", "id": 9711768}]}
+{"name": "ECMAScript", "id": 6559727, "predecessors": [{"name": "Web-Entwicklung", "id": 722783}, {"name": "Programmierung", "id": 237034}], "successors": [{"name": "JavaScript-Bibliothek", "id": 9711768}]}

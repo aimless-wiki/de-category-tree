@@ -1,1 +1,1 @@
-{"name": "Physikhistoriker", "id": 8347311, "predecessors": [{"name": "Geschichte_der_Physik", "id": 2649563}, {"name": "Wissenschaftshistoriker", "id": 709687}], "successors": []}
+{"name": "Physikhistoriker", "id": 8347311, "predecessors": [{"name": "Wissenschaftshistoriker", "id": 709687}, {"name": "Naturwissenschaft", "id": 274295}], "successors": []}

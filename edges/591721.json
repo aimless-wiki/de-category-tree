@@ -1,1 +1,1 @@
-{"name": "Hören", "id": 591721, "predecessors": [{"name": "Ohr", "id": 477598}, {"name": "Wahrnehmung", "id": 387646}], "successors": [{"name": "Hörbehinderung", "id": 593866}, {"name": "Geräusch", "id": 957399}, {"name": "Tonstufe", "id": 9334380}]}
+{"name": "Hören", "id": 591721, "predecessors": [{"name": "Wahrnehmung", "id": 387646}], "successors": [{"name": "Hörbehinderung", "id": 593866}, {"name": "Geräusch", "id": 957399}, {"name": "Tonstufe", "id": 9334380}]}

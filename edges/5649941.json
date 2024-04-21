@@ -1,1 +1,1 @@
-{"name": "Nosologie", "id": 5649941, "predecessors": [{"name": "Pathologie", "id": 290074}], "successors": [{"name": "Seltene_Krankheit", "id": 7699271}]}
+{"name": "Nosologie", "id": 5649941, "predecessors": [{"name": "Pathologie", "id": 290074}, {"name": "Wissen", "id": 408867}], "successors": [{"name": "Seltene_Krankheit", "id": 7699271}]}

@@ -1,1 +1,1 @@
-{"name": "Bauwerk_im_Pfälzerwald", "id": 2580107, "predecessors": [{"name": "Bildende_Kunst", "id": 235961}, {"name": "Architektur", "id": 1884679}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Bauwerk_in_Deidesheim", "id": 9718052}]}
+{"name": "Bauwerk_im_Pfälzerwald", "id": 2580107, "predecessors": [{"name": "Pfälzerwald", "id": 2561190}, {"name": "Bildende_Kunst", "id": 235961}, {"name": "Architektur", "id": 1884679}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Bauwerk_in_Deidesheim", "id": 9718052}]}
