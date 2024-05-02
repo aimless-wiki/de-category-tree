@@ -1,1 +1,1 @@
-{"name": "Belagerung", "id": 3565096, "predecessors": [{"name": "Bewaffneter_Konflikt", "id": 783333}, {"name": "Landkrieg", "id": 5241393}], "successors": []}
+{"name": "Belagerung", "id": 3565096, "predecessors": [{"name": "Bewaffneter_Konflikt", "id": 783333}, {"name": "Landkrieg", "id": 5241393}], "successors": [{"name": "Belagerung_in_den_Koalitionskriegen", "id": 11786401}]}

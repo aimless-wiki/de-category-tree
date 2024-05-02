@@ -1,1 +1,1 @@
-{"name": "Rundfunk_Berlin-Brandenburg_(Hörfunk)", "id": 3904857, "predecessors": [{"name": "ARD_(Hörfunk)", "id": 3905824}, {"name": "Hörfunk_(Berlin)", "id": 866703}, {"name": "Hörfunk_(Brandenburg)", "id": 1106808}, {"name": "Rundfunk_Berlin-Brandenburg", "id": 2389849}], "successors": []}
+{"name": "Rundfunk_Berlin-Brandenburg_(Hörfunk)", "id": 3904857, "predecessors": [{"name": "Hörfunk_(Berlin)", "id": 866703}, {"name": "ARD", "id": 660521}, {"name": "Rundfunk", "id": 242597}], "successors": []}

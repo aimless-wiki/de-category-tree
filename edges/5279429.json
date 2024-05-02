@@ -1,1 +1,1 @@
-{"name": "Laufveranstaltung_in_Österreich", "id": 5279429, "predecessors": [{"name": "Sportveranstaltung_in_Österreich", "id": 3611837}, {"name": "Leichtathletik", "id": 239272}], "successors": []}
+{"name": "Laufveranstaltung_in_Österreich", "id": 5279429, "predecessors": [{"name": "Laufveranstaltung", "id": 1133110}, {"name": "Sportveranstaltung_in_Österreich", "id": 3611837}], "successors": []}
