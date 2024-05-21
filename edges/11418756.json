@@ -1,1 +1,1 @@
-{"name": "Theaterverfilmung", "id": 11418756, "predecessors": [{"name": "Literaturverfilmung", "id": 479283}, {"name": "Theater", "id": 245755}], "successors": [{"name": "William-Shakespeare-Verfilmung", "id": 8852103}, {"name": "Musicalverfilmung", "id": 11758680}]}
+{"name": "Theaterverfilmung", "id": 11418756, "predecessors": [{"name": "Literaturverfilmung", "id": 479283}, {"name": "Theater", "id": 245755}], "successors": [{"name": "William-Shakespeare-Verfilmung", "id": 8852103}]}

@@ -1,1 +1,1 @@
-{"name": "Fotojournalist", "id": 364098, "predecessors": [{"name": "Handwerker", "id": 247653}, {"name": "Journalismus", "id": 304897}, {"name": "Bildende_Kunst", "id": 235961}], "successors": []}
+{"name": "Fotojournalist", "id": 364098, "predecessors": [{"name": "Journalist", "id": 236345}, {"name": "Handwerker", "id": 247653}, {"name": "Bildende_Kunst", "id": 235961}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Musicalautor", "id": 5288523, "predecessors": [{"name": "Autor", "id": 235915}, {"name": "Musiktheater", "id": 707393}], "successors": []}
+{"name": "Musicalautor", "id": 5288523, "predecessors": [{"name": "Autor", "id": 235915}, {"name": "Theater", "id": 245755}], "successors": []}

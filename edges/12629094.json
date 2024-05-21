@@ -1,1 +1,1 @@
-{"name": "Pferdemarkt", "id": 12629094, "predecessors": [{"name": "Markt_(Einzelhandel)", "id": 7053154}, {"name": "Volksfest", "id": 272963}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}
+{"name": "Pferdemarkt", "id": 12629094, "predecessors": [{"name": "Markt_(Einzelhandel)", "id": 7053154}, {"name": "Pferdeveranstaltung", "id": 9613727}, {"name": "Volksfest", "id": 272963}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

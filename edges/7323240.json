@@ -1,1 +1,1 @@
-{"name": "Porzellanmanufaktur", "id": 7323240, "predecessors": [{"name": "Manufaktur", "id": 4129882}, {"name": "Porzellanhersteller", "id": 3466384}], "successors": []}
+{"name": "Porzellanmanufaktur", "id": 7323240, "predecessors": [{"name": "Haushaltswarenhersteller", "id": 465084}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

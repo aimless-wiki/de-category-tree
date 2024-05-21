@@ -1,1 +1,1 @@
-{"name": "Manuelle_Verschlüsselungsmethode", "id": 12945674, "predecessors": [{"name": "Kryptologisches_Verfahren", "id": 2641847}], "successors": [{"name": "Geheimschrift", "id": 12945714}]}
+{"name": "Manuelle_Verschlüsselungsmethode", "id": 12945674, "predecessors": [{"name": "Klassische_Kryptologie", "id": 3827590}, {"name": "Kryptologisches_Verfahren", "id": 2641847}], "successors": []}
