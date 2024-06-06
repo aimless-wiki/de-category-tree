@@ -1,1 +1,1 @@
-{"name": "Wohnungsmarkt", "id": 378472, "predecessors": [{"name": "Immobilienmarkt", "id": 2165656}], "successors": [{"name": "Immobilienmakler", "id": 3377649}, {"name": "Wohnungseigentumsrecht_(Deutschland)", "id": 5594183}, {"name": "Wohngebäudetyp", "id": 7680305}]}
+{"name": "Wohnungsmarkt", "id": 378472, "predecessors": [{"name": "Immobilienwirtschaft", "id": 1769816}], "successors": [{"name": "Immobilienmakler", "id": 3377649}, {"name": "Wohnungseigentumsrecht_(Deutschland)", "id": 5594183}, {"name": "Wohngebäudetyp", "id": 7680305}]}

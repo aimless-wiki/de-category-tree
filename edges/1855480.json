@@ -1,1 +1,1 @@
-{"name": "Online-Datenbank", "id": 1855480, "predecessors": [{"name": "Datenbank", "id": 7589443}, {"name": "Onlinedienst", "id": 8871004}, {"name": "Website", "id": 240465}], "successors": [{"name": "Biochemie-Onlinedatenbank", "id": 5660342}, {"name": "Onlinelexikon_oder_-enzyklopädie", "id": 7186026}]}
+{"name": "Online-Datenbank", "id": 1855480, "predecessors": [{"name": "Datenbank", "id": 7589443}, {"name": "Onlinedienst", "id": 8871004}, {"name": "Website", "id": 240465}], "successors": [{"name": "Onlinelexikon_oder_-enzyklopädie", "id": 7186026}]}

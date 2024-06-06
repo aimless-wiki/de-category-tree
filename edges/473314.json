@@ -1,1 +1,1 @@
-{"name": "Spielwarenhersteller", "id": 473314, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Modelleisenbahnhersteller", "id": 1501535}, {"name": "Puppenhersteller", "id": 8962025}]}
+{"name": "Spielwarenhersteller", "id": 473314, "predecessors": [{"name": "Spielzeug", "id": 384328}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Modelleisenbahnhersteller", "id": 1501535}, {"name": "Puppenhersteller", "id": 8962025}]}

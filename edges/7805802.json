@@ -1,1 +1,1 @@
-{"name": "Stall", "id": 7805802, "predecessors": [{"name": "Landwirtschaftliches_Bauwerk", "id": 7958074}, {"name": "Viehwirtschaft", "id": 353704}, {"name": "Artenschutz_(Zoologie)", "id": 12733691}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}
+{"name": "Stall", "id": 7805802, "predecessors": [{"name": "Künstliche_Tierbehausung", "id": 4822883}, {"name": "Landwirtschaftliches_Bauwerk", "id": 7958074}, {"name": "Viehwirtschaft", "id": 353704}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Biologiepreis", "id": 6721386, "predecessors": [{"name": "Wissen", "id": 408867}], "successors": []}
+{"name": "Biologiepreis", "id": 6721386, "predecessors": [{"name": "Wissen", "id": 408867}, {"name": "Naturwissenschaft", "id": 274295}], "successors": []}
