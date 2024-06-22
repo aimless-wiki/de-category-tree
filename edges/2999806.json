@@ -1,1 +1,1 @@
-{"name": "Sulfonsäure", "id": 2999806, "predecessors": [{"name": "Sauerstoffverbindung", "id": 1958642}, {"name": "Wasserstoffverbindung", "id": 1958558}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Benzolsulfonsäure", "id": 4472723}]}
+{"name": "Sulfonsäure", "id": 2999806, "predecessors": [{"name": "Wasserstoffverbindung", "id": 1958558}, {"name": "Chemie", "id": 235238}, {"name": "Sauerstoffverbindung", "id": 1958642}], "successors": [{"name": "Benzolsulfonsäure", "id": 4472723}]}
