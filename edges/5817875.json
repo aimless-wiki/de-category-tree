@@ -1,1 +1,1 @@
-{"name": "Kern-_und_Teilchenphysikexperiment", "id": 5817875, "predecessors": [{"name": "Messgerät", "id": 261351}, {"name": "Physik", "id": 235237}, {"name": "Wissenschaftspraxis", "id": 441638}], "successors": []}
+{"name": "Kern-_und_Teilchenphysikexperiment", "id": 5817875, "predecessors": [{"name": "Messgerät", "id": 261351}, {"name": "Naturwissenschaft", "id": 274295}, {"name": "Wissenschaftspraxis", "id": 441638}], "successors": []}

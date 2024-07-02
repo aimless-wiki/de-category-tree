@@ -1,1 +1,1 @@
-{"name": "Kutschenhersteller", "id": 8797800, "predecessors": [{"name": "Pferd_als_Zugtier", "id": 10559015}, {"name": "Verkehrstechnikhersteller", "id": 464994}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}
+{"name": "Kutschenhersteller", "id": 8797800, "predecessors": [{"name": "Pferd_als_Zugtier", "id": 10559015}, {"name": "Verkehrstechnikhersteller", "id": 464994}, {"name": "!Hauptkategorie", "id": 235489}, {"name": "Straßenverkehr", "id": 235275}], "successors": []}
