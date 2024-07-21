@@ -1,1 +1,1 @@
-{"name": "Harnstoff", "id": 3488480, "predecessors": [{"name": "Carbonylverbindung", "id": 3345681}, {"name": "Stickstoffverbindung", "id": 1782799}], "successors": [{"name": "Pyrimidindion", "id": 8351134}, {"name": "Cytosin", "id": 11228041}, {"name": "Phenylharnstoff", "id": 11632425}]}
+{"name": "Harnstoff", "id": 3488480, "predecessors": [{"name": "Stickstoffverbindung", "id": 1782799}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Pyrimidindion", "id": 8351134}, {"name": "Cytosin", "id": 11228041}, {"name": "Phenylharnstoff", "id": 11632425}]}

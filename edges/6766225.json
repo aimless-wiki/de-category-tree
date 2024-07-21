@@ -1,1 +1,1 @@
-{"name": "Rheinhafen", "id": 6766225, "predecessors": [{"name": "Rheinschifffahrt", "id": 3949674}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}
+{"name": "Rheinhafen", "id": 6766225, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}, {"name": "Binnenschifffahrt", "id": 671460}], "successors": []}

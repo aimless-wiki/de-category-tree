@@ -1,1 +1,1 @@
-{"name": "Bühnenmaler", "id": 3124713, "predecessors": [{"name": "Theaterschaffender", "id": 4995998}, {"name": "Kunsthandwerk", "id": 1015536}, {"name": "Bildende_Kunst", "id": 235961}], "successors": []}
+{"name": "Bühnenmaler", "id": 3124713, "predecessors": [{"name": "Theaterschaffender", "id": 4995998}, {"name": "Kunsthandwerk", "id": 1015536}, {"name": "Maler", "id": 236010}], "successors": []}

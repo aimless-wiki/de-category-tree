@@ -1,1 +1,1 @@
-{"name": "Hofmaler", "id": 3735379, "predecessors": [{"name": "Hofbeamter", "id": 545162}, {"name": "Bildende_Kunst", "id": 235961}], "successors": []}
+{"name": "Hofmaler", "id": 3735379, "predecessors": [{"name": "Hofbeamter", "id": 545162}, {"name": "Maler", "id": 236010}, {"name": "Bildende_Kunst", "id": 235961}], "successors": []}

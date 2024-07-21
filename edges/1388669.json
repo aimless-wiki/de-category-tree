@@ -1,1 +1,1 @@
-{"name": "Verkehrsplanung", "id": 1388669, "predecessors": [{"name": "Interdisziplinäre_Wissenschaft", "id": 2263469}, {"name": "Bauwesen", "id": 310907}], "successors": [{"name": "Straßenentwurf", "id": 4981354}]}
+{"name": "Verkehrsplanung", "id": 1388669, "predecessors": [{"name": "Planung_und_Organisation", "id": 263530}, {"name": "Interdisziplinäre_Wissenschaft", "id": 2263469}, {"name": "Bauwesen", "id": 310907}], "successors": [{"name": "Straßenentwurf", "id": 4981354}]}
