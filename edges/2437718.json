@@ -1,1 +1,1 @@
-{"name": "Metalfestival", "id": 2437718, "predecessors": [{"name": "Metalkultur", "id": 10768695}, {"name": "Rockfestival", "id": 8128390}], "successors": []}
+{"name": "Metalfestival", "id": 2437718, "predecessors": [{"name": "Rockfestival", "id": 8128390}, {"name": "Subkultur", "id": 348230}], "successors": []}

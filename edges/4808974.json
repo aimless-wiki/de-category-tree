@@ -1,1 +1,1 @@
-{"name": "Satellitenrundfunk", "id": 4808974, "predecessors": [{"name": "Rundfunktechnik", "id": 2334568}, {"name": "Satellitentechnik", "id": 234867}, {"name": "Funkanwendung", "id": 2314972}], "successors": []}
+{"name": "Satellitenrundfunk", "id": 4808974, "predecessors": [{"name": "Rundfunktechnik", "id": 2334568}, {"name": "Satellitenkommunikation", "id": 13168835}, {"name": "Satellitentechnik", "id": 234867}, {"name": "Funkanwendung", "id": 2314972}], "successors": []}

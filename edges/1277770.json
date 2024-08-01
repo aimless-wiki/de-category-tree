@@ -1,1 +1,1 @@
-{"name": "Power-Metal-Band", "id": 1277770, "predecessors": [{"name": "Heavy-Metal-Band", "id": 1279848}], "successors": [{"name": "Epic-Doom-Band", "id": 8208217}]}
+{"name": "Power-Metal-Band", "id": 1277770, "predecessors": [{"name": "Heavy-Metal-Band", "id": 1279848}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Epic-Doom-Band", "id": 8208217}]}

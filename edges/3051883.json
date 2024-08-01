@@ -1,1 +1,1 @@
-{"name": "Therapeutisches_Verfahren_in_Gynäkologie_und_Geburtshilfe", "id": 3051883, "predecessors": [{"name": "Gynäkologie_und_Geburtshilfe", "id": 3050708}, {"name": "Therapeutisches_Verfahren", "id": 3032086}], "successors": [{"name": "ATC-G03", "id": 1590811}]}
+{"name": "Therapeutisches_Verfahren_in_Gynäkologie_und_Geburtshilfe", "id": 3051883, "predecessors": [{"name": "Gynäkologie_und_Geburtshilfe", "id": 3050708}, {"name": "Therapie", "id": 418504}], "successors": [{"name": "ATC-G03", "id": 1590811}]}

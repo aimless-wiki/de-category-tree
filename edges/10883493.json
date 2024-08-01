@@ -1,1 +1,1 @@
-{"name": "Hochfrequenztechniker", "id": 10883493, "predecessors": [{"name": "Hochfrequenztechnik", "id": 2380336}, {"name": "Wissen", "id": 408867}, {"name": "Nachrichtentechnik", "id": 274181}], "successors": [{"name": "Hochfrequenz-Ingenieur", "id": 10883473}]}
+{"name": "Hochfrequenztechniker", "id": 10883493, "predecessors": [{"name": "Nachrichtentechnik", "id": 274181}, {"name": "Wissen", "id": 408867}], "successors": [{"name": "Hochfrequenz-Ingenieur", "id": 10883473}]}

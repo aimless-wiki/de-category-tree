@@ -1,1 +1,1 @@
-{"name": "Therapeutisches_Verfahren_in_der_Tiermedizin", "id": 3720116, "predecessors": [{"name": "Therapeutisches_Verfahren", "id": 3032086}, {"name": "Wissen", "id": 408867}], "successors": [{"name": "ATC-Q", "id": 1924566}]}
+{"name": "Therapeutisches_Verfahren_in_der_Tiermedizin", "id": 3720116, "predecessors": [{"name": "Therapie", "id": 418504}, {"name": "Wissen", "id": 408867}], "successors": [{"name": "ATC-Q", "id": 1924566}]}

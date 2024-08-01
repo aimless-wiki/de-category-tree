@@ -1,1 +1,1 @@
-{"name": "Zahnersatz", "id": 4039065, "predecessors": [{"name": "Therapeutisches_Verfahren", "id": 3032086}], "successors": []}
+{"name": "Zahnersatz", "id": 4039065, "predecessors": [{"name": "Zahnmedizin", "id": 283495}], "successors": []}

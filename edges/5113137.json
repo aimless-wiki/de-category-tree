@@ -1,1 +1,1 @@
-{"name": "Therapeutisches_Verfahren_in_Orthopädie_und_Unfallchirurgie", "id": 5113137, "predecessors": [{"name": "Orthopädie_und_Unfallchirurgie", "id": 5113097}, {"name": "Therapeutisches_Verfahren", "id": 3032086}], "successors": [{"name": "Massage", "id": 1079229}]}
+{"name": "Therapeutisches_Verfahren_in_Orthopädie_und_Unfallchirurgie", "id": 5113137, "predecessors": [{"name": "Orthopädie_und_Unfallchirurgie", "id": 5113097}, {"name": "Therapie", "id": 418504}], "successors": [{"name": "Massage", "id": 1079229}]}

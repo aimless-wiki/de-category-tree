@@ -1,1 +1,1 @@
-{"name": "Bankmanager", "id": 2109450, "predecessors": [{"name": "Bankwesen", "id": 1286951}, {"name": "Manager", "id": 400563}], "successors": [{"name": "Bankmanager_(Österreich)", "id": 11052113}]}
+{"name": "Bankmanager", "id": 2109450, "predecessors": [{"name": "Manager_(Finanzwesen)", "id": 12348139}, {"name": "Bankwesen", "id": 1286951}], "successors": [{"name": "Bankmanager_(Österreich)", "id": 11052113}]}
