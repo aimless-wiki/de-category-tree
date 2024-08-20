@@ -1,1 +1,1 @@
-{"name": "Distributionslogistik", "id": 1282321, "predecessors": [{"name": "Logistik", "id": 264068}], "successors": [{"name": "Distributionspolitik", "id": 1287184}, {"name": "Versandhändler", "id": 465095}]}
+{"name": "Distributionslogistik", "id": 1282321, "predecessors": [{"name": "Logistik", "id": 264068}], "successors": [{"name": "Distributionspolitik", "id": 1287184}, {"name": "Postunternehmen", "id": 1780028}, {"name": "Versandhändler", "id": 465095}]}

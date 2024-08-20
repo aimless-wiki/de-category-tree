@@ -1,1 +1,1 @@
-{"name": "Nitrobenzol", "id": 4470268, "predecessors": [{"name": "Chemie", "id": 235238}], "successors": []}
+{"name": "Nitrobenzol", "id": 4470268, "predecessors": [{"name": "Nitroaromat", "id": 8355748}, {"name": "Chemie", "id": 235238}], "successors": []}

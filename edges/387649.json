@@ -1,1 +1,1 @@
-{"name": "Beleuchtung", "id": 387649, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Lichtführung", "id": 4131658}, {"name": "Lichtkunst", "id": 4731796}, {"name": "Lichtdesigner", "id": 8030450}, {"name": "Fenster_(Bauteil)", "id": 7679789}]}
+{"name": "Beleuchtung", "id": 387649, "predecessors": [{"name": "Lichttechnik", "id": 274336}], "successors": [{"name": "Lichtführung", "id": 4131658}, {"name": "Lichtkunst", "id": 4731796}, {"name": "Lichtdesigner", "id": 8030450}, {"name": "Fenster_(Bauteil)", "id": 7679789}]}

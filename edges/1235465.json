@@ -1,1 +1,1 @@
-{"name": "Landschaftsmaler", "id": 1235465, "predecessors": [{"name": "Landschaftsmalerei", "id": 7678150}, {"name": "Maler", "id": 236010}], "successors": [{"name": "Chiemseemaler", "id": 4609858}, {"name": "Vedutenmaler", "id": 9400598}]}
+{"name": "Landschaftsmaler", "id": 1235465, "predecessors": [{"name": "Landschaftsmalerei", "id": 7678150}, {"name": "Bildende_Kunst", "id": 235961}], "successors": [{"name": "Chiemseemaler", "id": 4609858}, {"name": "Vedutenmaler", "id": 9400598}]}

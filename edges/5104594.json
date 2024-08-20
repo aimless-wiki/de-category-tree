@@ -1,1 +1,1 @@
-{"name": "Abgeordneter_im_Congreso_de_los_Diputados", "id": 5104594, "predecessors": [{"name": "Abgeordneter", "id": 473290}, {"name": "Parlamentswesen", "id": 5091706}], "successors": []}
+{"name": "Abgeordneter_im_Congreso_de_los_Diputados", "id": 5104594, "predecessors": [{"name": "Legislative", "id": 1023005}, {"name": "Parlamentswesen", "id": 5091706}], "successors": []}

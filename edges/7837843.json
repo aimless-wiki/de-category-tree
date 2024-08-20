@@ -1,1 +1,1 @@
-{"name": "Chlorbenzol", "id": 7837843, "predecessors": [{"name": "Chlorverbindung", "id": 1662308}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Chloranilin", "id": 11408134}, {"name": "Polychlorbenzol", "id": 12095408}]}
+{"name": "Chlorbenzol", "id": 7837843, "predecessors": [{"name": "Chlorverbindung", "id": 1662308}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Chloranilin", "id": 11408134}, {"name": "Chlorphenol", "id": 11651653}, {"name": "Polychlorbenzol", "id": 12095408}]}

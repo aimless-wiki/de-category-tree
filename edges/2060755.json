@@ -1,1 +1,1 @@
-{"name": "Irreguläre_Truppe", "id": 2060755, "predecessors": [{"name": "Landkrieg", "id": 5241393}], "successors": [{"name": "Führer_einer_Freiformation", "id": 1770195}, {"name": "Guerilla_(Organisation)", "id": 5101024}]}
+{"name": "Irreguläre_Truppe", "id": 2060755, "predecessors": [{"name": "Landkrieg", "id": 5241393}, {"name": "Paramilitärische_Organisation", "id": 1139840}], "successors": [{"name": "Guerilla_(Organisation)", "id": 5101024}]}
