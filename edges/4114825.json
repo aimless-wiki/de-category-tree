@@ -1,1 +1,1 @@
-{"name": "Bilddatenbank", "id": 4114825, "predecessors": [{"name": "Bildarchiv", "id": 1287035}, {"name": "Digitalfotografie", "id": 861534}, {"name": "Repository", "id": 2434897}, {"name": "Datenbank", "id": 7589443}], "successors": []}
+{"name": "Bilddatenbank", "id": 4114825, "predecessors": [{"name": "Bildarchiv", "id": 1287035}, {"name": "Digitalfotografie", "id": 861534}, {"name": "Digitale_Bibliothek", "id": 1020642}, {"name": "Datenbank", "id": 7589443}], "successors": []}

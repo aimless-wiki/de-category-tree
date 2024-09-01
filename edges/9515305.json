@@ -1,1 +1,1 @@
-{"name": "Markscheider", "id": 9515305, "predecessors": [{"name": "Bergbauingenieur", "id": 7813071}, {"name": "Markscheidewesen", "id": 2862316}, {"name": "Naturwissenschaft", "id": 274295}], "successors": []}
+{"name": "Markscheider", "id": 9515305, "predecessors": [{"name": "Bergbauingenieur", "id": 7813071}, {"name": "Markscheidewesen", "id": 2862316}, {"name": "Wissen", "id": 408867}], "successors": []}

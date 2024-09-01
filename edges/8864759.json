@@ -1,1 +1,1 @@
-{"name": "Betauchtes_Wrack", "id": 8864759, "predecessors": [{"name": "Schiffswrack", "id": 615635}, {"name": "Tauchgebiet", "id": 8816668}, {"name": "Abfallwirtschaft", "id": 1857277}], "successors": []}
+{"name": "Betauchtes_Wrack", "id": 8864759, "predecessors": [{"name": "Schiffswrack", "id": 615635}, {"name": "Abfallwirtschaft", "id": 1857277}, {"name": "Humangeographie", "id": 246087}], "successors": []}

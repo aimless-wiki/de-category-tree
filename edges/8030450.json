@@ -1,1 +1,1 @@
-{"name": "Lichtdesigner", "id": 8030450, "predecessors": [{"name": "Beleuchtung", "id": 387649}, {"name": "Bühnentechnik", "id": 904493}, {"name": "Designer", "id": 236113}, {"name": "Theater", "id": 245755}], "successors": []}
+{"name": "Lichtdesigner", "id": 8030450, "predecessors": [{"name": "Bühnentechnik", "id": 904493}, {"name": "Designer", "id": 236113}, {"name": "Theater", "id": 245755}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

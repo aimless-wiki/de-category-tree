@@ -1,1 +1,1 @@
-{"name": "Elektrodynamik", "id": 242267, "predecessors": [{"name": "Naturwissenschaft", "id": 274295}], "successors": [{"name": "Elektrostatik", "id": 251719}, {"name": "Magnetismus", "id": 419507}]}
+{"name": "Elektrodynamik", "id": 242267, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Elektrostatik", "id": 251719}, {"name": "Magnetismus", "id": 419507}]}

@@ -1,1 +1,1 @@
-{"name": "Elektrische_Leuchte", "id": 7629251, "predecessors": [{"name": "Lichttechnik", "id": 274336}, {"name": "Elektrogerät", "id": 295771}], "successors": []}
+{"name": "Elektrische_Leuchte", "id": 7629251, "predecessors": [{"name": "Elektrogerät", "id": 295771}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}

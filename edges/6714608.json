@@ -1,1 +1,1 @@
-{"name": "Edelmetallhandel", "id": 6714608, "predecessors": [{"name": "Rohstoffmarkt", "id": 1734068}], "successors": [{"name": "Silbermünze", "id": 4361574}, {"name": "Goldmünze", "id": 4361424}]}
+{"name": "Edelmetallhandel", "id": 6714608, "predecessors": [{"name": "Handel", "id": 419440}], "successors": [{"name": "Silbermünze", "id": 4361574}, {"name": "Goldmünze", "id": 4361424}]}

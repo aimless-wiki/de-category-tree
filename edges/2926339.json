@@ -1,1 +1,1 @@
-{"name": "Hochschule_für_Bildende_Kunst", "id": 2926339, "predecessors": [{"name": "Kunsthochschule", "id": 2926340}, {"name": "Bildende_Kunst", "id": 235961}], "successors": [{"name": "Architekturhochschule", "id": 2909335}, {"name": "Filmhochschule", "id": 1657195}]}
+{"name": "Hochschule_für_Bildende_Kunst", "id": 2926339, "predecessors": [{"name": "Bildende_Kunst", "id": 235961}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Architekturhochschule", "id": 2909335}, {"name": "Filmhochschule", "id": 1657195}]}

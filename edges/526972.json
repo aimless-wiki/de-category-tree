@@ -1,1 +1,1 @@
-{"name": "Transfusionsmedizin", "id": 526972, "predecessors": [{"name": "Blut", "id": 12232268}, {"name": "Wissen", "id": 408867}], "successors": [{"name": "Transfusionsmediziner", "id": 12161760}]}
+{"name": "Transfusionsmedizin", "id": 526972, "predecessors": [{"name": "Wissen", "id": 408867}, {"name": "Zoologie", "id": 252533}], "successors": []}

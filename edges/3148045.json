@@ -1,1 +1,1 @@
-{"name": "AMD-Prozessor", "id": 3148045, "predecessors": [{"name": "AMD", "id": 3148046}, {"name": "Mikroprozessor", "id": 244247}], "successors": []}
+{"name": "AMD-Prozessor", "id": 3148045, "predecessors": [{"name": "Informationstechnik", "id": 2109576}, {"name": "Mikroprozessor", "id": 244247}], "successors": []}

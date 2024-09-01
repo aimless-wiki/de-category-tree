@@ -1,1 +1,1 @@
-{"name": "Piperidin", "id": 5458065, "predecessors": [{"name": "Stickstoffhaltiger_gesättigter_Heterocyclus", "id": 3191860}], "successors": []}
+{"name": "Piperidin", "id": 5458065, "predecessors": [{"name": "Stickstoffhaltiger_gesättigter_Heterocyclus", "id": 3191860}], "successors": [{"name": "Alkylpiperidin", "id": 13199426}, {"name": "N-Alkylpiperidin", "id": 13199432}]}

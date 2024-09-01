@@ -1,1 +1,1 @@
-{"name": "Radar", "id": 674497, "predecessors": [{"name": "Funknavigation", "id": 2311488}, {"name": "Technische_Optik", "id": 471777}], "successors": [{"name": "Radarbaugruppe", "id": 2193610}]}
+{"name": "Radar", "id": 674497, "predecessors": [{"name": "Funknavigation", "id": 2311488}, {"name": "Technische_Optik", "id": 471777}], "successors": []}

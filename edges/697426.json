@@ -1,1 +1,1 @@
-{"name": "Furan", "id": 697426, "predecessors": [{"name": "Ether", "id": 846363}, {"name": "Sauerstoffhaltiger_ungesättigter_Heterocyclus", "id": 3191837}, {"name": "Chemie", "id": 235238}], "successors": []}
+{"name": "Furan", "id": 697426, "predecessors": [{"name": "Sauerstoffhaltiger_ungesättigter_Heterocyclus", "id": 3191837}, {"name": "Chemie", "id": 235238}, {"name": "Ether", "id": 846363}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Lichtkunst", "id": 4731796, "predecessors": [{"name": "Beleuchtung", "id": 387649}, {"name": "Lichttechnik", "id": 274336}, {"name": "Bildende_Kunst", "id": 235961}], "successors": [{"name": "Lichtkünstler", "id": 9290939}]}
+{"name": "Lichtkunst", "id": 4731796, "predecessors": [{"name": "Bildende_Kunst", "id": 235961}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Lichtkünstler", "id": 9290939}]}

@@ -1,1 +1,1 @@
-{"name": "Polyeder", "id": 1665760, "predecessors": [{"name": "Raumgeometrie", "id": 475151}, {"name": "Geometrische_Figur", "id": 1039642}], "successors": []}
+{"name": "Polyeder", "id": 1665760, "predecessors": [{"name": "Raumgeometrie", "id": 475151}, {"name": "Geometrie", "id": 243850}], "successors": []}

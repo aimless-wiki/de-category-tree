@@ -1,1 +1,1 @@
-{"name": "Wassermühle_in_Österreich", "id": 6820878, "predecessors": [{"name": "Wasserbauwerk_in_Österreich", "id": 8004431}, {"name": "Bildende_Kunst", "id": 235961}, {"name": "Erneuerbare_Energien", "id": 8296949}], "successors": [{"name": "Wassermühle_in_Niederösterreich", "id": 9057936}]}
+{"name": "Wassermühle_in_Österreich", "id": 6820878, "predecessors": [{"name": "Bildende_Kunst", "id": 235961}, {"name": "Wasserwirtschaft", "id": 323787}, {"name": "Erneuerbare_Energien", "id": 8296949}], "successors": [{"name": "Wassermühle_in_Niederösterreich", "id": 9057936}]}

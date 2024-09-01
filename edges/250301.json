@@ -1,1 +1,1 @@
-{"name": "Küchengerät", "id": 250301, "predecessors": [{"name": "Haushaltsgerät", "id": 663071}, {"name": "Alltagskultur", "id": 595902}], "successors": [{"name": "Gargerät", "id": 6907936}]}
+{"name": "Küchengerät", "id": 250301, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}, {"name": "Alltagskultur", "id": 595902}], "successors": [{"name": "Gargerät", "id": 6907936}]}

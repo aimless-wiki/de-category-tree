@@ -1,1 +1,1 @@
-{"name": "Wurzelgemüse", "id": 751539, "predecessors": [{"name": "Gemüsepflanze", "id": 7180379}, {"name": "Wurzel", "id": 2267221}], "successors": [{"name": "Kartoffelsorte", "id": 2817103}]}
+{"name": "Wurzelgemüse", "id": 751539, "predecessors": [{"name": "Gemüsepflanze", "id": 7180379}, {"name": "Pflanzenmorphologie", "id": 817406}], "successors": [{"name": "Kartoffelsorte", "id": 2817103}]}

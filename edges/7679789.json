@@ -1,1 +1,1 @@
-{"name": "Fenster_(Bauteil)", "id": 7679789, "predecessors": [{"name": "Bauteil_(Bauwesen)", "id": 2199404}, {"name": "Fenster", "id": 1454303}, {"name": "Beleuchtung", "id": 387649}, {"name": "Architektur", "id": 1884679}], "successors": []}
+{"name": "Fenster_(Bauteil)", "id": 7679789, "predecessors": [{"name": "Bauteil_(Bauwesen)", "id": 2199404}, {"name": "Fenster", "id": 1454303}, {"name": "Innenarchitektur", "id": 275896}, {"name": "Architektur", "id": 1884679}], "successors": []}

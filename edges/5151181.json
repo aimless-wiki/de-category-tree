@@ -1,1 +1,1 @@
-{"name": "Pflanzenparasit", "id": 5151181, "predecessors": [{"name": "Parasit", "id": 237226}, {"name": "Pflanzenkrankheit", "id": 249331}], "successors": []}
+{"name": "Pflanzenparasit", "id": 5151181, "predecessors": [{"name": "Pflanzenkrankheit", "id": 249331}, {"name": "Lebewesen_–_Ökologische_Gruppe", "id": 6633825}], "successors": []}

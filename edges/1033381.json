@@ -1,1 +1,1 @@
-{"name": "Sehbehinderung", "id": 1033381, "predecessors": [{"name": "Sehen", "id": 387644}, {"name": "Behinderung", "id": 430269}], "successors": [{"name": "Blindheit", "id": 345718}]}
+{"name": "Sehbehinderung", "id": 1033381, "predecessors": [{"name": "Sehen", "id": 387644}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Blindheit", "id": 345718}]}

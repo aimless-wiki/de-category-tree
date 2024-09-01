@@ -1,1 +1,1 @@
-{"name": "Solarenergie", "id": 256264, "predecessors": [{"name": "Erneuerbare_Energien", "id": 8296949}, {"name": "Sonne_in_der_Kultur", "id": 7603313}], "successors": [{"name": "Photovoltaik", "id": 3431901}, {"name": "Person_(Solarenergie)", "id": 4597358}]}
+{"name": "Solarenergie", "id": 256264, "predecessors": [{"name": "Erneuerbare_Energien", "id": 8296949}, {"name": "Sonne_in_der_Kultur", "id": 7603313}], "successors": [{"name": "Photovoltaik", "id": 3431901}]}
