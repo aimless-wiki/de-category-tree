@@ -1,1 +1,1 @@
-{"name": "Sulfonamid", "id": 3389149, "predecessors": [{"name": "Stickstoffverbindung", "id": 1782799}, {"name": "Sauerstoffverbindung", "id": 1958642}], "successors": [{"name": "Benzolsulfonamid", "id": 4471286}]}
+{"name": "Sulfonamid", "id": 3389149, "predecessors": [{"name": "Schwefel-Stickstoff-Verbindung", "id": 13209108}, {"name": "Stickstoffverbindung", "id": 1782799}, {"name": "Sauerstoffverbindung", "id": 1958642}], "successors": [{"name": "Benzolsulfonamid", "id": 4471286}]}

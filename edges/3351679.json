@@ -1,1 +1,1 @@
-{"name": "Carbamat", "id": 3351679, "predecessors": [{"name": "Chemie", "id": 235238}, {"name": "Stickstoffverbindung", "id": 1782799}, {"name": "Sauerstoffverbindung", "id": 1958642}], "successors": []}
+{"name": "Carbamat", "id": 3351679, "predecessors": [{"name": "Stickstoffverbindung", "id": 1782799}, {"name": "Chemie", "id": 235238}], "successors": []}

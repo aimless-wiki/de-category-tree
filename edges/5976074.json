@@ -1,1 +1,1 @@
-{"name": "Elektroautohersteller", "id": 5976074, "predecessors": [{"name": "Automobilindustrie", "id": 1045987}, {"name": "Automobile", "id": 242713}], "successors": [{"name": "Ehemaliger_Elektroautohersteller", "id": 5976111}]}
+{"name": "Elektroautohersteller", "id": 5976074, "predecessors": [{"name": "Automobilindustrie", "id": 1045987}, {"name": "Automobile", "id": 242713}, {"name": "Verkehr_und_Umwelt", "id": 8330356}], "successors": [{"name": "Ehemaliger_Elektroautohersteller", "id": 5976111}]}

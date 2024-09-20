@@ -1,1 +1,1 @@
-{"name": "Bierkultur", "id": 7677499, "predecessors": [{"name": "Trinkkultur", "id": 5620976}, {"name": "Alkoholkonsum", "id": 8286138}], "successors": [{"name": "Brauereimuseum", "id": 5046598}, {"name": "Kneipe", "id": 8187483}, {"name": "Biermaß", "id": 9734039}]}
+{"name": "Bierkultur", "id": 7677499, "predecessors": [{"name": "Trinkkultur", "id": 5620976}, {"name": "Alltagskultur", "id": 595902}], "successors": [{"name": "Brauereimuseum", "id": 5046598}, {"name": "Kneipe", "id": 8187483}, {"name": "Biermaß", "id": 9734039}]}

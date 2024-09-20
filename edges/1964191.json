@@ -1,1 +1,1 @@
-{"name": "Kupferverbindung", "id": 1964191, "predecessors": [{"name": "Kupfer", "id": 5272290}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Kupfermineral", "id": 2006475}]}
+{"name": "Kupferverbindung", "id": 1964191, "predecessors": [{"name": "Chemie", "id": 235238}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Kupfermineral", "id": 2006475}]}

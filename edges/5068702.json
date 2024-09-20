@@ -1,1 +1,1 @@
-{"name": "Cyclohexen", "id": 5068702, "predecessors": [{"name": "Chemie", "id": 235238}], "successors": [{"name": "Lysergsäureamid", "id": 945229}, {"name": "Cyclohexenon", "id": 5178148}, {"name": "Tetrahydronaphthalin", "id": 12004864}]}
+{"name": "Cyclohexen", "id": 5068702, "predecessors": [{"name": "Chemie", "id": 235238}], "successors": [{"name": "Lysergsäureamid", "id": 945229}, {"name": "Cyclohexenon", "id": 5178148}, {"name": "Tetrahydronaphthalin", "id": 12004864}, {"name": "Alkylcyclohexen", "id": 13219093}]}

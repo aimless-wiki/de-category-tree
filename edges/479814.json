@@ -1,1 +1,1 @@
-{"name": "Haut", "id": 479814, "predecessors": [{"name": "Dermatologie", "id": 283793}, {"name": "Zoologie", "id": 252533}], "successors": [{"name": "Dermatologie", "id": 283793}, {"name": "Anatomie_der_Haut", "id": 3425563}]}
+{"name": "Haut", "id": 479814, "predecessors": [{"name": "Zoologie", "id": 252533}], "successors": [{"name": "Dermatologie", "id": 283793}, {"name": "Anatomie_der_Haut", "id": 3425563}]}

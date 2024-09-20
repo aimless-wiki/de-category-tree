@@ -1,1 +1,1 @@
-{"name": "Märchensammler", "id": 9239454, "predecessors": [{"name": "Erzählforscher", "id": 2839367}, {"name": "Märchenforschung", "id": 815820}, {"name": "Sammler", "id": 512872}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}
+{"name": "Märchensammler", "id": 9239454, "predecessors": [{"name": "Erzählforscher", "id": 2839367}, {"name": "Märchenforschung", "id": 815820}, {"name": "Person_(Märchen)", "id": 9471671}, {"name": "Sammler", "id": 512872}], "successors": []}

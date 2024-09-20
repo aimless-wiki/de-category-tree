@@ -1,1 +1,1 @@
-{"name": "Spirituose", "id": 240731, "predecessors": [{"name": "Alkoholkonsum", "id": 8286138}], "successors": [{"name": "Likör", "id": 240763}, {"name": "Spirituose_aus_Obst", "id": 10384616}]}
+{"name": "Spirituose", "id": 240731, "predecessors": [{"name": "Alltagskultur", "id": 595902}], "successors": [{"name": "Likör", "id": 240763}, {"name": "Spirituose_aus_Obst", "id": 10384616}]}
