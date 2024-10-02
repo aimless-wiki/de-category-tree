@@ -1,1 +1,1 @@
-{"name": "Hörbehinderung", "id": 593866, "predecessors": [{"name": "Hören", "id": 591721}, {"name": "Zoologie", "id": 252533}, {"name": "Behinderung", "id": 430269}], "successors": [{"name": "Gehörlosigkeit", "id": 235464}]}
+{"name": "Hörbehinderung", "id": 593866, "predecessors": [{"name": "Hören", "id": 591721}, {"name": "Zoologie", "id": 252533}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Gehörlosigkeit", "id": 235464}]}

@@ -1,1 +1,1 @@
-{"name": "Fahrzeugklasse", "id": 5984122, "predecessors": [{"name": "Produktklassifikation", "id": 1888853}, {"name": "Kennzeichen", "id": 4318352}, {"name": "Automobile", "id": 242713}], "successors": []}
+{"name": "Fahrzeugklasse", "id": 5984122, "predecessors": [{"name": "Kennzeichen", "id": 4318352}, {"name": "Automobile", "id": 242713}, {"name": "Klassifikation_(Wirtschaft)", "id": 6149864}], "successors": []}
