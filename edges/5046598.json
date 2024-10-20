@@ -1,1 +1,1 @@
-{"name": "Brauereimuseum", "id": 5046598, "predecessors": [{"name": "Biergeschichte", "id": 9308803}, {"name": "Bierkultur", "id": 7677499}, {"name": "Handwerksmuseum", "id": 6901252}, {"name": "Industriemuseum", "id": 7852355}, {"name": "Geschichte_(Essen_und_Trinken)", "id": 5152888}], "successors": []}
+{"name": "Brauereimuseum", "id": 5046598, "predecessors": [{"name": "Handwerksmuseum", "id": 6901252}, {"name": "Industriemuseum", "id": 7852355}, {"name": "Geschichte_(Essen_und_Trinken)", "id": 5152888}, {"name": "Bierkultur", "id": 7677499}], "successors": []}

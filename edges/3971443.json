@@ -1,1 +1,1 @@
-{"name": "Fahrzeugführung", "id": 3971443, "predecessors": [{"name": "Straßenverkehr", "id": 235275}], "successors": [{"name": "Fahrerassistenzsystem", "id": 882198}]}
+{"name": "Fahrzeugführung", "id": 3971443, "predecessors": [{"name": "Straßenverkehr", "id": 235275}], "successors": [{"name": "Fahrerassistenzsystem", "id": 882198}, {"name": "Fahrerlaubnisrecht_(Deutschland)", "id": 5882577}]}

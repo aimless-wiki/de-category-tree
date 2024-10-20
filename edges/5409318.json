@@ -1,1 +1,1 @@
-{"name": "Pyridin", "id": 5409318, "predecessors": [{"name": "Stickstoffverbindung", "id": 1782799}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Chinolin", "id": 3721372}, {"name": "Chlorpyridin", "id": 8927761}, {"name": "Alkylpyridin", "id": 13230398}]}
+{"name": "Pyridin", "id": 5409318, "predecessors": [{"name": "Chemie", "id": 235238}], "successors": [{"name": "Chinolin", "id": 3721372}, {"name": "Chlorpyridin", "id": 8927761}, {"name": "Alkylpyridin", "id": 13230398}]}

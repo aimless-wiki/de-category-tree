@@ -1,1 +1,1 @@
-{"name": "Aminoazin", "id": 5451517, "predecessors": [{"name": "Aminoaromat", "id": 8355992}, {"name": "Stickstoffverbindung", "id": 1782799}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Adenin", "id": 11221362}]}
+{"name": "Aminoazin", "id": 5451517, "predecessors": [{"name": "Aminoaromat", "id": 8355992}, {"name": "Chemie", "id": 235238}], "successors": [{"name": "Adenin", "id": 11221362}]}

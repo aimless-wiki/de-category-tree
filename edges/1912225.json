@@ -1,1 +1,1 @@
-{"name": "Haarpflege", "id": 1912225, "predecessors": [{"name": "Kosmetik", "id": 361981}, {"name": "Hygiene", "id": 361953}], "successors": [{"name": "Frisur", "id": 488411}, {"name": "Friseur", "id": 1460194}]}
+{"name": "Haarpflege", "id": 1912225, "predecessors": [{"name": "Kosmetik", "id": 361981}, {"name": "Mode", "id": 448458}], "successors": [{"name": "Frisur", "id": 488411}, {"name": "Friseur", "id": 1460194}]}

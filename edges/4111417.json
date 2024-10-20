@@ -1,1 +1,1 @@
-{"name": "Tetrahydroazin", "id": 4111417, "predecessors": [{"name": "Stickstoffverbindung", "id": 1782799}], "successors": [{"name": "Tetrahydropyridin", "id": 5440713}, {"name": "Pyrimidindion", "id": 8351134}]}
+{"name": "Tetrahydroazin", "id": 4111417, "predecessors": [{"name": "Chemie", "id": 235238}], "successors": [{"name": "Tetrahydropyridin", "id": 5440713}, {"name": "Pyrimidindion", "id": 8351134}]}

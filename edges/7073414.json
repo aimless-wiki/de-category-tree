@@ -1,1 +1,1 @@
-{"name": "Kuppelbauwerk", "id": 7073414, "predecessors": [{"name": "Architektur", "id": 1884679}, {"name": "Baukonstruktion", "id": 266008}, {"name": "Bauwesen", "id": 310907}], "successors": []}
+{"name": "Kuppelbauwerk", "id": 7073414, "predecessors": [{"name": "Architektur", "id": 1884679}, {"name": "Baukonstruktion", "id": 266008}, {"name": "Baustatik", "id": 499765}], "successors": []}

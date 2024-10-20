@@ -1,1 +1,1 @@
-{"name": "Piperidin", "id": 5458065, "predecessors": [{"name": "Stickstoffverbindung", "id": 1782799}], "successors": [{"name": "Alkylpiperidin", "id": 13199426}, {"name": "N-Alkylpiperidin", "id": 13199432}]}
+{"name": "Piperidin", "id": 5458065, "predecessors": [{"name": "Chemie", "id": 235238}], "successors": [{"name": "Alkylpiperidin", "id": 13199426}, {"name": "N-Alkylpiperidin", "id": 13199432}]}

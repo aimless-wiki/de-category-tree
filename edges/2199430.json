@@ -1,1 +1,1 @@
-{"name": "Gebäudeteil", "id": 2199430, "predecessors": [{"name": "Architektur", "id": 1884679}], "successors": [{"name": "Laden_(Geschäft)", "id": 4282627}]}
+{"name": "Gebäudeteil", "id": 2199430, "predecessors": [{"name": "Bauteil_(Bauwesen)", "id": 2199404}, {"name": "Architektur", "id": 1884679}], "successors": [{"name": "Laden_(Geschäft)", "id": 4282627}]}
