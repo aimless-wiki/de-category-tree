@@ -105,14 +105,12 @@
 236274 Filmregisseur
 236275 Deutscher
 236318 Ökonom
-236345 Journalist
 236403 Afghane
 236410 Usbeke
 236417 Nationalhymne
 236419 Hymne
 236421 Regionalhymne
 236595 Friedensnobelpreisträger
-236666 Komponist
 236670 Dirigent
 236675 Trompeter
 236695 Nobelpreisträger_für_Literatur
@@ -652,7 +650,7 @@
 254400 Nobelpreisträger_für_Physiologie_oder_Medizin
 254534 Usenet
 254694 Sprachwissenschaftler
-254702 Flugsimulator
+254702 Flugsimulatorspiel
 254757 Windenergie
 254811 Logik
 254903 E-Mail
@@ -1571,7 +1569,6 @@
 373762 Zeremonie
 373913 Fluss_in_Europa
 373987 Geographie_(Russland)
-374289 Geographie_(Israel)
 374459 Ort_in_Nordkorea
 374632 Englischvariante
 374689 Inka-Reich
@@ -3252,6 +3249,7 @@
 510422 Kaiser_(Äthiopien)
 510423 Geboren_1678
 510424 Geboren_1633
+510425 Bundeswehr
 511087 Luxusgüterhersteller
 511301 Gestorben_1304
 511398 König_der_Könige_(Parther)
@@ -4421,6 +4419,7 @@
 704656 Globalisierung
 704670 Politiker_(Weimarer_Republik)
 704709 Unternehmer_(Rüstungsindustrie)
+704798 User_zh
 704800 User_zh-M
 704801 User_zh-3
 704802 User_zh-2
@@ -5225,6 +5224,7 @@
 875574 Israelische_Siedlung
 875591 Luft-Luft-Rakete
 875608 Marschflugkörper
+875844 U-Boot-Rakete
 875870 Luft-Boden-Rakete
 876097 Sojus-Besatzung
 876161 Klangkünstler
@@ -5710,7 +5710,6 @@
 984945 Mannschaftsdienstgrad
 985228 Schloss_im_Kanton_Bern
 985300 Schloss_im_Kanton_Thurgau
-985560 Wirtschaftsmagazin
 986426 Ethnie_in_Kamerun
 987729 Germanistik
 987921 Gospel-Sänger
@@ -6772,6 +6771,7 @@
 1275557 Ringer_(Deutschland)
 1275571 Rennrodler_(Deutschland)
 1275587 Eisschnellläufer_(Deutschland)
+1275598 Basketballspieler_(Deutschland)
 1275615 Boxer_(Deutschland)
 1275643 Bobfahrer_(Deutschland)
 1275645 Olympiasieger_(Rennrodeln)
@@ -7505,6 +7505,7 @@
 1432815 Mathematische_Geographie
 1432995 Portal:Abkürzungen
 1433320 Game-Gear-Spiel
+1433743 Iranischer_Fußballverein
 1433858 Olympiasieger_(Antike)
 1434245 Bevölkerungsgruppe
 1434327 Dimensionale_Messtechnik
@@ -9137,7 +9138,7 @@
 1872264 Pazifischer_Ozean
 1872369 Person_(Saalfeld/Saale)
 1872510 Person_(Rudolstadt)
-1872577 Studentenwerk
+1872577 Studierendenwerk
 1872802 Unternehmensart
 1872880 Person_(Apolda)
 1873427 Vorlage:Infobox_Geographie_und_Geologie
@@ -10199,7 +10200,6 @@
 2128984 Hochschule_in_New_York_City
 2128996 Fahrradtourismus
 2130695 Person_(Vorpommern)
-2131206 Zeitung_(Neuseeland)
 2131540 Person_(Hildesheim)
 2132084 Geowissenschaftler
 2132098 Sozialwissenschaftler
@@ -10453,6 +10453,7 @@
 2204949 Landtagsabgeordneter_(Brandenburg)
 2205098 Ort_im_Okres_Tachov
 2205135 Kärntner_Adelsgeschlecht
+2206669 Hochschullehrer_(Marseille)
 2206909 Ort_im_Okres_Sokolov
 2207272 Buchverlag
 2207570 Historische_Behörde_(Deutschland)
@@ -10846,7 +10847,6 @@
 2342082 Baptistischer_Geistlicher_(21._Jahrhundert)
 2342084 Baptistischer_Geistlicher_(20._Jahrhundert)
 2342340 Kundenbindungsprogramm
-2342357 Internetdienst
 2343001 Download-Portal
 2344158 Stadterneuerung
 2344202 Vorlage:Navigationsleiste_(Berlin)
@@ -11425,6 +11425,7 @@
 2616154 Dendrologe
 2616699 Zeitschrift_(Hamburg)
 2616753 Duo_(Musik)
+2616780 Außenminister_(Finnland)
 2617116 Historienmaler
 2617805 Geschichte_Wiesbadens
 2618735 Tamile
@@ -11783,7 +11784,6 @@
 2723134 Klosterwesen
 2723135 Romanische_Sprachen
 2723172 Slawische_Sprachen
-2723185 Indoarische_Sprachen
 2723221 Turksprachen
 2723275 Papuasprachen
 2723818 Theropoden
@@ -11960,6 +11960,7 @@
 2742761 Kirchengebäude_in_Halle_(Saale)
 2743263 Euglenozoa
 2743278 Apicomplexa
+2743281 Ciliophora
 2743525 Realisiertes_Projekt_(Städtebau)
 2744387 Volk_in_der_Bibel
 2744860 Weltranglistenerster_(Tennis)
@@ -13021,6 +13022,7 @@
 3078272 Conservative-Party-Mitglied
 3078278 Liberal-Democrats-Mitglied
 3078495 Altägyptischer_Beamter_(Altes_Reich)
+3078906 Ort_in_Khyber_Pakhtunkhwa
 3078963 Segler_(Vögel)
 3078964 Apodidae
 3079280 Malakologe
@@ -13718,6 +13720,7 @@
 3239165 Berg_im_Kanton_Tessin
 3239187 Berg_im_Kanton_Waadt
 3239207 Berg_im_Kanton_Luzern
+3239227 Berg_im_Kanton_Obwalden
 3239270 Berg_im_Kanton_St._Gallen
 3239315 Berg_im_Kanton_Glarus
 3239332 Berg_im_Kanton_Schwyz
@@ -15463,6 +15466,7 @@
 3800145 Büro_Fellner_&_Helmer
 3800800 Elektrizitätsversorger_(Vereinigte_Staaten)
 3800971 Elektrizitätsversorger_(Schweiz)
+3801096 Person_(Quakenbrück)
 3801361 Elektrizitätsversorger_(Österreich)
 3801471 Mineralölunternehmen_(Vereinigte_Staaten)
 3801674 Tischtennisspieler_(Russland)
@@ -16179,6 +16183,7 @@
 4013631 American-Football-Spieler_(Vereinigte_Staaten)
 4014690 Datei:Logo_(Chemieunternehmen)
 4015160 Propsteikirche
+4015850 Judentum_in_Frankfurt_am_Main
 4016069 Maria-Königin-Kirche
 4016071 Maria-Hilf-Kirche
 4016078 Maria-Immaculata-Kirche
@@ -16343,6 +16348,7 @@
 4082658 Abies
 4083022 Person_(Los_Angeles)
 4083404 Blues-Sänger
+4085296 Vorlage:Navigationsleiste_Eishockey_(Deutschland)
 4085735 Regierungswesen
 4086033 Flusssystem_Sankt-Lorenz-Strom
 4086328 Tennisspieler_(England)
@@ -16523,8 +16529,10 @@
 4140046 Mitglied_der_Free_Soil_Party
 4140059 Ehrenbürger_von_Mainz
 4140322 Olympiateilnehmer_(Serbien_und_Montenegro)
+4140592 Kanzler_von_Frankreich
 4142185 Verkehr_(Westpreußen)
 4142399 Alpine_Ski-Juniorenweltmeisterschaft
+4143206 Container
 4143267 Kreuzfahrer_(Erster_Kreuzzug)
 4143461 Kreuzfahrer_(Zweiter_Kreuzzug)
 4143462 Kreuzfahrer_(Dritter_Kreuzzug)
@@ -17516,7 +17524,7 @@
 4477263 Langschwanzmäuse
 4479059 Parasitologe
 4479453 Farbname
-4479461 Thymian
+4479461 Thymiane
 4479471 Thymus_(Pflanze)
 4479483 Virusfamilie
 4479627 Person_(Hagana)
@@ -17539,6 +17547,7 @@
 4485079 Rennfahrer_des_24-Stunden-Rennens_von_Le_Mans
 4485091 Rennwagen_des_24-Stunden-Rennens_von_Le_Mans
 4485246 Vorlage:Babel-Militär
+4485277 Mitglied_des_Europäischen_Parlaments_für_Frankreich_vor_1979
 4485308 Vorlage:Babel-Astrologie
 4485396 Montanunternehmen_(Deutschland)
 4485697 Mosel
@@ -17663,6 +17672,7 @@
 4513096 Filmwirtschaft_(München)
 4513300 Schleifkotten
 4513752 Sportveranstaltung_im_Kanton_Wallis
+4513772 Sportveranstaltung_im_Kanton_Bern
 4513779 Bodendenkmal_in_Hessen
 4513802 Veranstaltung_in_Zürich
 4515806 Ultraleichtflugzeug
@@ -18929,6 +18939,7 @@
 4832754 Landtagswahlkreis_(Sachsen-Anhalt)
 4832873 Backsteingotik_in_Brandenburg
 4832972 Backsteingotik_in_Sachsen-Anhalt
+4833015 Richard_Nixon
 4833163 Backsteingotik_in_Schleswig-Holstein
 4833167 Backsteingotik_in_Niedersachsen
 4833233 Tourneetheater
@@ -19063,7 +19074,6 @@
 4856550 Chinesisches_Porzellan
 4856741 Baseballtrainer_(Vereinigte_Staaten)
 4856865 Gemeinde_in_Südtirol
-4856951 Elbląg
 4856960 Olympiasieger_(Freestyle-Skiing)
 4856968 Weltmeister_(Freestyle-Skiing)
 4857048 Person_(Elbląg)
@@ -19123,7 +19133,6 @@
 4873854 Zeitung_(Frankreich,_Erscheinen_eingestellt)
 4873872 Zeitung_(Österreich,_Erscheinen_eingestellt)
 4873891 Zeitung_(Schweiz,_Erscheinen_eingestellt)
-4873914 Zeitung_(Vereinigte_Staaten,_Erscheinen_eingestellt)
 4874567 US-amerikanischer_Meister_(Schwimmen)
 4874765 Sejm-Abgeordneter_(Volksrepublik_Polen)
 4875224 Naturfotograf
@@ -19289,6 +19298,7 @@
 4930845 Person_(Radeberg)
 4931085 Gemälde_(15._Jahrhundert)
 4931255 Kirchengebäude_der_Armenischen_Apostolischen_Kirche
+4931501 Ehemalige_Zentralbank
 4931543 Actionfernsehserie
 4931602 Ungarischer_Meister_(Leichtathletik)
 4931646 Rektor_(Universität_Graz)
@@ -20106,7 +20116,6 @@
 5114345 Baudenkmal_in_Augsburg
 5114760 Deutscher_Meister_(Badminton)
 5116572 Meerenge_in_Kanada
-5117177 Vorlage:Astronomie
 5118220 Fernsehmoderator_(Türkei)
 5118874 Schach_(Deutschland)
 5119197 Sportpsychologe
@@ -20719,7 +20728,6 @@
 5303171 Argentinische_Geschichte_(20._Jahrhundert)
 5303340 Russischer_Meister_(Handball)
 5306259 Muttergotteskirche
-5306591 Zwitterion
 5306652 Kommunalpolitiker_(Deutschland)
 5306655 Kommunalpolitik_(Deutschland)
 5306667 Kommunalpolitiker_(Bayern)
@@ -20903,6 +20911,7 @@
 5362302 Badminton_2010
 5362332 Badminton_2008
 5362362 Badminton_1950
+5362373 Badminton_1953
 5362380 Badminton_1955
 5362385 Badminton_1956
 5362390 Badminton_1957
@@ -21552,6 +21561,7 @@
 5522534 Waffenstillstand
 5522911 Vierzehn-Nothelfer-Kirche
 5522973 Fertigungsberuf_(Textilwesen)
+5523099 Seeigel
 5523212 Gefangener
 5523429 Kampfhubschrauber
 5523563 Person_im_Nahostkonflikt
@@ -22282,7 +22292,7 @@
 5654843 Träger_des_Preußischen_Königlichen_Kronenordens_2._Klasse
 5654991 Revolutionär_1848/49
 5655483 Graf_(Eu)
-5656988 Person_(Stolberg_(Rheinland))
+5656547 Denkmal_im_National_Register_of_Historic_Places_(New_Mexico)
 5657294 Mitglied_der_Abgeordnetenkammer_(Frankreich)
 5657527 Häftling_im_KZ_Dachau
 5657575 Häftling_im_KZ_Sachsenhausen
@@ -22535,6 +22545,7 @@
 5700477 Erbaut_in_den_1510er_Jahren
 5700483 Erbaut_in_den_1560er_Jahren
 5700520 Paralympics-Teilnehmer_(Deutschland)
+5700698 Paralympics-Teilnehmer_(Österreich)
 5700865 Ehemaliges_Weingut_(Radebeul)
 5700977 Paralympics-Teilnehmer_(Vereinigte_Staaten)
 5701100 Paralympics-Teilnehmer_(Niederlande)
@@ -24388,7 +24399,7 @@
 6053426 Amidin
 6053431 Klavierbauunternehmen
 6053481 Ort_in_Møre_og_Romsdal
-6053522 Unabhängigkeitsreferendum
+6053522 Plebiszit_über_staatliche_Unabhängigkeit
 6053666 Einsätziges_Klavierstück
 6053716 Ort_in_Trøndelag
 6053720 Ort_in_Nordland
@@ -25942,6 +25953,7 @@
 6414056 Schienenverkehr_(Thüringen)
 6414065 Ortsteil_von_Schalksmühle
 6414144 Ortsteil_von_Attendorn
+6414177 Archäologischer_Fund_(Hessen)
 6414228 Archäologischer_Fund_(Sachsen-Anhalt)
 6414342 Volkskünstler_der_RSFSR
 6414358 Archäologischer_Fund_(Rheinland-Pfalz)
@@ -27662,7 +27674,6 @@
 6725775 Bauwerk_von_Gerkan,_Marg_und_Partner
 6726391 Wohngebäude_in_Quedlinburg
 6726476 Ort_an_der_Lahn
-6726793 Home_Box_Office
 6728116 Hochschullehrer_(Albertus-Universität_Königsberg)
 6728201 Rektor_(Albertus-Universität_Königsberg)
 6728254 Kleingebäck
@@ -28443,6 +28454,7 @@
 6899602 Stadtteil_von_Amsterdam
 6899621 Stadtteil_von_Bielefeld
 6899636 Stadtteil_von_Buenos_Aires
+6899658 Stadtteil_von_Hagen
 6899662 Stadtteil_von_Hannover
 6899667 Stadtteil_von_Bochum
 6899680 Stadtteil_von_Innsbruck
@@ -28523,6 +28535,7 @@
 6915786 Musikwirtschaft_(Deutschland)
 6915843 Musikorganisation_(Deutschland)
 6916568 Baudenkmal_in_Dillingen_an_der_Donau
+6916940 Geschichte_der_Vokalmusik
 6916979 Sendemast
 6917218 Mittelwellensendeanlage
 6918420 Datei:Sport_(Leipzig)
@@ -29195,8 +29208,6 @@
 7068836 Kultur_(Bezirke_Tokios)
 7069145 State_university_system
 7069266 Ruine_in_Frankreich
-7069377 Haplochromine_Buntbarsche
-7069378 Haplochromini
 7070502 Ehrendoktor_der_University_of_St_Andrews
 7070807 Nintendo-Konsolenzubehör
 7070998 Flugplatz_in_Bayern
@@ -29960,6 +29971,7 @@
 7322472 Bildungseinrichtung_der_Erwachsenenbildung_in_Nordrhein-Westfalen
 7323062 Archäologische_Sammlung_in_Frankreich
 7323177 Landschaft_in_Bayern
+7323240 Porzellanmanufaktur
 7323813 Deutsche_Fechtmeisterschaften
 7324816 Ehrendoktor_der_Universität_Stockholm
 7325010 Hötting
@@ -30024,6 +30036,7 @@
 7331989 Naturpark_Rieserferner-Ahrn
 7332011 Gotisches_Bauwerk_in_Flandern
 7332055 Naturpark_Texelgruppe
+7332163 Linkin-Park-Lied
 7332375 Rabbiner_(Polen)
 7332412 Verein_(Belgien)
 7333013 Gotischer_Baurest
@@ -30421,6 +30434,7 @@
 7389675 Naturschutzorganisation_(Deutschland)
 7389685 Türkischer_Fußballpokal
 7390575 Liste_(Abgeordnete_zum_Bundesrat,_Österreich)
+7390643 Umwelt-_und_Naturschutz_(Nordrhein-Westfalen)
 7390770 Veranstaltung_(Umwelt-_und_Naturschutz)
 7390807 Deutsche_Organisation_(Pharmazie)
 7390911 Hochschullehrer_(Aristoteles-Universität_Thessaloniki)
@@ -30735,6 +30749,7 @@
 7439405 Benutzer:aus_Osnabrück
 7439446 Montenegrinischer_Meister_(Handball)
 7439485 Sozialökonom
+7439525 Benutzer:aus_Hildesheim
 7439689 Zaunkönige
 7439934 Troglodytidae
 7441200 Wahlkreis_(Frankreich)
@@ -30936,6 +30951,8 @@
 7489004 Politiker_(Mönchengladbach)
 7490670 Person_(Bergen,_Norwegen)
 7490791 Computerspiel_2014
+7490850 Gürteltiere
+7490854 Dasypoda
 7490865 Squashspieler_(Südafrika)
 7491483 Vorlage:Babel-Computerprogramm
 7491505 Universitätskrankenhaus_in_Deutschland
@@ -31440,6 +31457,7 @@
 7558099 Gegründet_1858
 7558125 Gegründet_1823
 7558134 Ehemaliger_Oberleitungsbushersteller
+7558198 Mitglied_der_Nationalversammlung_(Armenien)
 7558391 Bildungswebsite
 7558417 Nachrichtenportal
 7558492 Pornowebsite
@@ -31657,6 +31675,7 @@
 7588999 Band_(New_York_City)
 7589019 Muromachi-Zeit
 7589048 Portal:Raumfahrt/Bild_des_Tages
+7589062 Shōwa-Zeit
 7589372 Liste_(American_Football)
 7589376 Datenbanken
 7589389 Slapstick-Film
@@ -31741,6 +31760,7 @@
 7606549 Byzantinischer_Mönch
 7606785 Kunststoffprodukt
 7606839 Parlamentswahl_2013
+7606861 Parlamentswahl_1995
 7606866 Parlamentswahl_2009
 7606868 Parlamentswahl_2005
 7606922 Parlamentswahl_1999
@@ -31853,7 +31873,6 @@
 7626546 Ganggrab
 7626549 Galeriegrab
 7626775 Ciutat_Vella
-7626809 Angela_Merkel
 7626829 Steinreihe
 7626843 Schalenstein
 7627035 Indre_By
@@ -32151,7 +32170,6 @@
 7683847 Blumenthal_(Bremen)
 7684094 Schwachhausen
 7684098 Vegesack
-7684181 Bauwerk_in_Lindau_(Bodensee)
 7684249 Person_des_Christentums_(Mecklenburg)
 7684336 Abgegangenes_Bauwerk_in_Leipzig
 7684355 Burglesum
@@ -32161,7 +32179,7 @@
 7684836 General_der_Infanterie_(Heer_der_Wehrmacht)
 7684838 General_der_Infanterie_(Reichswehr)
 7685416 Mitte_(Bremen)
-7686250 Burgenregion_Allgäu
+7686250 Burgenregion_Allgäu-Außerfern
 7686448 Generalleutnant_(Heer_der_Wehrmacht)
 7686451 Generalleutnant_(Luftwaffe_der_Wehrmacht)
 7686452 Generalmajor_(Heer_der_Wehrmacht)
@@ -33419,6 +33437,7 @@
 7888223 Divisionär_(Schweiz)
 7888260 Brigadier_(Schweiz)
 7888308 Oberst_(Schweiz)
+7888805 Hauptort_einer_Gemeinde_in_Niederösterreich
 7889143 Person_(HRR)
 7889817 Schriftsteller_(München)
 7890121 Übersetzungswissenschaftler
@@ -33508,6 +33527,7 @@
 7905068 Scombridae
 7905240 Organisation_(Amsterdam)
 7906296 Leutnant_(Sachsen)
+7906299 Rittmeister_(Sachsen)
 7906300 Major_(Sachsen)
 7906456 Grossrat_(Freiburg)
 7906773 Kommandeur_einer_Infanterie-Division_(Heer_der_Wehrmacht)
@@ -33583,6 +33603,7 @@
 7920685 Gewässersystem_Beringmeer
 7920712 Gewässersystem_Südchinesisches_Meer
 7920718 Gewässersystem_Tasmansee
+7920733 Gewässersystem_Beaufortsee
 7921610 General_der_Kavallerie_(Königreich_Preußen)
 7921670 Person_(Evangelisch-Lutherische_Kirche_in_Norddeutschland)
 7921710 Träger_des_Ordens_des_Heiligen_Georg
@@ -33646,6 +33667,7 @@
 7936645 Deutsch-israelische_Beziehungen
 7936777 Vizekönig_von_Peru
 7936804 Vizekönig_von_Neuspanien
+7936924 Datei:Bauwerk_in_Namibia
 7937895 Geographie_(Volksrepublik_China)
 7938003 Schloss_in_Europa
 7938171 Richter_(Landgericht_Stuttgart)
@@ -33800,6 +33822,7 @@
 7970709 Mitglied_des_Partidul_Național_Liberal
 7970957 Schienenfahrzeug_(Škoda)
 7971009 Ägyptische_Geschichte_(20._Jahrhundert)
+7971025 Ersterscheinung_1939
 7971129 Ort_in_den_Scottish_Borders
 7971271 Turnier_der_ATP_Challenger_Tour_2014
 7971370 Hochschullehrer_(Tierärztliche_Hochschule_Hannover)
@@ -33811,6 +33834,7 @@
 7972222 Archäologischer_Fundplatz_in_Skåne_län
 7972389 Gleinalpe
 7972443 Gewässersystem_Philippinensee
+7972506 Leuchtturm_in_Afrika
 7972741 Hochschullehrer_(Universidade_Federal_do_Rio_de_Janeiro)
 7972752 Pack-_und_Stubalpe
 7972756 Vorlage:Piktogramm
@@ -34539,6 +34563,7 @@
 8131275 Geschichte_(Venetien)
 8131307 Kunstfestival
 8131320 Geschichte_(Lombardei)
+8131358 Geschichte_(Toskana)
 8131518 Datei:Logo_(Hörfunksender_aus_Deutschland)
 8131580 Stadtbefestigung_in_Österreich
 8131989 Maler_(Chile)
@@ -34599,6 +34624,8 @@
 8147005 Geschichte_des_Alpenrheintals
 8148723 Geisel
 8148781 Basketball-Ozeanienmeisterschaft
+8148983 Basketballwettbewerb_in_Neuseeland
+8148984 Basketballwettbewerb_in_Australien
 8148997 Träger_des_Lippischen_Hausordens
 8149502 Umgenutztes_Bauwerk_in_Niederösterreich
 8149715 Gerechtigkeitsforschung
@@ -35682,7 +35709,6 @@
 8325446 Parteivorsitzender_(Polen)
 8325483 Retro-Design
 8325689 Unternehmen_(Salzburg)
-8325794 Geschichte_der_Krim
 8325860 Politik_1940
 8326086 Hochspringer_(Sowjetunion)
 8326104 800-Meter-Läufer_(Kenia)
@@ -35702,14 +35728,14 @@
 8326924 Pass_in_Niederösterreich
 8326960 Fußballspieler_(Hellas_Verona)
 8326966 Fußballspieler_(Brescia_Calcio)
-8326969 Fußballspieler_(AS_Bari)
+8326969 Fußballspieler_(SSC_Bari)
 8326979 Fußballspieler_(Atalanta_Bergamo)
 8326987 Fußballspieler_(Catania_SSD)
 8326990 Fußballspieler_(Udinese_Calcio)
 8326991 Fußballspieler_(FC_Empoli)
 8326998 Fußballspieler_(Calcio_Padova)
 8326999 Fußballspieler_(Vicenza_Calcio)
-8327018 Fußballspieler_(AS_Livorno)
+8327018 Fußballspieler_(US_Livorno_1915)
 8327019 Fußballtrainer_(AS_Rom)
 8327022 Fußballspieler_(Parma_Calcio_1913)
 8327025 Fußballspieler_(Cagliari_Calcio)
@@ -35726,7 +35752,6 @@
 8327570 Theophorer_Personenname
 8327609 Lied_von_Djorkaeff
 8327640 Politik_1922
-8327641 Politik_1923
 8327713 Politik_1932
 8327741 Politik_1933
 8327744 Fußballtrainer_(AC_Florenz)
@@ -35834,6 +35859,7 @@
 8330124 4-mal-400-Meter-Staffel-Läufer_(DDR)
 8330125 400-Meter-Läufer_(DDR)
 8330215 Sportler_(Budapest)
+8330311 3000-Meter-Hindernisläufer_(Vereinigte_Staaten)
 8330356 Verkehr_und_Umwelt
 8330382 Frühsozialist
 8330384 Person_(Sozialismus)
@@ -35890,6 +35916,7 @@
 8331868 Fußballtrainer_(Juventus_Turin)
 8331879 Fußballtrainer_(Brescia_Calcio)
 8331882 Fußballtrainer_(FC_Turin)
+8331883 Fußballtrainer_(Lazio_Rom)
 8331916 Fußballtrainer_(AC_Mailand)
 8331952 10-km-Straßenläufer_(Kenia)
 8332021 Schutzgebiet_der_Massachusetts_Audubon_Society
@@ -36013,6 +36040,7 @@
 8344654 4-mal-100-Meter-Staffel-Läufer_(China)
 8344655 100-Meter-Läufer_(China)
 8344675 Fußballspieler_(Rampla_Juniors)
+8344709 200-Meter-Läufer_(China)
 8344960 Geographie_(Fränkische_Schweiz)
 8344961 Gewässer_in_der_Fränkischen_Schweiz
 8345118 Linke_Rheinstrecke
@@ -36030,6 +36058,7 @@
 8346612 Fußballspieler_(Racing_Club_de_Montevideo)
 8346658 Auslandskorrespondent
 8346740 4-mal-400-Meter-Staffel-Läufer_(Tschechien)
+8346867 Stabhochspringer_(Frankreich)
 8347080 5000-Meter-Läufer_(Kanada)
 8347208 Teilnehmer_an_einer_Fußball-Weltmeisterschaft_(Russland)
 8347261 Chemiehistoriker
@@ -36124,7 +36153,6 @@
 8354431 Kulturdenkmal_in_Möckern
 8354530 Europameister_(400-Meter-Lauf)
 8354567 Europameister_(800-Meter-Lauf)
-8354669 Wikipedia:Förderprojekt_in_Umsetzung
 8354679 Wikipedia:Ausgesetztes_Förderprojekt
 8354680 Wikipedia:Abgeschlossenes_Förderprojekt
 8354686 Wikipedia:Förderprojekt_mit_Förderzusage
@@ -37416,6 +37444,7 @@
 8535395 Gemälde_von_Edvard_Munch
 8535547 Innerortsstraße_in_Magdeburg
 8535600 Drogenprävention
+8535609 Sammlung_(Bildende_Kunst)
 8535791 Fußballspieler_(SC_Pfullendorf)
 8536267 Fußballspieler_(Kataller_Toyama)
 8536605 Kind_(Bildende_Kunst)
@@ -37598,7 +37627,6 @@
 8556398 Spiel_2014
 8556467 Historische_Sendeanlage
 8556557 Kulturgeschichte_(Vereinigte_Staaten)
-8556854 Ärztliche_Aus-,_Weiter-_und_Fortbildung
 8557529 Fußballspieler_(Bonner_SC)
 8557761 Vorlage:Navigationsleiste_Politiker_(Deutsche_Demokratische_Republik)
 8558103 Auszeichnungen_für_Musikverkäufe
@@ -38097,6 +38125,7 @@
 8742077 Pflanze_mit_psychotropem_Wirkstoff
 8765818 Maler_(Salzburg)
 8765916 Unternehmer_(Wien)
+8766041 Volleyballtrainer_(Vereinigte_Staaten)
 8766112 Handballspieler_(TuS_Metzingen)
 8766304 Christentum_(4._Jahrhundert)
 8766309 Christentum_(9._Jahrhundert)
@@ -38224,9 +38253,12 @@
 8789150 Darstellender_Künstler_(Linz)
 8789195 Sportler_(Lillehammer)
 8789659 Geheimer_Oberfinanzrat
+8790304 Person_(Hoechst)
 8790341 Patricius_(Ostrom)
 8790352 Patricius_(Westrom)
 8790603 Oströmischer_Heermeister
+8790798 Strongylida
+8790800 Strongylida_(Ordnung)
 8791161 Elektrochemiker
 8791208 Fußballspieler_(Tottenham_Hotspur)
 8791972 Fußballspieler_(Üsküdar_Anadolu_1908_SK)
@@ -38791,7 +38823,7 @@
 8955111 Handballspieler_(Hypo_Niederösterreich)
 8955184 Handballspieler_(UHK_Krems)
 8955207 Individuelles_astronomisches_Objekt
-8955233 Handballspieler_(Handballclub_Fivers_Margareten)
+8955233 Handballspieler_(Fivers_WAT_Margareten)
 8955674 Basketballspieler_(Kapfenberg_Bulls)
 8955908 Sportler_(New_York_City)
 8955933 Basketballspieler_(Raiffeisen_Flyers_Wels)
@@ -38871,6 +38903,7 @@
 8968229 Musiker_(Mexiko)
 8968277 Geographie_(Haundorf)
 8968285 Geographie_(Treuchtlingen)
+8968290 Geographie_(Weißenburg_in_Bayern)
 8968377 Souterrain_in_Schottland
 8968457 Vorlage:Navigationsleiste_Verwaltungsgliederung_(Nepal)
 8968532 Gehöft_in_Schottland
@@ -38955,7 +38988,6 @@
 8988621 Eishockeyspieler_(HC_Alleghe)
 8988744 Eishockeyspieler_(Wiener_Eislauf-Verein)
 8988772 Eiskunstläufer_(Wiener_Eislauf-Verein)
-8988920 Channel_4
 8988994 Fußballspieler_(Union_St._Florian)
 8989066 Geographie_(Neuruppin)
 8989229 Eishockeyspieler_(KHL_Medveščak_Zagreb)
@@ -40069,6 +40101,7 @@
 9329932 Hinduistischer_Tempel_in_Asien
 9330007 Alexandre-Dumas-der-Ältere-Verfilmung
 9330190 Friedhof_in_Asien
+9330945 Ersterscheinung_2016
 9331750 Fußballspieler_(Beijing_Renhe)
 9331763 Fußballspieler_(FC_Volendam)
 9332557 Komponist_(Schweden)
@@ -40162,6 +40195,7 @@
 9352811 Formel-1-Rennwagen_(Lotus)
 9352824 Formel-1-Rennwagen_(McLaren)
 9352981 Länderkader_bei_den_Olympischen_Jugend-Winterspielen_2016
+9353169 Fußballspieler_(CD_Trasandino_de_Los_Andes)
 9353284 Fußballspieler_(Le_Havre_AC)
 9353307 Fußballspieler_(Portland_Timbers)
 9353533 1._Amateurliga_Rheinland
@@ -41139,6 +41173,7 @@
 9473525 Ersterwähnung_1372
 9473559 Ersterwähnung_1546
 9473623 Ersterwähnung_1324
+9473687 Ersterwähnung_1429
 9473790 Ersterwähnung_1136
 9473796 Ersterwähnung_1436
 9473822 Ersterwähnung_1095
@@ -41342,7 +41377,6 @@
 9495151 Fußballspieler_(Spartak_Trnava)
 9495152 Fußballspieler_(FK_Viktoria_Žižkov)
 9495229 Schiffsverlust_1915
-9495279 Schiffsverlust_(18._Jahrhundert)
 9495284 Schiffsverlust_1941
 9495299 Schiffsverlust_1917
 9495335 Schiffsverlust_1945
@@ -41627,6 +41661,7 @@
 9547972 Physikalisches_Prinzip_eines_Optischen_Bauteils
 9548925 Militärischer_Verband_der_Luftwaffe_(Schweiz)
 9548941 Ort_an_der_Rhone
+9549501 Handballspieler_(TSG_Altenhagen-Heepen)
 9549524 Hochschullehrer_(Forstliche_Hochschule_Tharandt)
 9549848 Kategorie-A-Bauwerk_in_South_Lanarkshire
 9550085 Person_(Stuttgarter_Zeitung)
@@ -41768,6 +41803,7 @@
 9574738 Flusssystem_Kainach_(Mur)
 9575140 Kulturdenkmal_in_Rottweil
 9575516 Tennisturnier_in_Cherbourg-en-Cotentin
+9575642 Olympiateilnehmer_(Eswatini)
 9575907 Büchsenmeister
 9575996 Schienenfahrzeug_(Dessauer_Waggonfabrik)
 9576087 Adélieland
@@ -41823,6 +41859,7 @@
 9586242 Kommissionsrat
 9586248 Kriegsrat
 9586398 Darstellungstheorie_von_Gruppen
+9586752 Tennisturnier_in_Cali
 9587401 Fußballspieler_(DJK_Gütersloh)
 9587505 Kinderbuchverlag
 9587867 Erzengel_Michael_als_Namensgeber
@@ -42043,6 +42080,7 @@
 9637204 Staatsrechtler_(19._Jahrhundert)
 9637391 Rechtshistoriker_(19._Jahrhundert)
 9637397 Rechtssoziologe_(20._Jahrhundert)
+9637409 Islamischer_Rechtsgelehrter_(20._Jahrhundert)
 9637416 Kriminologe_(20._Jahrhundert)
 9637520 Kirchenrechtler_(21._Jahrhundert)
 9637543 Kriminologe_(21._Jahrhundert)
@@ -42399,6 +42437,7 @@
 9718495 Album_2017
 9718897 Fish_(Kryptologie)
 9718946 Wikipedia:Checkuser/Anfrage_2017
+9719257 Digitale_Welt
 9719902 Fußballspieler_(AFC_United)
 9719952 Fußballspieler_(FC_Santa_Coloma)
 9720367 Acheuléen
@@ -42424,7 +42463,6 @@
 9725491 Hexerei_im_Film
 9725780 Liste_(Kinos_in_Berlin)
 9726063 Person_der_Anti-Freimaurerei
-9726347 Organisation_(Pretoria)
 9726402 Fußballspieler_(Tractor_Sazi_Täbris)
 9726817 Bildhauer_(Berlin)
 9726914 Musiker_(Malta)
@@ -42577,6 +42615,7 @@
 9760566 Historische_Organisation_(Frankfurt_am_Main)
 9760981 Person_(Charité)
 9761459 Geschichte_der_Seide
+9762718 Zuglauf_(Deutsche_Bundesbahn)
 9763756 Historische_Organisation_(Hannover)
 9764001 Livingston-Insel
 9764535 Minister_ohne_Geschäftsbereich_(Italien)
@@ -43010,6 +43049,7 @@
 9891685 Hügelgräberfeld
 9891704 Geographie_(Gemeinde_Göteborg)
 9891710 ScummVM-Spiel
+9891834 Landkreis_Changhua
 9892235 Marmorrelief
 9893830 Ort_am_Neckar
 9893917 Geschlossene_Spiele
@@ -43281,7 +43321,7 @@
 9939739 Eishockeyspieler_(New_Haven_Nighthawks)
 9939840 Kriegerdenkmal_im_Landkreis_Jerichower_Land
 9940179 Wüstung_in_Niederösterreich
-9940626 Daewoo_Shipbuilding_&_Marine_Engineering
+9940626 Hanwha_Ocean
 9941347 Zeichner_(Österreich)
 9941385 Zeichner_(Vereinigte_Staaten)
 9941404 Zeichner_(Italien)
@@ -43501,6 +43541,7 @@
 9966568 Fußballsaison_2013/14
 9966571 Fußballveranstaltung_2014
 9966843 Fließgewässer_im_Landkreis_Schwäbisch_Hall
+9966901 Eishockeyspieler_(Foreurs_de_Val-d’Or)
 9967206 Handballspieler_(Aalborg_Håndbold)
 9967232 Fließgewässer_im_Ostalbkreis
 9967378 Eishockeyspieler_(Tigres_de_Victoriaville)
@@ -44051,6 +44092,7 @@
 10110565 Fußballtrainer_(FC_São_Paulo)
 10110581 Fußballtrainer_(Olympique_Marseille)
 10110585 Geographie_(Wandlitz)
+10110609 Fußballtrainer_(FC_Santos)
 10110816 Mundschenk
 10110961 Wikipedia:Beitrag_zum_Asiatischen_Monat_2017
 10110966 Kämmerer_(Hofamt)
@@ -44190,7 +44232,6 @@
 10155269 Fußballtrainer_(FC_Sevilla)
 10155270 Fußballtrainer_(Betis_Sevilla)
 10155271 Fußballtrainer_(Espanyol_Barcelona)
-10155401 Balibo_(Verwaltungsamt)
 10156175 Baudenkmal_im_Landkreis_Rotenburg_(Wümme)
 10156210 Baudenkmal_im_Landkreis_Verden
 10156914 Königreich_Böhmen
@@ -44369,6 +44410,7 @@
 10206493 Doping_in_den_Niederlanden
 10206505 Doping_in_Belgien
 10206506 Doping_in_Bulgarien
+10206548 Doping_in_Indien
 10206663 Doping_in_Kenia
 10206743 Public_Health
 10206871 Straßenbestandteil
@@ -45203,6 +45245,7 @@
 10373952 LDPD-Funktionär
 10374389 Organisation_(Kampfmittelräumung_und_-beseitigung)
 10375057 Sportveranstaltung_in_Dhaka
+10375068 Sportveranstaltung_in_Harare
 10375309 Entdecker_eines_chemischen_Elements
 10375507 Gewässer_Neuguineas
 10375522 Ort_auf_Neuguinea
@@ -45446,6 +45489,7 @@
 10423351 Stadtoriginal_(Deutschland)
 10423398 Wettbewerb_der_Leichtathletik-Weltmeisterschaften_1993
 10423453 Basketballspieler_(Medipolis_SC_Jena)
+10423467 Geographie_(Bad_Oeynhausen)
 10423508 Eishockeysaison_1985/86
 10423512 Eishockeysaison_1984/85
 10423514 Eishockeysaison_1983/84
@@ -45712,6 +45756,7 @@
 10512227 Geographie_(Kalbe_(Milde))
 10513491 Tal_in_der_Woiwodschaft_Kleinpolen
 10514749 Unternehmen_im_CAC_Mid_60
+10514827 Baumeister_(Deutschland)
 10515164 Fotograf_(DDR)
 10515535 Geschichte_(Main-Tauber-Kreis)
 10515904 Eishockeyspieler_(Omaha_Knights,_1966–1975)
@@ -46082,7 +46127,6 @@
 10631932 Kupfersteinzeit_(Mitteleuropa)
 10632027 Raumfahrtmission_2019
 10632118 Politik_(Dili,_Gemeinde)
-10632694 Bobonaro_(Verwaltungsamt)
 10632774 Geographie_(Lautém,_Gemeinde)
 10632816 Geographie_(Werra-Suhl-Tal)
 10632928 Cartoonist_(Deutschland)
@@ -46716,7 +46760,7 @@
 10831747 Turnier_der_ATP_Challenger_Series_2004
 10831950 Umweltpolitik_(Vereinte_Nationen)
 10833002 Konflikt_um_den_Gazastreifen
-10833040 Israelisch-Palästinensischer_Konflikt
+10833040 Israelisch-palästinensischer_Konflikt
 10833138 Nakba
 10833147 Wandpfeilerkirche
 10833169 Organisation_(Nahostkonflikt)
@@ -46762,6 +46806,7 @@
 10843067 Gemeindeauflösung_2020
 10843073 Aufgelöst_2020
 10843074 Politik_2020
+10844113 Eishockeyspieler_(Michigan_Tech_Huskies)
 10844154 Eishockeyspieler_(Bowling_Green_Falcons)
 10846620 Monument_historique_seit_1840
 10846813 Im_Krieg_geentertes_Schiff
@@ -46840,6 +46885,7 @@
 10863641 Teilnehmer_der_Sommer-Universiade_2019
 10863654 Moräne
 10864087 Adelsgeschlecht_(Sachsen-Anhalt)
+10864293 Musik_(Luzern)
 10864362 Band_(London)
 10864734 Museum_im_Landkreis_Vorpommern-Rügen
 10864884 Gemeindegründung_1877
@@ -47270,7 +47316,7 @@
 10958284 Völkerkundemuseum_in_Deutschland
 10958442 Kirchengebäude_des_Kirchenkreises_Nürnberg
 10958928 Bauernhofmuseum_in_Deutschland
-10959479 Kirchengebäude_des_Kirchenkreises_München
+10959479 Kirchengebäude_des_Kirchenkreises_München_und_Oberbayern
 10959602 Kirchengebäude_des_Kirchenkreises_Regensburg
 10959665 Katastralgemeinde_im_Bezirk_Deutschlandsberg
 10960179 Ort_an_der_Garonne
@@ -47641,6 +47687,7 @@
 11110961 Heroldsbild
 11110992 Komtur_II._Klasse_des_Sächsischen_Zivilverdienstordens
 11110994 Ritter_I._Klasse_des_Sächsischen_Zivilverdienstordens
+11112106 Eishockeysaison_2020/21
 11112425 Familienmitglied_des_Adelsgeschlechts_Baudissin
 11112977 Woiwodschaftsstraße_in_der_Woiwodschaft_Heiligkreuz
 11113666 Geographie_(Sankt_Veit_an_der_Glan)
@@ -48036,6 +48083,7 @@
 11250766 Familienmitglied_des_Hauses_Windsor
 11251662 Wettiner_(Belgische_Linie)
 11251793 Träger_der_Wirtschaftsmedaille_des_Landes_Baden-Württemberg
+11252415 Asienspielesieger_(Schwimmen)
 11252568 Filmjahr_2022
 11252609 Sieger_bei_den_Commonwealth_Games_(Schwimmen)
 11252615 Asienmeister_(Ringen)
@@ -48669,6 +48717,7 @@
 11462233 Sekretär_des_ZK_der_SED
 11462386 Bauwerk_in_Nordenham
 11462616 Bodendenkmal_im_Kreis_Schleswig-Flensburg
+11463429 Krankheit_im_Film
 11463431 Psychopathologie_im_Film
 11463465 Behinderung_im_Film
 11463787 Geographie_(Clenze)
@@ -48936,6 +48985,7 @@
 11544212 Burgruine_in_der_Emilia-Romagna
 11544640 Villa_in_der_Emilia-Romagna
 11544915 Schweizerische_Familie
+11545841 Seimas-Beamter
 11546052 Hochschullehrer_(National_University_of_Singapore)
 11546160 Verein_(Soziale_Arbeit)
 11548396 Ort_am_Lot
@@ -49152,6 +49202,7 @@
 11606031 Benutzer:Eisenbahn
 11606294 Benutzer:Energie
 11606304 Erneuerbare_Energien_(Deutschland)
+11606438 Artillerieverband_(Deutsches_Kaiserreich)
 11606802 Absolvent_der_Universität_Regensburg
 11607337 Benutzer:Freie_Software
 11607504 Benutzer:Alkohol
@@ -49237,7 +49288,6 @@
 11646686 Handballspieler_(HC_Empor_Rostock)
 11647000 William_Cramp_and_Sons
 11647282 Benutzer:aus_der_Milchstraße
-11647339 Benutzer:aus_der_Lokalen_Gruppe
 11647645 Politisches_Schlagwort_(Englisch)
 11648064 Bösartige_Tumorbildung
 11648111 Admiralitätswerft_(Sankt_Petersburg)
@@ -49422,6 +49472,7 @@
 11710074 Oase_(Sahara)
 11710368 Pferdesportart
 11710424 Teilnehmer_der_Leichtathletik-Halleneuropameisterschaften_2021
+11711127 Bauwerk_des_Historismus_in_Potsdam
 11711251 Wikipedia:Artikel_über_Polen_im_Wettbewerb_Wikimedia_CEE_Spring_2021
 11711266 Wikipedia:Artikel_des_Wettbewerbs_CEE_Spring_2021,_Thema_Frauen
 11712658 Politische_Organisation_(Weimarer_Republik)
@@ -49588,6 +49639,7 @@
 11794246 Wintersport_(Italien)
 11794354 Vorlage:Navigationsleiste_Personen_(American_Football)
 11794767 Fließgewässer_im_Landkreis_Ludwigsburg
+11794917 Dogaressa
 11795885 Hotel_in_Paradise_(Nevada)
 11796567 Amt_(Oberhessen,_Provinz_Hessen-Darmstadt)
 11797094 Pokerturnier_in_Paradise_(Nevada)
@@ -49756,6 +49808,7 @@
 11862802 Griechische_Gottheit_als_Namensgeber_für_einen_Asteroiden
 11862812 Gestalt_der_griechischen_Mythologie_als_Namensgeber_für_einen_Asteroiden
 11863652 Skulptur_in_Hannover
+11864069 Profaniertes_Kirchengebäude_in_Deutschland
 11864271 Römische_Gottheit_als_Namensgeber_für_einen_Asteroiden
 11864317 Profaniertes_Kirchengebäude_in_Sachsen-Anhalt
 11864321 Profaniertes_Kirchengebäude_in_Baden-Württemberg
@@ -49806,6 +49859,7 @@
 11894130 Geographie_(Bezirk_Bregenz)
 11894139 Geographie_(Bezirk_Innsbruck-Land)
 11894348 Teilnehmer_der_Sommer-Paralympics_2020
+11894540 Gewässer_im_Bezirk_Bregenz
 11894590 Gewässer_im_Bezirk_Innsbruck-Land
 11897312 Benutzer:Militärgeschichte
 11897824 Teilnehmer_am_Dresdner_Maiaufstand
@@ -49942,7 +49996,6 @@
 11930230 Ort_an_der_Vienne
 11930733 Erzwespen
 11930735 Chalcidoidea
-11930871 Sportveranstaltung_in_Accra
 11931709 Geographie_(Sankt_Gilgen)
 11932125 Ort_an_der_Aisne
 11932199 Widerstandsgruppe_gegen_den_Nationalsozialismus
@@ -50174,6 +50227,7 @@
 12042236 Basketballspieler_(Sacramento_Kings)
 12042239 Basketballspieler_(Houston_Rockets)
 12042244 Basketballspieler_(Memphis_Grizzlies)
+12042246 Basketballspieler_(New_Orleans_Pelicans)
 12042247 Basketballspieler_(San_Antonio_Spurs)
 12042755 Geographie_(Matrei_in_Osttirol)
 12042758 Geographie_(Prägraten_am_Großvenediger)
@@ -50186,6 +50240,7 @@
 12045361 Teilnehmer_an_den_Commonwealth_Games_(Neuseeland)
 12045718 Geographie_(Werfen)
 12045880 Gestorben_2022
+12046041 Fußballspieler_(Deportes_Iberia)
 12046186 Ort_an_der_Somme
 12046868 Provinzialrat_(Preußen)
 12047320 Teilnehmer_am_Melodi_Grand_Prix
@@ -50218,6 +50273,7 @@
 12055265 Aldeia_in_Ainaro_(Gemeinde)
 12056109 Ort_an_der_Aude
 12056207 Geographie_(Scheidegg)
+12056251 Politik_(Rom)
 12056411 Nekrolog_20._Jahrhundert
 12056422 Nekrolog_19._Jahrhundert
 12056424 Nekrolog_18._Jahrhundert
@@ -50423,6 +50479,7 @@
 12160921 Fluss_in_Paraná
 12161153 Monoazofarbstoff
 12161211 Wintersport_(Finnland)
+12161760 Transfusionsmediziner
 12163993 Robert-Schumann-Preisträger
 12167155 Teilnehmer_an_den_Commonwealth_Games_(Schottland)
 12167228 Seekriegsoperation_im_Zweiten_Weltkrieg
@@ -50673,7 +50730,7 @@
 12323981 Amt_in_der_Provinz_Westfalen
 12324353 Leichtathletikwettbewerb_in_ar-Rayyan_(Gemeinde)
 12330088 Handschrift_(5._Jahrhundert)
-12330594 Kanonische_Sammlung
+12330594 Kanones-Sammlung
 12332273 NS-Zwangsarbeit_in_Niederösterreich
 12332461 Innenstadt-Ost_(Karlsruhe)
 12332483 Innenstadt-West_(Karlsruhe)
@@ -51122,6 +51179,7 @@
 12545448 Modezeichner
 12547283 Naturkatastrophe_2023
 12548472 Nationaler_Basketballverband
+12548538 Ehemalige_Gemeinde_im_Bezirk_Amstetten
 12548782 Organisation_(internationaler_Handel)
 12549415 Kommentur_I._Klasse_des_Friedrichs-Ordens
 12549418 Kommentur_II._Klasse_des_Friedrichs-Ordens
@@ -51399,6 +51457,7 @@
 12723144 Fußballspieler_(Comercial_FC,_Ribeirão_Preto)
 12725391 Opfer_des_Flugunfalls_von_Smolensk_2010
 12726357 Pokémon-Spiel
+12727665 Motorsportsaison_2024
 12728193 Mitglied_des_Parlaments_von_Vanuatu
 12729791 Vulkan_in_Indonesien
 12730044 Anděl-Preisträger
@@ -51474,7 +51533,7 @@
 12767013 Census-designated_place_in_New_York
 12767162 Teilnehmer_am_Luxon_Invitational_(London)
 12767395 Stealth-Computerspiel
-12767397 Fernsehfilm_(Lifetime_Television)
+12767397 Fernsehfilm_(Lifetime)
 12767944 Raumordnung_(Deutschland)
 12768177 Turnier_der_PSA_World_Tour_2023/24
 12768513 Kaderliste_(Fußball)
@@ -51564,6 +51623,8 @@
 12839940 Orographie_des_Einzugsgebiets_Pöls
 12840100 Schweizer_Cup_(Fussball,_Männer)
 12842589 Deutsche_Organisation_(Bauwesen)
+12843383 Person_(Funk,_Medienangebot)
+12844526 Partei_(Dritte_Französische_Republik)
 12844533 Außenpolitik_(Dritte_Französische_Republik)
 12847057 Person_(Ungarische_Räterepublik)
 12847933 Österreichischer_Emigrant_in_der_Schweiz
@@ -51884,6 +51945,7 @@
 13048219 Inzest_im_Film
 13048727 Multisportveranstaltung_in_den_Vereinigten_Staaten
 13049543 Unternehmensgründung_1985
+13049673 Vereinsgründung_1985
 13049757 Wikipedia:Artikel_über_Russland_im_Wettbewerb_Wikimedia_CEE_Spring_2024
 13049761 Wikipedia:Artikel_des_Wettbewerbs_CEE_Spring_2024,_Thema_Sport
 13049763 Wikipedia:Artikel_des_Wettbewerbs_CEE_Spring_2024,_Thema_Frauen
@@ -51908,6 +51970,7 @@
 13054243 Vereinsgründung_1975
 13056855 Fußballspieler_(Dresdner_Sport-Club)
 13057062 Unternehmensgründung_1986
+13057063 Vereinsgründung_1986
 13058211 Vorlage:Teilnehmerland_am_Eurovision_Young_Musicians
 13058655 Klassizistisches_Bauwerk_in_Neapel
 13059424 FA-Cup-Sieger
@@ -51949,6 +52012,7 @@
 13077776 Wirtschaftshochschule_in_Deutschland
 13078101 Wirtschaftshochschule_in_Frankreich
 13078387 Wikipedia:Artikel_des_Wettbewerbs_CEE_Spring_2024,_Thema_Geographie
+13078599 Hörbuchsprecher
 13078885 Redenschreiber
 13081045 Schweizer_Familienname
 13082555 Mitglied_der_Reichsfilmkammer
@@ -51960,6 +52024,7 @@
 13087668 Fließgewässer_im_Landkreis_Darmstadt-Dieburg
 13090108 Kapelle_im_Landkreis_Ravensburg
 13090257 Kapelle_im_Main-Tauber-Kreis
+13091427 Portal:Sudan
 13091849 Geographie_(Oblus_Yssyk-Köl)
 13093651 Bibelhandschrift_(3._Jahrhundert)
 13098264 Segelfluggelände_in_Baden-Württemberg
@@ -52042,6 +52107,7 @@
 13125047 Vereinsgründung_2003
 13125088 Unternehmensgründung_1983
 13125098 Vereinsgründung_2006
+13125105 Vereinsgründung_1983
 13125167 Unternehmensgründung_1982
 13125238 Unternehmensgründung_1984
 13125303 Unternehmensgründung_1988
@@ -52179,6 +52245,7 @@
 13172558 Unternehmensgründung_2009
 13172650 Curlingwettbewerb_in_Kanada
 13172832 Vereinsgründung_1982
+13172835 Vereinsgründung_1984
 13173010 Vereinsgründung_2010
 13173014 Unternehmensgründung_2010
 13173035 Unternehmensgründung_2011
@@ -52397,6 +52464,7 @@
 13199498 Künstlerduo_(Kleinkunst)
 13199612 Gedichtzyklus
 13200699 3×3-Basketballspieler
+13200896 Träger_der_Ehrenblattspange_des_Heeres
 13201210 Träger_der_Medaille_der_Waffenbrüderschaft
 13201293 Pierre-Simon_Laplace_als_Namensgeber
 13202119 Baudenkmal_in_Otterndorf
@@ -52465,8 +52533,28 @@
 13238617 Kunstflugzeug
 13239197 Formel-1-Computerspiel
 13240936 Amtsgericht_(Provinz_Schlesien)
+13244785 Wikipedia:Beitrag_zum_Asiatischen_Monat_2024
 13245845 Französist
 13245859 Romanistischer_Mediävist
 13246332 Liste_(fiktive_Figuren)
 13250732 Biergeschichte_(Deutschland)
 13254235 Schmalrumpfflugzeug
+13256060 Pseudocrenilabrini_(Tribus)
+13256061 Pseudocrenilabrini
+13256069 Pseudotropheina
+13256071 Mbuna
+13256245 Stadt_(Schweiz)
+13260099 Berg_in_Balibo_(Verwaltungsamt)
+13261243 Emigrant_in_Bahrain
+13261370 Facharztbezeichnung_in_Deutschland
+13261387 US-amerikanischer_Emigrant_im_Vereinigten_Königreich
+13263914 Norwegischer_Emigrant_in_den_Vereinigten_Staaten
+13264428 Endemische_Pflanze_der_Philippinen
+13264628 Fernsehserie_(Home_Box_Office)
+13267722 Geschütz_Kaliber_152_mm
+13267767 Geschütz_Kaliber_155_mm
+13268126 Weiterbildungsbezeichnung_in_Deutschland
+13269093 Hofbeamter_(Dresden)
+13269348 Lied_von_Mike_Shinoda
+13269887 Dorf_(Schweiz)
+13272616 Chloranilid

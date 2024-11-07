@@ -1,1 +1,1 @@
-{"name": "Medizinisches_Fachgebiet", "id": 2026706, "predecessors": [{"name": "Wissenschaftliches_Fachgebiet", "id": 2154622}, {"name": "Wissen", "id": 408867}], "successors": []}
+{"name": "Medizinisches_Fachgebiet", "id": 2026706, "predecessors": [{"name": "Gesundheitswesen_(Deutschland)", "id": 1742912}, {"name": "Heilberuf", "id": 620312}, {"name": "Wissenschaftliches_Fachgebiet", "id": 2154622}, {"name": "Wissen", "id": 408867}], "successors": [{"name": "Facharztbezeichnung_in_Deutschland", "id": 13261370}]}
