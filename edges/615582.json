@@ -1,1 +1,1 @@
-{"name": "VoIP", "id": 615582, "predecessors": [{"name": "Telefonie", "id": 5635002}, {"name": "Internet", "id": 240464}], "successors": []}
+{"name": "VoIP", "id": 615582, "predecessors": [{"name": "Digitale_Kommunikation", "id": 9263842}, {"name": "Telefonie", "id": 5635002}, {"name": "Internet", "id": 240464}], "successors": []}

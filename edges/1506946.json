@@ -1,1 +1,1 @@
-{"name": "Mountainbike", "id": 1506946, "predecessors": [{"name": "Outdoor", "id": 826737}, {"name": "Straßenverkehr", "id": 235275}], "successors": [{"name": "Mountainbikefahrer", "id": 2889004}]}
+{"name": "Mountainbike", "id": 1506946, "predecessors": [{"name": "Outdoor", "id": 826737}, {"name": "Straßenverkehr", "id": 235275}], "successors": [{"name": "Mountainbikefahrer", "id": 2889004}, {"name": "Mountainbike-Weltmeisterschaften_nach_Jahr", "id": 12727906}]}

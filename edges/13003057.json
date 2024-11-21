@@ -1,1 +1,1 @@
-{"name": "Sängersklavin", "id": 13003057, "predecessors": [{"name": "Sklave", "id": 1853941}, {"name": "Sänger", "id": 235529}], "successors": []}
+{"name": "Sängersklavin", "id": 13003057, "predecessors": [{"name": "Sklave", "id": 1853941}, {"name": "Sänger", "id": 235529}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}
