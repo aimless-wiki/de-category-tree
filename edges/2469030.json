@@ -1,1 +1,1 @@
-{"name": "Agrikulturchemiker", "id": 2469030, "predecessors": [{"name": "Agrarwissenschaftler", "id": 495040}, {"name": "Chemie", "id": 235238}], "successors": []}
+{"name": "Agrikulturchemiker", "id": 2469030, "predecessors": [{"name": "Chemie", "id": 235238}, {"name": "Agrarwissenschaft", "id": 863868}], "successors": []}

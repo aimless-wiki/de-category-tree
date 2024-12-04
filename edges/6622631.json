@@ -1,1 +1,1 @@
-{"name": "Pelzhändler", "id": 6622631, "predecessors": [{"name": "Kaufmann", "id": 1698030}, {"name": "Unternehmer_(Handel)", "id": 3717853}, {"name": "Handel", "id": 419440}], "successors": [{"name": "Kürschner", "id": 7638554}]}
+{"name": "Pelzhändler", "id": 6622631, "predecessors": [{"name": "Kaufmann", "id": 1698030}, {"name": "Pelzhandel", "id": 8489141}, {"name": "Unternehmer_(Handel)", "id": 3717853}], "successors": [{"name": "Kürschner", "id": 7638554}]}

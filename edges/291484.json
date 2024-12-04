@@ -1,1 +1,1 @@
-{"name": "Theaterregisseur", "id": 291484, "predecessors": [{"name": "Theaterschaffender", "id": 4995998}, {"name": "Theater", "id": 245755}, {"name": "!Hauptkategorie", "id": 235489}], "successors": []}
+{"name": "Theaterregisseur", "id": 291484, "predecessors": [{"name": "Regisseur", "id": 236273}, {"name": "Theaterschaffender", "id": 4995998}, {"name": "Theater", "id": 245755}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Erfrischungsgetränkehersteller", "id": 5879127, "predecessors": [{"name": "Getränkehersteller", "id": 328479}, {"name": "Alltagskultur", "id": 595902}], "successors": []}
+{"name": "Erfrischungsgetränkehersteller", "id": 5879127, "predecessors": [{"name": "Getränkehersteller", "id": 328479}, {"name": "Getränk", "id": 238372}], "successors": []}

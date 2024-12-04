@@ -1,1 +1,1 @@
-{"name": "Hörspielregisseur", "id": 1293985, "predecessors": [{"name": "Radio-Feature", "id": 666971}, {"name": "!Hauptkategorie", "id": 235489}, {"name": "Hörspiel", "id": 256171}], "successors": []}
+{"name": "Hörspielregisseur", "id": 1293985, "predecessors": [{"name": "Radio-Feature", "id": 666971}, {"name": "Regisseur", "id": 236273}, {"name": "Hörspiel", "id": 256171}], "successors": []}
