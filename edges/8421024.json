@@ -1,1 +1,1 @@
-{"name": "Paläobotaniker", "id": 8421024, "predecessors": [{"name": "Paläontologe", "id": 272598}, {"name": "Biologe", "id": 235039}, {"name": "Botanik", "id": 242234}], "successors": []}
+{"name": "Paläobotaniker", "id": 8421024, "predecessors": [{"name": "Botaniker", "id": 313036}, {"name": "Paläontologe", "id": 272598}, {"name": "Botanik", "id": 242234}], "successors": []}
