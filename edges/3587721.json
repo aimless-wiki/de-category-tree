@@ -1,1 +1,1 @@
-{"name": "Lebensmitteleinzelhändler", "id": 3587721, "predecessors": [{"name": "Handel", "id": 419440}, {"name": "Einzelhandel", "id": 593207}], "successors": [{"name": "Supermarkt", "id": 10543827}]}
+{"name": "Lebensmitteleinzelhändler", "id": 3587721, "predecessors": [{"name": "Organisation_(Lebensmittelwirtschaft)", "id": 8575155}, {"name": "Handel", "id": 419440}, {"name": "Einzelhandel", "id": 593207}], "successors": [{"name": "Supermarkt", "id": 10543827}]}

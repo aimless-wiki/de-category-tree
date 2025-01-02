@@ -1,1 +1,1 @@
-{"name": "Recycling", "id": 2096609, "predecessors": [{"name": "Abfallwirtschaft", "id": 1857277}, {"name": "Nachhaltigkeit", "id": 740443}], "successors": [{"name": "Abwrackung_in_Aliağa", "id": 12894735}, {"name": "Abwrackung_in_Alang", "id": 12894736}]}
+{"name": "Recycling", "id": 2096609, "predecessors": [{"name": "Abfallwirtschaft", "id": 1857277}, {"name": "Nachhaltigkeit", "id": 740443}], "successors": [{"name": "Abwrackung_in_Aliağa", "id": 12894735}, {"name": "Abwrackung_in_Alang", "id": 12894736}, {"name": "Abwrackung_in_Kaohsiung", "id": 12952184}]}

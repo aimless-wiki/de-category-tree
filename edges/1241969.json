@@ -1,1 +1,1 @@
-{"name": "Sanitärtechnik", "id": 1241969, "predecessors": [{"name": "Bad_und_WC", "id": 879298}, {"name": "Bauwesen", "id": 310907}], "successors": [{"name": "Kanalisation", "id": 358287}, {"name": "Fluidelement", "id": 287118}]}
+{"name": "Sanitärtechnik", "id": 1241969, "predecessors": [{"name": "Bad_und_WC", "id": 879298}, {"name": "Bauwesen", "id": 310907}], "successors": [{"name": "Kanalisation", "id": 358287}]}

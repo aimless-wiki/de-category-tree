@@ -1,1 +1,1 @@
-{"name": "Fluidelement", "id": 287118, "predecessors": [{"name": "Fluidtechnik", "id": 867314}, {"name": "Maschinenelement", "id": 285818}, {"name": "Sanitärtechnik", "id": 1241969}], "successors": [{"name": "Filter_(Fluidtechnik)", "id": 3660684}, {"name": "Ventil", "id": 1609082}]}
+{"name": "Fluidelement", "id": 287118, "predecessors": [{"name": "Fluidtechnik", "id": 867314}, {"name": "Maschinenelement", "id": 285818}, {"name": "Wasserversorgung", "id": 1488726}], "successors": [{"name": "Filter_(Fluidtechnik)", "id": 3660684}, {"name": "Ventil", "id": 1609082}]}

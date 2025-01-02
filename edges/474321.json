@@ -1,1 +1,1 @@
-{"name": "Euklidische_Geometrie", "id": 474321, "predecessors": [{"name": "Geometrie", "id": 243850}, {"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Raumgeometrie", "id": 475151}, {"name": "Ebene_Geometrie", "id": 475152}, {"name": "Trigonometrische_Funktion", "id": 1149197}]}
+{"name": "Euklidische_Geometrie", "id": 474321, "predecessors": [{"name": "Geometrie", "id": 243850}], "successors": [{"name": "Raumgeometrie", "id": 475151}, {"name": "Ebene_Geometrie", "id": 475152}, {"name": "Trigonometrische_Funktion", "id": 1149197}]}

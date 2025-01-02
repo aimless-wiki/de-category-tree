@@ -1,1 +1,1 @@
-{"name": "Quantenphysik", "id": 251725, "predecessors": [{"name": "!Hauptkategorie", "id": 235489}], "successors": [{"name": "Quantenmechanik", "id": 1130008}, {"name": "Quantenfeldtheorie", "id": 3368068}, {"name": "Laserphysik", "id": 3899164}]}
+{"name": "Quantenphysik", "id": 251725, "predecessors": [{"name": "Physik", "id": 235237}], "successors": [{"name": "Quantenmechanik", "id": 1130008}, {"name": "Quantenfeldtheorie", "id": 3368068}, {"name": "Laserphysik", "id": 3899164}]}
