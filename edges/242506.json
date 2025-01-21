@@ -1,1 +1,1 @@
-{"name": "Fleisch", "id": 242506, "predecessors": [{"name": "Tierisches_Produkt", "id": 11485866}, {"name": "Lebensmittel", "id": 240131}], "successors": [{"name": "Rindfleisch", "id": 4902003}, {"name": "Schweinefleisch", "id": 4902236}, {"name": "Geflügelspeise", "id": 8516185}]}
+{"name": "Fleisch", "id": 242506, "predecessors": [{"name": "Nachhaltiges_Bauen", "id": 13000486}, {"name": "Lebensmittel", "id": 240131}], "successors": [{"name": "Rindfleisch", "id": 4902003}, {"name": "Schweinefleisch", "id": 4902236}, {"name": "Geflügelspeise", "id": 8516185}]}

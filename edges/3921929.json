@@ -1,1 +1,1 @@
-{"name": "Zubringerflugzeug", "id": 3921929, "predecessors": [{"name": "Ziviler_Flugzeugtyp", "id": 239346}], "successors": []}
+{"name": "Zubringerflugzeug", "id": 3921929, "predecessors": [{"name": "Kurzstreckenflugzeug", "id": 8587773}, {"name": "Ziviler_Flugzeugtyp", "id": 239346}, {"name": "Personenverkehr", "id": 7804459}], "successors": []}

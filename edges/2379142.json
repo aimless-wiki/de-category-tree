@@ -1,1 +1,1 @@
-{"name": "Tierisches_Gift", "id": 2379142, "predecessors": [{"name": "Tierisches_Produkt", "id": 11485866}, {"name": "Biochemie", "id": 281260}], "successors": []}
+{"name": "Tierisches_Gift", "id": 2379142, "predecessors": [{"name": "Biochemie", "id": 281260}, {"name": "Nachhaltiges_Bauen", "id": 13000486}], "successors": []}

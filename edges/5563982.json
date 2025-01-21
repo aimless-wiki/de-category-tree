@@ -1,1 +1,1 @@
-{"name": "Landwirtschaftskammerfunktionär", "id": 5563982, "predecessors": [{"name": "Person_(Landwirtschaft)", "id": 6691477}, {"name": "Verbandsfunktionär", "id": 3225702}], "successors": []}
+{"name": "Landwirtschaftskammerfunktionär", "id": 5563982, "predecessors": [{"name": "Verbandsfunktionär", "id": 3225702}, {"name": "Agrarpolitik", "id": 587196}], "successors": []}

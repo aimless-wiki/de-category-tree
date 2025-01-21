@@ -1,1 +1,1 @@
-{"name": "Bahnradfahrer", "id": 4038841, "predecessors": [{"name": "Straßenverkehr", "id": 235275}], "successors": []}
+{"name": "Bahnradfahrer", "id": 4038841, "predecessors": [{"name": "Person_(Radverkehr)", "id": 8545201}, {"name": "Straßenverkehr", "id": 235275}], "successors": []}

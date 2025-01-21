@@ -1,1 +1,1 @@
-{"name": "Postflugzeug", "id": 4542819, "predecessors": [{"name": "Ziviler_Flugzeugtyp", "id": 239346}, {"name": "Philatelie", "id": 300013}], "successors": []}
+{"name": "Postflugzeug", "id": 4542819, "predecessors": [{"name": "Ziviler_Flugzeugtyp", "id": 239346}, {"name": "Luftverkehr", "id": 242461}], "successors": []}

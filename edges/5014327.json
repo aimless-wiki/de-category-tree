@@ -1,1 +1,1 @@
-{"name": "Straßentyp", "id": 5014327, "predecessors": [{"name": "Straßenverkehr", "id": 235275}], "successors": [{"name": "Fernstraße", "id": 354296}, {"name": "Altstraße", "id": 1049294}, {"name": "Ringstraße", "id": 7605270}]}
+{"name": "Straßentyp", "id": 5014327, "predecessors": [{"name": "Straßenverkehr", "id": 235275}], "successors": []}

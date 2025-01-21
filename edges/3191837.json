@@ -1,1 +1,1 @@
-{"name": "Sauerstoffhaltiger_ungesättigter_Heterocyclus", "id": 3191837, "predecessors": [{"name": "Sauerstoffverbindung", "id": 1958642}], "successors": [{"name": "Furan", "id": 697426}, {"name": "Dihydropyran", "id": 4110193}, {"name": "Benzodioxol", "id": 5458347}]}
+{"name": "Sauerstoffhaltiger_ungesättigter_Heterocyclus", "id": 3191837, "predecessors": [{"name": "Sauerstoffverbindung", "id": 1958642}], "successors": [{"name": "Dihydropyran", "id": 4110193}, {"name": "Benzodioxol", "id": 5458347}, {"name": "Furan", "id": 697426}]}

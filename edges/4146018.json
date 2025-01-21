@@ -1,1 +1,1 @@
-{"name": "Dachdeckung", "id": 4146018, "predecessors": [{"name": "Dach", "id": 789907}], "successors": []}
+{"name": "Dachdeckung", "id": 4146018, "predecessors": [{"name": "Baustoff", "id": 282209}, {"name": "Dach", "id": 789907}], "successors": []}

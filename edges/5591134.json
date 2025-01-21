@@ -1,1 +1,1 @@
-{"name": "Pelzart", "id": 5591134, "predecessors": [{"name": "Pelz", "id": 3373487}, {"name": "Tierisches_Produkt", "id": 11485866}, {"name": "Werkstoffkunde", "id": 239338}], "successors": []}
+{"name": "Pelzart", "id": 5591134, "predecessors": [{"name": "Pelz", "id": 3373487}, {"name": "Werkstoffkunde", "id": 239338}, {"name": "Nachhaltiges_Bauen", "id": 13000486}], "successors": []}
